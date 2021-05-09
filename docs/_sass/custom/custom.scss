@@ -1,0 +1,22 @@
+.side_bar{
+    background-color: #f5f6fa;
+    opacity: 0.4;
+    background-image: radial-gradient(#3d3d3d 0.5px, #f5f6fa 0.5px);
+    background-size: 10px 10px;
+}
+
+th, td {
+    min-width: 20px !important;
+}
+
+table.center_table td {
+    text-align: center;
+}
+
+.main-content h4 {
+    font-weight: 800;
+}
+
+img.half_width {
+    max-width: 60%; 
+}
