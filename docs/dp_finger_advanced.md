@@ -31,7 +31,7 @@ Of course, you can use the ring finger slide technique -- sliding your ring fing
 
 ## Middle-5 technique
 
-![](/assets/img/dp/eca4915.png)
+![](/assets/img/dp/eca4915.png){: .half_width }
 
 Middle-5 position refers to when the middle finger is in charge of button 5 by bending down the finger, and hitting button 6 with your ring finger.
 
@@ -51,7 +51,7 @@ In my case, I tried to get used to this at ★6, but I was already too used to t
 
 ## Middle-6 technique
 
-![](/assets/img/dp/eca4916.png)
+![](/assets/img/dp/eca4916.png){: .half_width }
 
 Middle-6 is the opposite of of middle-5. As you can see above, the middle finger is stretched out to hit button 6, while the ring finger bends downwards to handle button 5. Middle-6 is more comfortable than middle-5; it also does not deviate too heavily from the basic hand position, so it can be used even in high-density patterns.
 

@@ -160,4 +160,4 @@ License for this page: CC BY-NC-SA 2.0 KR
 
 This page is based a translation of [this page on namu.wiki](https://namu.wiki/w/beatmania%20IIDX/%EC%86%90%EB%B0%B0%EC%B9%98).
 
-Also referred to [the blog entry from the-safari on playstyles](https://the-safari.com/2913).
+Also see [the blog entry from the-safari on playstyles](https://the-safari.com/2913).

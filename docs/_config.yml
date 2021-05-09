@@ -13,3 +13,6 @@ ga_tracking_anonymize_ip: true
 aux_links:
   "see on GitHub":
     - "//github.com/minsang-github/iidxguide"
+
+back_to_top: true
+back_to_top_text: "Back to top"

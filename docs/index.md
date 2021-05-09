@@ -22,4 +22,4 @@ The guide assumes that you are either playing on:
 
 Infinitas-specific sections will be denoted with [INF], and arcade-specific sections will have [AC].
 
- 
+Continue reading by picking an item from the menu.
