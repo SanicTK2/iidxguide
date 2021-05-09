@@ -33,9 +33,9 @@ This FAQ only covers the newer ones mentioned in A.
 * Hold start+select+1 for a second to switch input modes. If button 2 blinks after doing this, you're in Infinitas mode. If button 4 blinks, you're in LR2 mode. If button 6 blinks, you're in HID-light mode.
     * Use Infinitas mode for e-amusement cloud Infinitas.
     * Use LR2 mode for LR2 (but not beatoraja)
-    * Use HID-light for games requiring tools, and beatoraja.
+    * Use HID-light for games that require it, and beatoraja.
 * Hold start+select+2 for a second to turn off all LEDs.
-* Hold start+select+7 to enable multifunction mode. When this is enabled, you can single tap select to emulate button 10 input, double tap to emulate button 11 input, and triple tap to emulate 10 and 11. This is useful for accessing E2 and E3 buttons in Infinitas, or VEFCT and Effect buttons in tools.
+* Hold start+select+7 to enable multifunction mode. When this is enabled, you can single tap select to emulate button 10 input, double tap to emulate button 11 input, and triple tap to emulate 10 and 11. This is useful for accessing E2 and E3 buttons in Infinitas, for example.
 * Unlike some controllers, these settings are saved, even when you unplug the controller.
 
 Original source is [this image](https://www.gamo2.com/en/images/companies/1/ss001.png?1479545558251).
@@ -50,11 +50,11 @@ Original source is [this image](https://www.gamo2.com/en/images/companies/1/ss00
  
 3. Make sure you're on the latest firmware. If you just purchased the controller, it's likely that it came with an ancient firmware - Dao does NOT ship with newest firmware installed! See https://www.gamo2.com/en/firmware/ for instructions. v1.23 is the latest as of this writing. Some people swear by v1.22, that's fine too. Check their FAQ for details.
  
-4. Now that you upgraded the firmware, try switching game modes. See the link from #3 and look for "how to switch mode". Make sure you're in the right mode. A lot of people get stuck in the wrong mode and get confused why the turntables aren't working. Once you're in the right mode, you'll need to remap your input again in tools.
+4. Now that you upgraded the firmware, try switching game modes. See the link from #3 and look for "how to switch mode". Make sure you're in the right mode. A lot of people get stuck in the wrong mode and get confused why the turntables aren't working. Once you're in the right mode, you'll need to remap your input again in the game's configuration.
  
 5. Open up USB game controllers control panel again. You should see a PS3Controller. Check that all your buttons work & spinning the analog causes the analog stick to move. If turntable is wonky, try flashing the new firmware again and see if that fixes it. If it's still weird, open up the controller and check the sensors are not out place & cables are all plugged in. It should look like this when TT is turned: https://youtu.be/6g771LxV6w8
  
-6. Launch tools config. In Buttons section, map your buttons. Make sure that P1 TT +, P1 TT -, P1 TT +/-, P2 TT +, P2 TT -, P2 TT +/- are all BLANK. Do not use any of these for your controller.
+6. Launch your game's configuration tool. In Buttons section, map your buttons. Make sure that digital turntable input fields are all BLANK (e.g., TT+, TT- and so on). Do not use any of these for your controller.
  
 7. Analogs. This is where you set up your turntable. Pick PS3Controller from the drop down. Pick X or Y from Control -- spin your turntable and see if it works as you expect. If the turntables spin the wrong way, you're in Infinitas mode. If none of them make the circle turn, you might be in LR2 mode.
  
