@@ -2,6 +2,7 @@
 title: DP (Double Play)
 nav_order: 90
 has_children: true
+permalink: /dp
 ---
 
 # DP (Double Play)

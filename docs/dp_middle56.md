@@ -2,6 +2,7 @@
 title: Middle 5 vs Middle 6
 parent: DP (Double Play)
 nav_order: 2
+permalink: /dp/middle56
 ---
 
 # Middle 5 vs Middle 6

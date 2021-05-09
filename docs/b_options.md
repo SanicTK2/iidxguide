@@ -2,6 +2,7 @@
 title: Options Menu
 parent: Beginners
 nav_order: 0
+permalink: /beginners/option
 ---
 
 # Options Menu

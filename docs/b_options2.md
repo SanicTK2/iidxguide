@@ -2,6 +2,7 @@
 title: Details Menu
 parent: Beginners
 nav_order: 1
+permalink: /beginners/option2
 ---
 
 # Details Menu

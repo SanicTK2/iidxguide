@@ -2,6 +2,7 @@
 title: Floating Hi-Speed
 parent: Beginners
 nav_order: 11
+permalink: /beginners/floating
 ---
 
 # Floating Hi-Speed

@@ -2,6 +2,7 @@
 title: Tips for Beginners
 parent: Beginners
 nav_order: 20
+permalink: /beginners/tips
 ---
 
 # Tips for Beginners

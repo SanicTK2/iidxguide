@@ -2,6 +2,7 @@
 title: Game Modes (AC)
 parent: Compendium
 nav_order: 30
+permalink: /compendium/ac_gamemode
 ---
 
 # Game Modes (AC)

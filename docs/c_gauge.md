@@ -2,6 +2,7 @@
 title: Gauge Options
 parent: Compendium
 nav_order: 1
+permalink: /compendium/gauge
 ---
 
 # Gauge Options

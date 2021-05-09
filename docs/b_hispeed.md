@@ -2,6 +2,7 @@
 title: Hi-Speed Options
 parent: Beginners
 nav_order: 10
+permalink: /beginners/hispeed
 ---
 
 # Hi-Speed Options
