@@ -12,7 +12,7 @@ This is part of an effort to provide a friendly introduction to the game for the
 * not friendly to beginners new to the game,
 * too verbose, documenting the entire history of IIDX instead of focusing on the current version,
 * extremely outdated, or
-* locked up behind walled-garden communities like Discord servers
+* locked up behind walled-garden communities like members-only websites and Discord servers
 
 This guide aims to resolve these issues by pulling from various *established* resources written in other languages (mostly Japanese and Korean), with a bit of original English content as well. References will be provided whenever possible.
 

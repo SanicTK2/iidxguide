@@ -26,7 +26,7 @@ Normal hi-speed is the default option as of BISTROVER. It is a good option for b
 
 ## Classic hi-Speed
 
-![](/assets/img/fhs/classic.jpg)
+![](/assets/img/fhs/classic.png)
 
 Classic hi-speed is an option that is not accessible by default. It is a legacy option that can be enabled through the eamusement website. This is a BPM-dependent hi-speed option that was available beatmania IIDX in older versions instead of the normal hi-speed.
 

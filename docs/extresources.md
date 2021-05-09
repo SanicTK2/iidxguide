@@ -30,6 +30,12 @@ Database of viewable IIDX charts, past and present, SP and DP, AC and CS.
 
 User-submitted difficulty rating for charts. Useful for seeing what options other people used. Ratings aren't super helpful - use other tier lists from below.
 
+### remywiki (English)
+
+[https://remywiki.com](https://remywiki.com)
+
+Remywiki is a wiki for all things BEMANI related. Lots of useful historical information there.
+
 ## SP
 
 ### SP12 (Japanese)
@@ -76,7 +82,7 @@ Website for rating DP charts. This is the de facto standard place for DP tiers.
 
 Tracker for all time (rekidai) SP top scores and top ranker stats, across all AC versions.
 
-### Rekidai twitter account (English / Japanese)
+### Rekidai twitter account (Japanese)
 
 [https://twitter.com/iidx_rekidai_kp](https://twitter.com/iidx_rekidai_kp)
 

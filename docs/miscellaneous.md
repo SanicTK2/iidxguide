@@ -5,3 +5,5 @@ has_children: true
 ---
 
 # Miscellaneous
+
+Collection of miscellaneous articles.
