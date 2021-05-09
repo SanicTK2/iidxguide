@@ -131,7 +131,7 @@ However -- it is not yet necessary as a beginner. It's just that if you can get 
 
 #### Other styles
 
-Please check out [the playstyles page](/compendium/playstyles).
+Please check out [the playstyles page](/compendium/sp_playstyle).
 
 ## References
 
