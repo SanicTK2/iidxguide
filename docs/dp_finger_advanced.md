@@ -3,6 +3,8 @@ title: Advanced finger placement for DP
 parent: DP (Double Play)
 nav_order: 1
 permalink: /dp/advanced_placement
+redirect_from:
+  - /dp_finger_advanced.html
 ---
 
 # Advanced finger placement for DP

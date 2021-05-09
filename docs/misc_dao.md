@@ -3,6 +3,8 @@ title: Troubleshooting DJ DAO beatmania IIDX controllers
 parent: Miscellaneous
 nav_order: 0
 permalink: /misc/dao_controller_faq
+redirect_from:
+  - /misc_dao.html
 ---
 
 # Troubleshooting DJ DAO beatmania IIDX controllers

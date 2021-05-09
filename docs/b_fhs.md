@@ -1,8 +1,11 @@
 ---
 title: Floating Hi-Speed
-parent: Beginners
+parent: Beginner
 nav_order: 11
-permalink: /beginners/floating
+permalink: /beginner/floating
+redirect_from:
+  - /beginners/floating
+  - /b_fhs.html
 ---
 
 # Floating Hi-Speed

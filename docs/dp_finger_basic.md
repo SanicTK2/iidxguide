@@ -3,6 +3,8 @@ title: Basic finger placement for DP
 parent: DP (Double Play)
 nav_order: 0
 permalink: /dp/basic_placement
+redirect_from:
+  - /dp_finger_basic.html
 ---
 
 # Basic finger placement for DP

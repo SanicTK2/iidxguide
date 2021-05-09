@@ -3,6 +3,8 @@ title: External Resources
 nav_order: 200
 has_children: false
 permalink: /external_resources
+redirect_from:
+  - /extsources.html
 ---
 
 # External Resources

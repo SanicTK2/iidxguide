@@ -3,6 +3,8 @@ title: Timing
 parent: Intermediate
 nav_order: 10
 permalink: /intermediate/timing
+redirect_from:
+  - /i_timing.html
 ---
 
 # Improve your timing
@@ -19,7 +21,7 @@ permalink: /intermediate/timing
 
 ## How do I know my timing?
 
-If you haven't already, follow [the instructions here](/beginners/option2#timing-display-fastslow) to enable real time FAST / SLOW display. It is helpful to place it right above your judgement display, but feel free to move it elsewhere if you find it too distracting.
+If you haven't already, follow [the instructions here](/beginner/option2#timing-display-fastslow) to enable real time FAST / SLOW display. It is helpful to place it right above your judgement display, but feel free to move it elsewhere if you find it too distracting.
 
 Additionally, make it a habit to check out the FAST / SLOW section in the result screen.
 
@@ -50,7 +52,7 @@ If you are getting way too many SLOWs, you may not be having enough time to reac
 
 ### Fix your offset last
 
-[Use the offset setting in the blue menu to change your visual offset.](/beginners/option2#offset-adjustment)
+[Use the offset setting in the blue menu to change your visual offset.](/beginner/option2#offset-adjustment)
 
 Don't fiddle with this too much. Once you find a good offset for the environment you play on (particular arcade cabinet or your PC), try to keep the same offset for a while and see if you can get adjust to it.
 

@@ -3,6 +3,8 @@ title: DP (Double Play)
 nav_order: 90
 has_children: true
 permalink: /dp
+redirect_from:
+  - /dp.html
 ---
 
 # DP (Double Play)

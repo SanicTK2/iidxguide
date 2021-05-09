@@ -1,8 +1,11 @@
 ---
-title: Absolute Beginners
+title: Absolute Beginner
 nav_order: 1
 has_children: true
-permalink: /absolute_beginners
+permalink: /absolute_beginner
+redirect_from:
+  - /absolute_beginners
+  - /absolutebegin.html
 ---
 
 # Absolute Beginners

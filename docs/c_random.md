@@ -3,6 +3,8 @@ title: Random Options
 parent: Compendium
 nav_order: 0
 permalink: /compendium/random
+redirect_from:
+  - /c_random.html
 ---
 
 # Random Options

@@ -2,7 +2,10 @@
 title: Hi-Speed Options
 parent: Beginners
 nav_order: 10
-permalink: /beginners/hispeed
+permalink: /beginner/hispeed
+redirect_from:
+  - /beginners/hispeed
+  - /b_hispeed.html
 ---
 
 # Hi-Speed Options
@@ -35,4 +38,4 @@ Classic hi-speed is an option that is not accessible by default. It is a legacy 
 
 ![](/assets/img/fhs/floating.jpg)
 
-Floating hi-speed is the mode that almost everyone uses. You should be using this option! FHS allows you to set a constant scroll speed at the precise rate, and it carries from song to song. It also has some other nice side benefits that will need some elaboration - [check out this page for full details on how to use FHS.](/beginners/floating)
+Floating hi-speed is the mode that almost everyone uses. You should be using this option! FHS allows you to set a constant scroll speed at the precise rate, and it carries from song to song. It also has some other nice side benefits that will need some elaboration - [check out this page for full details on how to use FHS.](/beginner/floating)

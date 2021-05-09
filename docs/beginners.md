@@ -1,8 +1,11 @@
 ---
-title: Beginners
+title: Beginner
 nav_order: 2
 has_children: true
-permalink: /beginners
+permalink: /beginner
+redirect_from:
+  - /beginners
+  - /beginners.html
 ---
 
 # Beginners

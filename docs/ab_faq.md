@@ -1,8 +1,11 @@
 ---
-title: Absolute Beginners FAQ
-parent: Absolute Beginners
+title: Absolute Beginner FAQ
+parent: Absolute Beginner
 nav_order: 999
-permalink: /absolute_beginners/faq
+permalink: /absolute_beginner/faq
+redirect_from:
+  - /absolute_beginners/faq
+  - /ab_faq.html
 ---
 
 # Absolute Beginners FAQ
