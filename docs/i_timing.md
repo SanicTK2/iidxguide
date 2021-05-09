@@ -78,7 +78,7 @@ This might seem obvious, but it does need to be called out. Some days, you are t
 
 If you are playing at home, you might first one to confirm that your audio output does not have a significant delay. A good way to check this is to use a [test video like this one](https://www.youtube.com/watch?v=ucZl6vQ_8Uo).
 
-![wristing](/assets/img/infinitas_audio.jpg)
+![inf audio settings](/assets/img/infinitas_audio.png)
 
 Double check that you're using exclusive WASAPI setting and not shared mode -- this is configurable in the game's launcher. See the image above.
 
