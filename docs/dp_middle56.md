@@ -12,6 +12,10 @@ Note: this is a direct translation of [SILLYB's article](https://gall.dcinside.c
 
 Also worth noting that this is more of an opinion piece... then again it's from the man, SILLYB.
 
+DP Intermediate {: .label .label-yellow } DP Expert {: .label .label-red }
+
+This article is for intermediate to expert DP players. In other words, it's for DP layers 10th dan and up.
+
 <details open markdown="block">
   <summary>
     Table of contents
