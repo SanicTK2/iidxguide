@@ -72,8 +72,10 @@ While you are in FHS, if you want to adjust your green number again, you have to
 
 You may hear people use the word "floating" -- as a verb.
 
-This is the act of adjusting your green number back to your previously defined number when the BPM changes. While you can have a fixed green number, the hi-speed option is still BPM dependent. The game will automatically use your previously used green number using the BPM in the **beginning** of a song; however, if the BPM changes during a song, your green number will naturally change, as your hi-speed setting is still BPM-dependent.
+Floating hi-speed option is BPM dependent. The game will restore your previously used green number using the BPM in the **beginning** of a song; however, if the BPM changes during a song, your green number will change accordingly. This will result in the notes scrolling slower or faster than your desired speed.
 
 To address this, after the BPM has changed, you can do a quick trick of holding down the start button and moving the turntable slightly. The game will move the lane cover by a few pixels, but it will also automatically fix the green number back to what you have previously set to!
 
-Floating is used to counteract BPM changes. The downside is that you must take your hands off the keys to press the start button.
+In summary - floating is used to counteract BPM changes. The downside is that you must take your hands off the keys to press the start button.
+
+Finally -- **this is why you need SUDDEN+ (or LIFT)** even if your white number is very small. Without SUDDEN+ or LIFT, floating is not possible.
