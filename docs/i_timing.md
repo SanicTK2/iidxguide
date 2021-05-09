@@ -58,15 +58,15 @@ Don't fiddle with this too much. Once you find a good offset for the environment
 
 ### Horizontal reading
 
-**Horizontal reading is a very important topic that warrants an essay of its own**. I recommend that you read [this article](https://the-japari.tumblr.com/post/166760567060/horizontal-and-vertical-reading) and internalize it forever.
+**Horizontal reading is a very important topic that warrants an essay of its own**. [I recommend that you read this article](https://the-japari.tumblr.com/post/166760567060/horizontal-and-vertical-reading) and internalize it forever.
 
 ### Eyesight
 
-Take some time to consider where on the screen you are looking. Ideally, it's fixed at one location on the screen; you should not be drifting up and down. If you can fixate your reading to one area of the screen, your timing will improve.
+Take some time to consider where on the screen you are looking. Ideally, your sight is fixed at one location on the screen; you should not be drifting up and down. If you can keep your reading to one area of the screen, your timing will improve.
 
 ### What about white number?
 
-Having a large lane cover (high white number) is not ideal, as it "compresses" the notes together, making it difficult to tell them apart. If you are playing with a white number higher than 500, you might want to experiment with making the lane cover shorter.
+[Having a large lane cover (high white number) is not ideal, as it "compresses" the notes together](https://the-safari.com/3103), making it difficult to tell them apart. If you are playing with a white number higher than 500, you might want to experiment with making the lane cover shorter.
 
 (There are valid reasons for very high white numbers -- one of them being playing on a display with severe ghosting problems, which can be remedied by a high WN. In that case... sorry, not much you can do there)
 
