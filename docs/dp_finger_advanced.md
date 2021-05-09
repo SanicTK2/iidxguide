@@ -19,7 +19,7 @@ Note: this is a direct translation of [ereter's article](https://ereterblog.word
 {:toc}
 </details>
 
-DP is the mode where you press 7 buttons with 5 fingers. This means we cannot have a 1:1 assignment of fingers to buttons - namely, buttons 3 and 5. As discussed in the [previous post](/dp_finger_basic.html), button 3 can be flexibly handled using the thumb and the index finger; however, due to the structure of our hands, button 5 cannot be smoothly handled. Therefore, in this post, I will explain playstyles that deal with button 5.
+DP is the mode where you press 7 buttons with 5 fingers. This means we cannot have a 1:1 assignment of fingers to buttons - namely, buttons 3 and 5. As discussed in the [previous post](/dp/basic_placement), button 3 can be flexibly handled using the thumb and the index finger; however, due to the structure of our hands, button 5 cannot be smoothly handled. Therefore, in this post, I will explain playstyles that deal with button 5.
 
 ## Problems with ring finger slide technique
 

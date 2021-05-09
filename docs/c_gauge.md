@@ -153,4 +153,4 @@ In the table below, "a" is usually a function of total note count, but it depend
 
 ## More details
 
-If you need to know the exact parameters for various gauge types, such as the algorithm used to calculate the increase / decrease, check out [this page](/misc_datadump.html).
+If you need to know the exact parameters for various gauge types, such as the algorithm used to calculate the increase / decrease, check out [this page](/misc/iidx_lr2_beatoraja_diff).

@@ -42,7 +42,7 @@ There is a lot here, but let's break it down into parts:
 
 ![](/assets/img/option/random.png)
 
-This turns on random. If you are a beginner, you can keep this on OFF for now. [Here is a page](/c_random.html) describing random options in detail.
+This turns on random. If you are a beginner, you can keep this on OFF for now. [Here is a page](/compendium/random) describing random options in detail.
 
 ### Gauge options
 
@@ -50,7 +50,7 @@ This turns on random. If you are a beginner, you can keep this on OFF for now. [
 
 This turns changes the gauge type. If you are a beginner, you can use OFF, ASSIST EASY, or EASY. OFF is the most typical gauge, EASY is relatively easier, and ASSIST EASY is the easiest option here.
 
-[Here is a page](/c_gauge.html) describing different gauge types in detail.
+[Here is a page](/compendium/gauge) describing different gauge types in detail.
 
 ### Assist options
 
@@ -146,7 +146,7 @@ Pressing [1] enables tsujigiri battle, which is basically an animation that show
 
 * EXPAND-JUDGE makes the timing window extremely large. Of course, your scores do not save.
 * SUB TARGET enables a back up pacemaker target in case the primary one is unavailable. This is rarely used.
-* For M-RAN and H-RAN, see the [random options page](/c_random.html).
+* For M-RAN and H-RAN, see the [random options page](/compendium/random).
 * BATTLE is an option seldom used by DP players.
 
 ## References
