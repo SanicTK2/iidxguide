@@ -3,8 +3,6 @@ title: Game Modes (AC)
 parent: Compendium
 nav_order: 30
 permalink: /compendium/ac_gamemode
-redirect_from:
-  - /c_ac_mode.html
 ---
 
 # Game Modes (AC)

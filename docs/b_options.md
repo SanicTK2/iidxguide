@@ -5,7 +5,6 @@ nav_order: 0
 permalink: /beginner/option
 redirect_from:
   - /beginners/option
-  - /b_options.html
 ---
 
 # Options Menu

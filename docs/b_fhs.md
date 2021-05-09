@@ -5,7 +5,6 @@ nav_order: 11
 permalink: /beginner/floating
 redirect_from:
   - /beginners/floating
-  - /b_fhs.html
 ---
 
 # Floating Hi-Speed

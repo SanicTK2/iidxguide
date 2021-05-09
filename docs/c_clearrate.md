@@ -3,8 +3,6 @@ title: Clear Rate in Class Mode
 parent: Compendium
 nav_order: 10
 permalink: /compendium/dan_clear_rate
-redirect_from:
-  - /c_clearrate.html
 ---
 
 # Clear Rate in Class Mode (Dan)

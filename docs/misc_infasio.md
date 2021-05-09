@@ -3,8 +3,6 @@ title: Running beatmania IIDX infinitas (2020) with ASIO audio mode
 parent: Miscellaneous
 nav_order: 2
 permalink: /misc/infinitas_asio
-redirect_from:
-  - /misc_infasio.html
 ---
 
 # Running beatmania IIDX infinitas (2020) with ASIO audio mode

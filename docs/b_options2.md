@@ -5,7 +5,6 @@ nav_order: 1
 permalink: /beginner/option2
 redirect_from:
   - /beginners/option2
-  - /b_options2.html
 ---
 
 # Details Menu

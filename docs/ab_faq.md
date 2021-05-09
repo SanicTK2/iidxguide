@@ -5,7 +5,6 @@ nav_order: 999
 permalink: /absolute_beginner/faq
 redirect_from:
   - /absolute_beginners/faq
-  - /ab_faq.html
 ---
 
 # Absolute Beginners FAQ

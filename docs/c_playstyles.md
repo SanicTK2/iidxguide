@@ -3,8 +3,6 @@ title: SP Playstyles
 parent: Compendium
 nav_order: 2
 permalink: /compendium/sp_playstyle
-redirect_from:
-  - /c_playstyles.html
 ---
 
 # SP Playstyles

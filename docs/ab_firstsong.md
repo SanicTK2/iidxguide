@@ -5,7 +5,6 @@ nav_order: 20
 permalink: /absolute_beginner/firstsong
 redirect_from:
   - /absolute_beginners/firstsong
-  - /ab_firstsong.html
 ---
 
 # Playing your first song

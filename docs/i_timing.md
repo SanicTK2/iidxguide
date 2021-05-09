@@ -3,8 +3,6 @@ title: Timing
 parent: Intermediate
 nav_order: 10
 permalink: /intermediate/timing
-redirect_from:
-  - /i_timing.html
 ---
 
 # Improve your timing

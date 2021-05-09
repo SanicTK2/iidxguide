@@ -3,8 +3,6 @@ title: Intermediate
 nav_order: 3
 has_children: true
 permalink: /intermediate
-redirect_from:
-  - /intermediate.html
 ---
 
 # Intermediate

@@ -5,7 +5,6 @@ nav_order: 10
 permalink: /beginner/hispeed
 redirect_from:
   - /beginners/hispeed
-  - /b_hispeed.html
 ---
 
 # Hi-Speed Options

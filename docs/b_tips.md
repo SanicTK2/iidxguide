@@ -5,7 +5,6 @@ nav_order: 20
 permalink: /beginner/tips
 redirect_from:
   - /beginners/tips
-  - /b_tips.html
 ---
 
 # Tips for Beginners

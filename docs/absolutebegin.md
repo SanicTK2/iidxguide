@@ -5,7 +5,6 @@ has_children: true
 permalink: /absolute_beginner
 redirect_from:
   - /absolute_beginners
-  - /absolutebegin.html
 ---
 
 # Absolute Beginners

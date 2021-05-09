@@ -5,7 +5,6 @@ nav_order: 10
 permalink: /absolute_beginner/firstcredit
 redirect_from:
   - /absolute_beginners/firstcredit
-  - /ab_start.html
 ---
 
 # Starting the game
