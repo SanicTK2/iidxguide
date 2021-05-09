@@ -1,8 +1,8 @@
 ---
 title: Timing
-parent: Beginners
-nav_order: 20
-permalink: /beginners/timing
+parent: Intermediate
+nav_order: 10
+permalink: /intermediate/timing
 ---
 
 # Improve your timing
