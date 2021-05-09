@@ -10,7 +10,11 @@ permalink: /dp/basic_placement
 
 Note: this is a direct translation of [ereter's article](https://ereterblog.wordpress.com/2016/11/19/dp-%EC%86%90%EB%B0%B0%EC%B9%98-%EA%B8%B0%EB%B3%B8%ED%8E%B8/). *I* in this article refers to ereter himself.
 
-DP Beginner {: .label .label-green } DP Intermediate {: .label .label-yellow }
+DP Beginner
+{: .label .label-green }
+
+DP Intermediate
+{: .label .label-yellow }
 
 This article is for beginner to intermediate DP players.
 
