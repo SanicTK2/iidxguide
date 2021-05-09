@@ -1,0 +1,5 @@
+.sass-cache/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+assets/js/zzzz-search-data.json
