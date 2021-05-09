@@ -18,7 +18,7 @@ DP Intermediate
 DP Expert
 {: .label .label-red }
 
-This article is for intermediate to expert DP players. In other words, it's for DP layers 10th dan and up.
+This article is for intermediate to expert DP players. In other words, it's for DP players 10th dan and up.
 
 <details open markdown="block">
   <summary>
