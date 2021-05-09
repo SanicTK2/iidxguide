@@ -2,6 +2,7 @@
 title: Starting the game
 parent: Absolute Beginners
 nav_order: 10
+permalink: /absolute_beginners/firstcredit
 ---
 
 # Starting the game

@@ -2,6 +2,7 @@
 title: Absolute Beginners FAQ
 parent: Absolute Beginners
 nav_order: 999
+permalink: /absolute_beginners/faq
 ---
 
 # Absolute Beginners FAQ

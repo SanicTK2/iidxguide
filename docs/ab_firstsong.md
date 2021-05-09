@@ -2,6 +2,7 @@
 title: Playing your first song
 parent: Absolute Beginners
 nav_order: 20
+permalink: /absolute_beginners/firstsong
 ---
 
 # Playing your first song

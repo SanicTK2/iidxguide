@@ -2,6 +2,7 @@
 title: Absolute Beginners
 nav_order: 1
 has_children: true
+permalink: /absolute_beginners
 ---
 
 # Absolute Beginners
