@@ -7,7 +7,7 @@ redirect_from:
   - /absolute_beginners/faq
 ---
 
-# Absolute Beginners FAQ
+# FAQ for Absolute Beginners
 {: .no_toc }
 
 <details open markdown="block">
