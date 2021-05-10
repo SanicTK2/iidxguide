@@ -76,6 +76,8 @@ Turns on both AUTO-SCRATCH and LEGACY.
 
 ### Lane options
 
+![](/assets/img/option/lane.png)
+
 Typically, people only use SUDDEN+. Occasionally you'll see players who also enable LIFT in addition to SUDDEN+. You can ignore other options.
 
 #### SUDDEN+
