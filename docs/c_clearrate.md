@@ -1,7 +1,6 @@
 ---
 title: Clear Rate in Class Mode
 parent: Compendium
-nav_order: 10
 permalink: /compendium/dan_clear_rate
 ---
 

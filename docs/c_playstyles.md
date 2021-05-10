@@ -1,11 +1,10 @@
 ---
-title: SP Playstyles
+title: Playstyles for SP
 parent: Compendium
-nav_order: 2
 permalink: /compendium/sp_playstyle
 ---
 
-# SP Playstyles
+# Playstyles for SP
 {: .no_toc }
 
 <details open markdown="block">
@@ -124,6 +123,8 @@ This is a style that doesn't use the middle finger; it is not commonly used.
 ![](/assets/img/playstyle/righthand_nothumb.png){: .half_width }
 
 This is basically the right hand of a 2:5 style. 
+
+---
 
 # 2/5 split (S+12 / 34567)
 
