@@ -3,8 +3,6 @@ title: Absolute Beginner
 nav_order: 1
 has_children: true
 permalink: /absolute_beginner
-redirect_from:
-  - /absolute_beginners
 ---
 
 # Absolute Beginners
