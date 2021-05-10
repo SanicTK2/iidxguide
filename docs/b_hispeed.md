@@ -1,6 +1,6 @@
 ---
 title: Hi-Speed Options
-parent: Beginners
+parent: Beginner
 nav_order: 10
 permalink: /beginner/hispeed
 redirect_from:

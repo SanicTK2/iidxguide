@@ -1,6 +1,6 @@
 ---
 title: Tips for Beginners
-parent: Beginners
+parent: Beginner
 nav_order: 20
 permalink: /beginner/tips
 redirect_from:

@@ -1,6 +1,6 @@
 ---
 title: Details Menu
-parent: Beginners
+parent: Beginner
 nav_order: 1
 permalink: /beginner/option2
 redirect_from:
