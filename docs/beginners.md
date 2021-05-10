@@ -7,7 +7,7 @@ redirect_from:
   - /beginners
 ---
 
-# Beginners
+# Beginner
 
 A section for beginners just starting out, appropriate if you are currently playing SP level 8 or below.
 
