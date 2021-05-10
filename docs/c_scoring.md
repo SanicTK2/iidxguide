@@ -49,20 +49,20 @@ EX score is the only scoring system in the game, as of Bistrover. It's rules are
 
 DJ level on the result screen is calculated using EX-SCORE, compared to the theoretical maximum score possible for the chart. If you take the ratio (EX_SCORE / MAX), you can see what grade you will get:
 
-| Grade | EX score ratio     |
-| ----: | :----------------- |
-|  AAA  | 8/9 or above       |
-|  AA   | 7/9 or above       |
-|  A    | 6/9 or above       |
-|  B    | 5/9 or above       |
-|  C    | 4/9 or above       |
-|  D    | 3/9 or above       |
-|  E    | 2/9 or above       |
-|  F    | Under 2/9          |
+| Grade | EX score ratio     | Percentage |
+| ----: | :----------------- | :--------- |
+|  AAA  | 8/9 or above       | >= 88.89%  |
+|  AA   | 7/9 or above       | >= 77.78%  |
+|  A    | 6/9 or above       | >= 66.67%  |
+|  B    | 5/9 or above       | >= 55.56%  |
+|  C    | 4/9 or above       | >= 44.44%  |
+|  D    | 3/9 or above       | >= 33.33%  |
+|  E    | 2/9 or above       | >= 22.22%  |
+|  F    | Under 2/9          |  < 22.22%  |
 
 You will often hear people talk about scores relative to a grade, for example, "AA-3" to mean 3 points under the AA requirement, or "AAA+10" to mean 10 points above the AAA requirement.
 
-If you get 8.5/9 or higher, it is considered a MAX- score. While MAX- is not a rating displayed on the result screen, it does show up in other parts of the UI element, and you will hear about players refer to scores in this way.
+If you get 8.5/9 (**94.44%**) or higher, it is considered a MAX- score. While MAX- is not a rating displayed on the result screen, it does show up in other parts of the interface, and you will hear about players refer to scores in this way.
 
 ---
 
