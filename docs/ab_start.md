@@ -35,6 +35,8 @@ An eamusement card is used to save your profile. If your arcade has official eam
 
 You'll probably want to get the latest one that has the new Amusement IC logo, which is compatible with a wide variety of networked games, not just Konami. But the old eamusement cards will still work on IIDX.
 
+Other cards with Amusement IC logo will work as well; namely, new versions of Aime, BANAPASS, and NESiCA cards will also work.
+
 It is recommended that you jot down the card number on the back, just in case you lose it AND it isn't connected to a Konami account.
 
 ### (Optional) Create a Konami account and link your eamusement card
