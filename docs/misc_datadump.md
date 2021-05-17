@@ -226,7 +226,7 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 | LR2 very hard              | ±8     | ±24    | ±40     | ±200      | +1000            |
 | beatoraja easy (notes)     | ±20    | ±60    | ±150    | +220 -280 | +500 -150        |
 | beatoraja easy (turntable) | ±30    | ±70    | ±160    | +230 -290 | +500 -160        |
-| IIDX (most charts)         | ±16.67 | ±33.33 | ±116.67 | ±250      | ? (needs update) |
+| IIDX (most charts)         | ±16.67 | ±33.33 | ±116.67 | ±250      | ?                |
 
 All units in milliseconds. Positive means before the note, negative is after the note.
 
