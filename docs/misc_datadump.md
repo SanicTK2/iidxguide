@@ -1,7 +1,6 @@
 ---
 title: IIDX LR2 beatoraja differences 
 parent: Miscellaneous
-nav_order: 1
 permalink: /misc/iidx_lr2_beatoraja_diff
 ---
 
