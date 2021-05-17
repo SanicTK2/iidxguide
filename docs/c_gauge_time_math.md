@@ -59,4 +59,6 @@ That being said, there are various factors that may make it seem like the entire
 
 ## Further reading
 
+[IIDX LR2 beatoraja differences](/misc/iidx_lr2_beatoraja_diff)
+
 [https://zenius-i-vanisher.com/v5.2/viewthread.php?threadid=5233](https://zenius-i-vanisher.com/v5.2/viewthread.php?threadid=5233)
