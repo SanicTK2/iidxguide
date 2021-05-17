@@ -30,6 +30,13 @@ All currency in USD. Always read third party reviews (like **rtings**) before bu
 
 Also common to see them using interpolation to lie about their refresh rate (e.g., "motion rate" or "effective rate") when in reality the panel does not natively display 120hz input.
 
+For reference, [according to this page](https://land3939.info/mgame/1148), Lightning Model cabs use the following primary display:
+
+* Manufactuer: [GTT](http://gtt.co.kr/en/?ckattempt=1)
+* Model: TLK-4300
+* 43" VA panel at native 1080p 120hz.
+* Cab uses 1600x900@120hz over DisplayPort (the game is 720p however, so it's upscaled to 900p)
+
 ## Asus
 
 ### ROG Strix XG438Q
