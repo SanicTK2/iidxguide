@@ -263,3 +263,5 @@ If you like to use LR2 timing and gauge for everything, check out [LR2oraja](htt
 [http://stairway.sakura.ne.jp/bms/delay.htm#input](http://stairway.sakura.ne.jp/bms/delay.htm#input)
 
 [https://zenius-i-vanisher.com/v5.2/viewthread.php?threadid=5233](https://zenius-i-vanisher.com/v5.2/viewthread.php?threadid=5233)
+
+[https://hitkey.nekokan.dyndns.info/diary1501.php#D150119](https://hitkey.nekokan.dyndns.info/diary1501.php#D150119)
