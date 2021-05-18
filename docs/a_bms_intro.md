@@ -172,7 +172,7 @@ For beatoraja, LITONE is the most commonly used AC/CS spec skin.
 
 In LR2, you can use [this calculator](https://tumblr.ribbit.xyz/post/98609071965/ac-iidx-lr2-hs).
 
-In beatoraja, LITONE AC will straight up show you the white and green number which is exactly the same as IIDX.
+In beatoraja, LITONE AC will straight up show you the white and green number which is exactly the same as IIDX. If you are using a different skin, [see this page](https://github.com/wcko87/beatoraja-english-guide/wiki/Scroll-Speed-and-Green-Number) on how to interpret beatoraja's green number.
 
 ### Skin resources
 
