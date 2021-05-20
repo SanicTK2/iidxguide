@@ -26,8 +26,8 @@ Personally, I have only tested on Asus Xonar AE with the latest official drivers
 
 Before you go out and buy a sound card, be mindful that -
 
-* ASIO makes very little perceivable difference in rhythm games that can already use WASAPI
-* Many arcade games (cough) and old games aren't usually happy about anything BUT on-board sound card
+* ASIO makes very little perceivable difference in rhythm games that can already use WASAPI in exclusive mode
+* Many rhythm games and old games aren't usually happy about anything BUT on-board sound card
 
 so think twice before you drop a lot of money on one.
 
@@ -35,7 +35,7 @@ so think twice before you drop a lot of money on one.
 
 1. Launch PowerShell as administrator.
 1. Run ```Set-ExecutionPolicy Bypass``` which allows you to run arbitrary PS scripts.
-1. Download the script from https://github.com/darekasan/inf_launch_ext
+1. Download the script from [https://github.com/darekasan/inf_launch_ext](https://github.com/darekasan/inf_launch_ext)
 1. Run the script; pick 3 (copy script file to game directory and set to new script path (recommended))
 1. Launch Infinitas using the shortcut; launch the game through the browser as usual.
 1. Instead of the game being launched, a PowerShell prompt will appear; pick 3 (ASIO).
