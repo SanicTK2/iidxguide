@@ -47,7 +47,7 @@ For reference, [according to this page](https://land3939.info/mgame/1148), Light
 
 ### ROG Strix XG438Q
 
-[https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg438q-model/]([https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg438q-model/])
+[https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg438q-model/](https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg438q-model/)
 
 43", VA panel, 4K, 120Hz
 
