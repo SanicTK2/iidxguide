@@ -52,12 +52,11 @@ Why are 50/50 and 50/20 configurations recommended?
 
 ### Justification for 50/20
 
-* 50/50 is definitely on the heavier side if you are playing a lot of high-level 12s, insane BMS.
-* 50/50 is also on the heavy side if you are mainly a DP player.
-  * But it's worth noting that many DP top rankers prefer 50/50 still, so it's not universal.
-* Most cabs in Korea are 50/20, including Lightning Model cabs.
 * Compared to 50/50, it requires significantly less force to push down, making it ideal for extremely high density charts or DP players.
-  * and by *extremely high density* I'm referring to high end of SP 12s, such as 地力A tier charts and above; aka "(sub-)kaiden level". This sounds like shitty gatekeeping, I know, but it's the reality.
+  * and by *extremely high density* I'm referring to high end of SP 12s, such as 地力A tier charts and above; aka "(sub-)kaiden level". This sounds like shitty gate-keeping, I know, but it's the reality.
+  * But it's worth noting that many DP top rankers prefer 50/50 still, so it's not universal.
+* It is not too light; the 50g switch still provides sufficient amount of tactile feedback.
+* Most cabs in Korea are 50/20, including Lightning Model cabs.
 
 ## Why a 50g switch and not 25g?
 

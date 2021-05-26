@@ -41,11 +41,11 @@ If you are coming from other rhythm games, especially ones you play with keyboar
 
 ### Turn on timing display (FAST/SLOW)
 
-It is strongly recommended that you enable the timing display, so that you can get a sense of how late or early you are hitting. This is found in the details menu (blue menu).
+It is strongly recommended that you enable the timing display, so that you can get a sense of how late or early you are hitting. This is found in the [advanced options menu](/beginner/option2) (blue menu).
 
 ### Find a comfortable hi-speed setting
 
-Once you feel ready, switch from normal hi-speed to floating hi-speed option. Find a comfortable green number that allows for enough reaction time, but not too much that you're looking at too many notes on the screen.
+Once you feel ready, switch from normal hi-speed to [floating hi-speed option](/beginner/floating). Find a comfortable green number that allows for enough reaction time, but not too much that you're looking at too many notes on the screen.
 
 For beginners, you should aim for a green number between 300-350. Over time, as you improve your ability to read, you can lower it to around 290-300.
 

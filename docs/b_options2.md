@@ -1,5 +1,5 @@
 ---
-title: Details Menu
+title: Advanced Options Menu
 parent: Beginner
 nav_order: 1
 permalink: /beginner/option2
@@ -7,7 +7,7 @@ redirect_from:
   - /beginners/option2
 ---
 
-# Details Menu
+# Advanced Options Menu
 {: .no_toc }
 
 <details open markdown="block">
@@ -21,7 +21,7 @@ redirect_from:
 
 ![](/assets/img/option2/bluemenu.jpg)
 
-This screen is officially known as the details menu, colloquially known as the "blue menu". It can be accessed from the options menu by pressing VEFX Change button. Be careful not to press EFFECT ON as that would revert you back to the basic options menu, losing some of your settings.
+This screen is officially known as the advanced options menu, colloquially known as the "blue menu". It can be accessed from the options menu by pressing VEFX Change button. Be careful not to press EFFECT ON as that would revert you back to the basic options menu, losing some of your settings.
 
 **There are many items in this section, but this page will only cover the commonly used options recommended for beginners.** For full details, check out [official BISTROVER detail options page](https://p.eagate.573.jp/game/2dx/28/howto/play/option_detail.html).
 
