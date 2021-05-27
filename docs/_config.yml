@@ -20,3 +20,4 @@ back_to_top_text: "Back to top"
 plugins:
   - jekyll-remote-theme
   - jekyll-redirect-from
+  - jekyll-sitemap
