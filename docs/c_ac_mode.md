@@ -300,7 +300,7 @@ Each day of the week provides a bonus. All time is based on Japan time.
       </td>
       <td>
         <div class="wiki-paragraph">
-          V-Disc Bonus (uses only one disc whenever V-Discs are spent)
+          V-Disc Bonus: any time multiple V-Discs would be spent, only one is spent instead. Receive 3 V-Discs on Standard start (double if you have platinum course).
         </div>
       </td>
     </tr>
