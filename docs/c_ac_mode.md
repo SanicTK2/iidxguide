@@ -245,7 +245,7 @@ If you are not matched at least one person, you are given the option to enter TI
 
 ## Daily bonuses
 
-Each day of the week provides a bonus. All time is based on Japan time.
+Each day of the week provides a bonus. **All time is based on Japan time.**
 <table>
   <tbody>
     <tr>
@@ -254,7 +254,7 @@ Each day of the week provides a bonus. All time is based on Japan time.
       </td>
       <td>
         <div class="wiki-paragraph">
-          1 ticket for DJ VIP PASS BLACK
+          1 ticket for DJ VIP PASS BLACK. See below for details.
         </div>
       </td>
     </tr>
@@ -300,7 +300,7 @@ Each day of the week provides a bonus. All time is based on Japan time.
       </td>
       <td>
         <div class="wiki-paragraph">
-          V-Disc Bonus: any time multiple V-Discs would be spent, only one is spent instead. Receive 3 V-Discs on Standard start (double if you have platinum course).
+          V-Disc Bonus - see section below for more on V-Discs.
         </div>
       </td>
     </tr>
@@ -314,6 +314,26 @@ Each day of the week provides a bonus. All time is based on Japan time.
     </tr>
   </tbody>
 </table>
+
+### V-Disc bonus
+
+Normally, each PASELI start gives you 7 V-Discs; but on Fridays, coin play (including Asia and America regions) will give you 3 V-Discs -- 6 if you are subscribed to platinum course.
+
+As of BISTROVER:
+
+* If you fail in the 1st or 2nd stage, 6 V-Discs will be automatically spent to advance to the next stage.
+* If you cleared final stage but did not meet the requirements for extra stage, 7 V-Discs will be spent to advance to extra stage.
+* Perhaps most importantly, LEGGENDARIA folder can be accessed; 4 V-Discs will be spent for each LEGGENDARIA chart played.
+
+On Fridays, instead of the number of V-Discs above, you will spend just one V-Disc instead.
+
+Finally - if you have 100 V-Discs collected, the game will forcibly exchange 100 V-Discs for one DJ VIP PASS BLACK.
+
+### DJ VIP PASS BLACK
+
+![dan mode](/assets/img/blackpass.jpg)
+
+If you have one -- either from V-Disc bonus or from Sunday bonus -- you can choose it before going into Standard mode. DJ VIP PASS BLACK guarantees three stages, removes level restrictions in all stages, allows you to pick the same song more than once, and allows you to play LEGGENDARIA charts without spending V-Discs. It does not guarantee Extra Stage.
 
 # References
 
