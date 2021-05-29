@@ -22,17 +22,15 @@ redirect_from:
 
 Updated May 2021.
 
-This is a list of monitors and TVs that meet the following criteria:
+This is a list of monitors that meet the following criteria:
 * Native 120Hz+ panel and supports 120Hz input
 * 39" diagonal or larger
 * 16:9 aspect ratio
 * flat, not curved
 
-All currency in USD. Always read third party reviews (like **rtings**) before buying them. This is especially important for TVs, since some TVs will falsely advertise as having 120Hz but in reality their smaller size models use a different panel and only support 60Hz. This is very common with Samsung products.
-
-Also common to see them using interpolation to lie about their refresh rate (e.g., "motion rate" or "effective rate") when in reality the panel does not natively display 120Hz input.
-
 Features that do not affect IIDX or BMS simulators will not be explicitly called out; such as FreeSync, G-Sync, HDR, and so on.
+
+There are also a **handful of TVs** that are small enough (less than 55") and support native 120Hz input; e.g., LG NANO85, Sony X90J, and so on. This is a rapidly growing segment especially in 2021 -- you should look for reviews on [rtings.com](https://rtings.com) instead. Make sure the size of TV you are buying actually uses a 120Hz panel - it is common for TV manufacturers to use 120Hz panels for larger sizes but only 60Hz for smaller sizes of the same model -- Samsung is the worst offender in this regard.
 
 ## Lightning Model display
 
@@ -88,14 +86,6 @@ Around $1100
 48", OLED (potential burn-in risk!), 4K, 120Hz
 
 Around $1400
-
-### LG NANO85 (49NANO85UNA)
-
-[https://www.rtings.com/tv/reviews/lg/nano85](https://www.rtings.com/tv/reviews/lg/nano85)
-
-49", IPS panel, 4K, 120Hz
-
-Around $650.
 
 ## REGZA
 
