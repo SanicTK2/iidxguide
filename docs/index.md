@@ -3,7 +3,7 @@ title: Home
 nav_order: 0
 ---
 
-# Welcome to iidx.org
+# Welcome to iidx.org - a guide for beatmania IIDX
 
 This is a guide written mainly for new players getting into beatmania IIDX. Over time more advanced topics may be added.
 
