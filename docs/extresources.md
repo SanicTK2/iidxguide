@@ -55,6 +55,12 @@ Infrequently updated, but it's definitely maintained and not abandoned (as of Ma
 
 Originally, it integrated with iidx.me (automatic score importer for eamuse) but iidx.me has been shut down.
 
+### CPI Clear Power Indicator (Japanese)
+
+[https://cpi.makecir.com/scores/tables](https://cpi.makecir.com/scores/tables)
+
+Tier lists based on official eamuse statistics. This one stands out for having tiers for easy gauge / ex-hard gauge / full combo.
+
 ### the-safari (Japanese)
 
 [https://the-safari.com/](https://the-safari.com/)
