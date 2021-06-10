@@ -1,7 +1,7 @@
 ---
 title: Middle 5 vs Middle 6
 parent: DP (Double Play)
-nav_order: 2
+nav_order: 100
 permalink: /dp/middle56
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Basic finger placement for DP
 parent: DP (Double Play)
-nav_order: 0
+nav_order: 10
 permalink: /dp/basic_placement
 ---
 
@@ -12,11 +12,6 @@ Note: this is a direct translation of [ereter's article](https://ereterblog.word
 
 DP Beginner
 {: .label .label-green }
-
-DP Intermediate
-{: .label .label-yellow }
-
-This article is for beginner to intermediate DP players.
 
 <details open markdown="block">
   <summary>
