@@ -79,14 +79,14 @@ Zagaku is about memorizing how to hit patterns. Stealth Zagaku is about memorizi
 
 You don't have to memorize entire charts for Zagaku, but I recommend Stealth Zagaku when Zagaku is not sufficient and you are still experiencing difficulties.
 
-### Page 11 - II-L's Stealth Zagaku
+### Page 11 - SILENT's Stealth Zagaku
 
 1. Planning Anmitsu
 1. Planning Hand Positions
 1. Non-Metronome Zagaku
 1. Metronome Zagaku
-1. Stealth Zagaku with Non-Metronome method.
-1. Stealth Zagaku with Metronome method.
+1. Stealth Zagaku with Non-Metronome method
+1. Stealth Zagaku with Metronome method
 
 * In between your Stealth Zagaku sessions, you should play on a real arcade cabinet as trial-and-error method of learning
 
@@ -127,7 +127,7 @@ With respect to right hand (2P) side. Normal text is the minimum requirement, te
 * **Chop 5, Chop 6, Chop 7**
 * Special near-scratch positions (2096 style)
 
-(TL note: near-scratch refers to situations where you get notes and scratches on the same side, requiring you to hit buttons and scratch using the same had)
+(TL note: near-scratch refers to situations where you get notes and scratches on the same side, requiring you to hit buttons and scratch using the same hand, like S123 or 567S. For 2096-style - I assume he also means wristing in addition to 1048 style on each hand.)
 
 In the video around 9:07, he comments on middle-5 vs middle-6, saying that it's good if you can do both, but just one of them is totally fine. He says pinky-5 is useful in real plays, and pinky-6 is useful for things like 12346 chord. Thumb-on-2 is uncommon but necessary for 24567 chord.
 
