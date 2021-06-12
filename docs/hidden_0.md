@@ -5,4 +5,4 @@ permalink: /y
 sitemap: false
 ---
 
-![](/assets/img/flushit.png){: .full_width }
+![flushit](/assets/img/flushit.png){: .full_width }

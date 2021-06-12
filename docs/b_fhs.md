@@ -31,7 +31,7 @@ Additional note - it is also possible to use LIFT instead of SUDDEN+ (or both, i
 
 ## What does it look like?
 
-![](/assets/img/fhs/suddenp.jpg){: .half_width }
+![adjusting sudden plus](/assets/img/fhs/suddenp.jpg){: .half_width }
 
 Notably, there are two numbers to observe: white number and green number.
 
@@ -43,13 +43,13 @@ White number is simple - it measures how much of the screen is covered by the la
 
 The green number is a function of how long the note is displayed on the screen -- the time between when a note becomes visible and when it disappears. Typically the preferred GN ranges from 250 (blazing fast) to 330 (very slow).
 
-![](/assets/img/fhs/gn_range.png){: .half_width }
+![green number ranges](/assets/img/fhs/gn_range.png){: .half_width }
 
 If the song has BPM changes, the green number display will also display a range above the normal green number. In the image above, the GN will be 840 when the BPM is at the lowest, and it will be 210 when the BPM is at the highest.
 
 ## Enabling FHS with SUDDEN+
 
-* ![](/assets/img/option/lane.png){: .half_width }
+* ![lane change options](/assets/img/option/lane.png){: .half_width }
 
 1. If you haven't already, switch from beginner options menu to the full menu by holding start and pressing EFFECT ON.
 1. Enable SUDDEN+ in the options menu.

@@ -31,7 +31,7 @@ DP is the mode where you press 7 buttons with 5 fingers. This means we cannot ha
 
 ## Problems with ring finger slide technique
 
-![](/assets/img/dp/reunion27.png)
+![measures from Reunion](/assets/img/dp/reunion27.png)
 
 As I said, my ring finger is usually in charge of buttons 5 and 6. It's actually very effective and stable at handling dense patterns; however, in patterns like above (5-6 trill or 5-6 chords) there is a lot of pressure on the hands.
 
@@ -39,7 +39,7 @@ Of course, you can use the ring finger slide technique -- sliding your ring fing
 
 ## Middle-5 technique
 
-![](/assets/img/dp/eca4915.png){: .half_width }
+![middle-5](/assets/img/dp/eca4915.png){: .half_width }
 
 Middle-5 position refers to when the middle finger is in charge of button 5 by bending down the finger, and hitting button 6 with your ring finger.
 
@@ -49,7 +49,7 @@ Middle 5 may cause your hand to shift from center to right side, relative to the
 
 Example: Insomnia DPA
 
-![](/assets/img/dp/insomnia_dpa.png)
+![Insomnia DPA](/assets/img/dp/insomnia_dpa.png)
 
 The difficulty with middle-5 is that **learning to bend the middle finger downwards is very tricky**, since it's unnatural. For 2-5-6 chord as an example, your index will hit 2 and middle will hit 5 - forcibly spreading them apart, which is quite uncomfortable. Additionally, once you use middle-5 technique, the entire hand tend to shift to the right, so there are difficulties in gradually moving it back to the center position.
 
@@ -59,13 +59,13 @@ In my case, I tried to get used to this at ★6, but I was already too used to t
 
 ## Middle-6 technique
 
-![](/assets/img/dp/eca4916.png){: .half_width }
+![middle 6](/assets/img/dp/eca4916.png){: .half_width }
 
 Middle-6 is the opposite of of middle-5. As you can see above, the middle finger is stretched out to hit button 6, while the ring finger bends downwards to handle button 5. Middle-6 is more comfortable than middle-5; it also does not deviate too heavily from the basic hand position, so it can be used even in high-density patterns.
 
-![](/assets/img/dp/verflucht441.png)
+![Verflucht](/assets/img/dp/verflucht441.png)
 
-![](/assets/img/dp/mendes19.png)
+![Mendes](/assets/img/dp/mendes19.png)
 
 Middle 6 is especially effective at double stairs. In contrast to the ring slide, you can handle double-stair patterns without having to use the same finger twice in a row. In the example above -- MENDES SPA and Verflucht SPA -- if you were to one-hand these, you can imagine middle-6 being much more comfortable than middle-5 or ring slide.
 
@@ -83,16 +83,16 @@ In my case, I cannot use middle-6. I tried to learn at some point, but middle-5 
 
 Thumb-5 is the technique of hitting button 5 with your thumb. While both middle-5 and middle-6 encourage a somewhat unnatural hand position, using thumb-5 allows you to hit 5-6 chords with ease just by bringing your fingers together.
 
-![](/assets/img/dp/reunion89.png)
+![Reunion](/assets/img/dp/reunion89.png)
 
 
 Thumb-5 is very effective when you handle chords like 2-4-5-6 chord like you see above. 2-4-5-6 chord is one of the most difficult 4-note chords, as you cannot handle this perfectly with both middle-5 or middle-6. However, if you simply use your thumb to hit 5, it becomes much easier.
 
-![](/assets/img/dp/kyoumei67.png)
+![Kyoumei](/assets/img/dp/kyoumei67.png)
 
 In addition to chord patterns, high density patterns focus on the right side (see image above) also call for thumb-5 technique.
 
-![](/assets/img/dp/verflucht441.png)
+![Verflucht](/assets/img/dp/verflucht441.png)
 
 Also, you can handle simple double stairs in the picture above with thumb-5, because you don’t need to move your ring or middle fingers downwards
 
@@ -100,11 +100,11 @@ Moving your thumb to button 5 causes your hands to shift much more than what you
 
 ## Pinky-5 technique
 
-![](/assets/img/dp/reunion89.png)
+![Reunion](/assets/img/dp/reunion89.png)
 
 Pinky-5 was devised to cleanly hit 2-4-5-6 chord. As you read above, 2-4-5-6 chord can be handled with thumb-5, but thumb needs to travel a long distance. To overcome this challenge, pinky-5 can be used instead of thumb-5.
 
-![](/assets/img/dp/nageki24.png)
+![Nageki](/assets/img/dp/nageki24.png)
 
 Pinky 5 is very effective at chord-based patterns like Nageki No Ki SPA shown above. These kind of patterns are difficult to hit without the pinky-5 technique.
 
@@ -120,7 +120,7 @@ Thumb slide means sliding your thumb around to hit button 1 and 3. It means that
 
 Typically, you would bend down your middle finger to hit button 3 in a 1-2-3 chord... but this causes your hand to become unbalanced when you are in the middle of handling high-density patterns, moving away from buttons button 4,5,6,7. As an alternative, using the thumb slide prevents your hand from losing the center balance.
 
-![](/assets/img/dp/aa9.png)
+![AA](/assets/img/dp/aa9.png)
 
 It is very effective at some patterns like AA SPA above. 1-2-3 chords like this may put a lot of strain on your hands if you use your middle finger to hit 3. However, if you use the thumb slide technique, you can comfortable hit these kind of patterns. AA SPA non-random has a lot of 1-2-3 chords so this is a good pattern to learn how to thumb slide.
 

@@ -16,7 +16,7 @@ permalink: /compendium/random
 {:toc}
 </details>
 
-![](/assets/img/random/option_random.jpg)
+![random options](/assets/img/random/option_random.jpg)
 
 ## OFF
 
@@ -26,7 +26,7 @@ Also known as "non-ran" / 正規 (regular).
 
 ## MIRROR
 
-![](/assets/img/random/mirror.png)
+![mirror](/assets/img/random/mirror.png)
 
 The lanes are mirrored left and right.
 
@@ -34,7 +34,7 @@ Also known as 鏡 (mirror).
 
 ## R-RANDOM
 
-![](/assets/img/random/rran.png)
+![r-random](/assets/img/random/rran.png)
 
 The R stands for Rotation. The lanes are shifted left or right. The whole chart could also be mirrored. It is also possible to receive the original (non-random) chart.
 
@@ -42,7 +42,7 @@ Also known as R乱.
 
 ## RANDOM
 
-![](/assets/img/random/random.png)
+![random](/assets/img/random/random.png)
 
 The lanes are shuffled in a randomized order. There are 7! = 5040 possible permutations for SP. It is still possible to get the original chart with a very low probability.
 
@@ -50,7 +50,7 @@ Also known as 乱.
 
 ## S-RANDOM
 
-![](/assets/img/random/sran.png)
+![s-random](/assets/img/random/sran.png)
 
 Each individual notes are placed on a random lane.
 

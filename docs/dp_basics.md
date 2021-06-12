@@ -34,7 +34,7 @@ Some players recommend starting out with DBM (double battle mirror) but it is co
 
 In games like IIDX DP and BMS DP (14 keys) -- and even EZ2AC (10 key mode) -- each player has their own way of recognizing notes in a game mode with many lanes.
 
-![](/assets/img/dp/intro_key_4.png){: .half_width }
+![lane 4 of each side pressed down to indicate center](/assets/img/dp/intro_key_4.png){: .half_width }
 
 The method I use is based on where the notes fall relative to the middle lane, which would be button 4 on both sides. Based on that, I recognize notes as either being close to the center, or away from the center.
 
@@ -46,13 +46,13 @@ In beginner and normal charts, notes are commonly spread across 14 melodic scale
 
 ### Stairs and repeated bass patterns
 
-![](/assets/img/dp/stairs_white.png)
+![stairs with only white keys](/assets/img/dp/stairs_white.png)
 
-![](/assets/img/dp/stairs_blue.png)
+![stairs with only black keys](/assets/img/dp/stairs_blue.png)
 
 Above: stairs consisting of only white keys, or only black keys.
 
-![](/assets/img/dp/bass_on_1.png)
+![repeated bass on lane 1 of each side](/assets/img/dp/bass_on_1.png)
 
 Above: repeated bass notes on 1st lane of each hand.
 
@@ -62,7 +62,7 @@ These patterns are similar to low level charts in SP mode, of course; however, n
 
 Largely, there are two types of simple chord patterns in DP.
 
-![](/assets/img/dp/dp_chords.png)
+![simple dp chord](/assets/img/dp/dp_chords.png)
 
 Above image shows single-colored chords on 1p side, and mixed-color chords on 2p side.
 
@@ -80,25 +80,25 @@ Mixed color chords are the way more complex. For instance,
 
 ### Complex chords
 
-![](/assets/img/dp/chord_complex.png)
+![complex chord](/assets/img/dp/chord_complex.png)
 
 Above image shows more advanced form of chords, but the same idea; 1p side shows single-colored chords, 2p side is mixed.
 
-![](/assets/img/dp/chord_complex_2.png)
+![another complex chord](/assets/img/dp/chord_complex_2.png)
 
 If bass kicks are combined with chords, it looks like this (in this case, bass is on thumb of each hand).
 
 If you have difficulties with mixed chords like these...
 
-![](/assets/img/dp/chord_complex_3a.png)
+![yet another complex chord](/assets/img/dp/chord_complex_3a.png)
 
 then imagine hitting these instead:
 
-![](/assets/img/dp/chord_complex_3b.png)
+![complex chord with ghost notes](/assets/img/dp/chord_complex_3b.png)
 
 don't actually hit the "ghost" notes, of course.
 
-![](/assets/img/dp/chord_complex_4.png)
+![combining bass and stairs](/assets/img/dp/chord_complex_4.png)
 
 Combining everything together, it may go like this. Things like this won't be seen until level 8, so don’t worry.
 
@@ -114,7 +114,7 @@ Mind Mapping DPA (8): [https://youtu.be/QmXL6jbdX14](https://youtu.be/QmXL6jbdX1
 
 Here is a good example from Mind Mapping, showing single-color chords.
 
-![](/assets/img/dp/mindmapping.png)
+![Mind Mapping DPA](/assets/img/dp/mindmapping.png)
 
 ## Closing remarks
 

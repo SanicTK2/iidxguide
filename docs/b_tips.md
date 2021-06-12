@@ -93,7 +93,7 @@ Why is this one recommended over ring on 7? For most people, it seems like using
 
 #### Pinky on 7 (Recommended)
 
-![](/assets/img/playstyle/righthand_noring.png){: .half_width }
+![pinky on 7](/assets/img/playstyle/righthand_noring.png){: .half_width }
 
 Index on 4, thumb on 5, middle on 6, and pinky on 7. Ring finger is normally not used.
 
@@ -101,7 +101,7 @@ There is a variation of called "flat pinky" where you use the side of your pinky
 
 #### Ring on 7
 
-![](/assets/img/playstyle/righthand_nopinky.png){: .half_width }
+![ring on 7](/assets/img/playstyle/righthand_nopinky.png){: .half_width }
 
 Index on 4, thumb on 5, middle on 6, and ring finger on 7. Pinky is normally not used.
 
@@ -111,7 +111,7 @@ You should also be flexible enough to hit 3 with your thumb.
 
 #### Thumb Slide aka 3/5 (Recommended)
 
-![](/assets/img/playstyle/35.png){: .half_width }
+![thumb slide](/assets/img/playstyle/35.png){: .half_width }
 
 Thumb on 1 **and** 3, and index finger on 2. Note that you are moving your left thumb around to hit button 1 or 3, using the tip of your thumb.
 
@@ -125,7 +125,7 @@ Why this style for beginners?
 
 #### 1048
 
-![](/assets/img/playstyle/1048.png){: .half_width }
+![1048 style](/assets/img/playstyle/1048.png){: .half_width }
 
 It is also useful to start learning 1048 if you wish. This style is extremely useful for high density charts that you will be facing as you go into higher level charts. The downside is that it has a steep learning curve initially due to it's somewhat unnatural formation.
 

@@ -62,7 +62,7 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 
 ### IIDX a-value explained
 
-![](/assets/img/gauge/iidx_a_value.png)
+![A graph for A value calculation](/assets/img/gauge/iidx_a_value.png)
 
 ### Hard gauge adjustment
 

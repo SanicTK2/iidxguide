@@ -22,7 +22,7 @@ Everyone is off by plus or minus a few centimeters, including this page. People 
 
 ## Lightning Model
 
-![](/assets/img/lm_dimensions.png)
+![Lightning Model cab dimensions](/assets/img/lm_dimensions.png)
 
 * These are approximate numbers based on a drawing on the official manual.
 * Screen is a 43" - [see this page](/compendium/infinitas_monitor) for more about monitors. In reality, the visible area is a bit smaller, little bit over 42".
@@ -36,7 +36,7 @@ Everyone is off by plus or minus a few centimeters, including this page. People 
 
 Important number for DP players - how far apart are the keys?
 
-![](/assets/img/dp_distance.png)
+![DP distance between keys is 19cm](/assets/img/dp_distance.png)
 
 Measured from the right edge of 1P button 7 to left edge of 2P button 1 - it should be **19.0cm**. The edge starts where the button holder (black plastic) ends.
 
@@ -48,7 +48,7 @@ Measured from the right edge of 1P button 7 to left edge of 2P button 1 - it sho
 * Bass platform to key panel is 90cm.
 * For LCD cabs, key panel (measured from wood, not acrylic panel) to bottom of monitor is 23.5cm.
 
-![](/assets/img/uniana_dimensions.jpg)
+![Unicana cab dimensions](/assets/img/uniana_dimensions.jpg)
 
 The drawing above is from Korean cab manual from Uniana. Numbers called out should be the same as Japanese cabs (the only real difference is the monitor size, height, and distance).
 
