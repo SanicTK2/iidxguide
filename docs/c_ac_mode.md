@@ -331,7 +331,7 @@ Finally - if you have 100 V-Discs collected, the game will forcibly exchange 100
 
 ### DJ VIP PASS BLACK
 
-![dan mode](/assets/img/blackpass.jpg)
+![black pass](/assets/img/blackpass.jpg)
 
 If you have one -- either from V-Disc bonus or from Sunday bonus -- you can choose it before going into Standard mode. DJ VIP PASS BLACK guarantees three stages, removes level restrictions in all stages, allows you to pick the same song more than once, and allows you to play LEGGENDARIA charts without spending V-Discs. It does not guarantee Extra Stage.
 
