@@ -88,6 +88,8 @@ If you use a high white number (if your lane cover or lift covers a lot of your 
 
 The idea is that -- given the same green number -- if the play field is too small, the spacing between notes are compressed vertically, making it harder to differentiate between them.
 
+**Typically, players cover about 5%-40% of the screen.** If more than 50% of your screen is covered, strongly consider reducing it.
+
 Source: [https://the-safari.com/3103](https://the-safari.com/3103)
 
 ### Re-evaluate your green number
