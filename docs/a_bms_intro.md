@@ -1,11 +1,11 @@
 ---
-title: Intro to BMS
+title: Intro to Insane BMS
 parent: Advanced
 nav_order: 50
 permalink: /advanced/bms_intro
 ---
 
-# Introduction to BMS as a skill-improvement tool
+# Introduction to Insane BMS
 {: .no_toc }
 
 <details open markdown="block">
@@ -19,7 +19,7 @@ permalink: /advanced/bms_intro
 
 ## Disclaimer
 
-This is an *abbreviated* and *simplified* introduction to BMS for advanced level (10th dan+) IIDX players, aimed at people looking to gain IIDX skills via BMS. It will omit a lot of the historical context and skip a lot of details for brevity. It is meant to serve as an entry point; further reading is recommended via the provided links.
+This is an *abbreviated* and *simplified* introduction to BMS for advanced level (10th dan+) IIDX players, **specifically aimed at players wanting to use Insane BMS as a tool** to improve their IIDX skills. This is **not** a general introduction to BMS for everyone. It will omit a lot of the historical context and skip a lot of details for brevity. It is meant to serve as an entry point; further reading is recommended via the provided links.
 
 ## What is BMS?
 
@@ -29,27 +29,34 @@ It shares a lot of similarities with beatmania IIDX, but you should consider it 
 
 For more background information on BMS, see [BMS Overview](https://github.com/wcko87/beatoraja-english-guide/wiki/BMS-Overview).
 
+## What is Insane BMS?
+
+Insane (発狂) BMS refers to a difficulty rating system that extends beyond the traditional ☆1-☆12 scale, and charts (fumens) that are rated on the scale. You can think of it as splitting ☆12 into many different sublevels, and also adding difficulties that extend far beyond the hardest charts in IIDX.
+
+High-level IIDX and BMS players will say "BMS" and "Insane BMS" interchangeably -- they are referring to Insane BMS in both cases.
+
+(Difficulty tables are explained with more detail in a later section)
+
 ## Why should I play BMS?
 
-There are lots of reasons to check out BMS - for its diverse set of original doujin music, participating in voting events and so on. That being said, if you are here, most likely you are hearing about IIDX players using BMS as a means to improve IIDX skills.
+There are lots of reasons to check out BMS (and not just Insane BMS) - for its diverse set of original doujin music, participating in voting events and so on. That being said, if you are here, most likely you are hearing about IIDX players using Insane BMS as a means to improve IIDX skills.
 
-If your main goal is gaining in IIDX, BMS does has a lot to offer. Namely:
+If your main goal is gaining in IIDX, BMS -- especially Insane BMS -- does has a lot to offer. Namely:
 
 1. **Plethora of charts with an extremely wide range of skill levels**
 1. New challenges to keep you motivated
 1. Accessible; can run on basically any PC
 1. Most importantly, FREE
 
-The real gems are in the community-created "insane" (hakkyou / 発狂) BMS charts which is composed of charts that would be considered level 12 in IIDX.
-
-Differences to note (vs. IIDX):
+Important differences to note (vs. IIDX):
 
 1. In general, timing is much more relaxed for BMS. See [this page](/misc/iidx_lr2_beatoraja_diff) for full details.
-1. Charting style tends to be much more straightforward, focused on high density - often lacking "gimmicks" elements like BPM changes or scratch-heavy patterns.
+1. There are slight differences in gameplay, biggest one being how charge notes work. In LR2, and in the default mode of beatoraja, charge notes have a judgement in the beginning, but unlike IIDX, there is no judgement for release.
+1. Most of the time, charting style tends to be much more straightforward, focused on high density - often lacking "gimmicks" elements like BPM changes or scratch-heavy patterns.
 
-## When should I start playing BMS?
+## When should I start playing Insane BMS?
 
-When you start to "run out of songs" in IIDX at your skill level, it's a great time to get started with BMS. It is also good to start when you "hit a wall" in IIDX, the feeling you get when you are no longer making good steady progress.
+When you start to "run out of songs" in IIDX at your skill level, it's a great time to get started with Insane BMS. It is also good to start when you "hit a wall" in IIDX, the feeling you get when you are no longer making good steady progress.
 
 Usually, in SP, this happens around the time you can normal clear AA; shortly after getting 10th dan but before Chuuden. (It is not a coincidence that AA is considered ★1, the lowest level on the Insane 1 scale). But in reality, some players start earlier, some players start when they are close to Kaiden.
 
@@ -110,7 +117,7 @@ For more details on difficulty tables, [see here](https://github.com/wcko87/beat
 * **sl** Satellite table - ranges from sl0 to sl12, which maps to ☆11-★19, covering most of the insane table. Has a very active community.
 * **st** Stella table - ranges from st0 to st11, which maps to ★19+, the highest range of insane tables and extending into overjoy range. Has a very active community.
 
-In short, if you're just starting out, **get Insane 1 and Satellite**.
+In short, if you're just starting out on Insane BMS, **get Insane 1 and Satellite**. You can also get the "normal" tables to use as warm up.
 
 [This link](https://github.com/wcko87/beatoraja-english-guide/discussions/17) has a great summary of common tables.
 
@@ -120,7 +127,7 @@ In short, if you're just starting out, **get Insane 1 and Satellite**.
 * ★ DP Insane - the standard table for high level DP players, ranging from ★1 to ★13. Actively maintained.
 * **sl** DP Satellite - like SP Satellite, this is a relatively new table with high quality charts, actively maintained.
 
-All three are good tables to get for DP players, although the delta table is a bit underwhelming.
+All three are good tables to get for DP players, although the delta table is a bit underwhelming in terms of charting quality.
 
 ### How do I set up difficulty tables?
 
