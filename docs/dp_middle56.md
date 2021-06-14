@@ -8,17 +8,13 @@ permalink: /dp/middle56
 # Middle 5 vs Middle 6
 {: .no_toc }
 
-Note: this is a direct translation of [SILLYB's article](https://gall.dcinside.com/mgallery/board/view/?id=iidxdp&no=7273) by Horie. *I* in this article refers to SILLYB himself.
-
-Also worth noting that this is more of an opinion piece... then again it's from the man, SILLYB.
-
-DP Intermediate
-{: .label .label-yellow }
-
-DP Expert
+DP Advanced
 {: .label .label-red }
 
-This article is for intermediate to expert DP players. In other words, it's for DP players 10th dan and up.
+DP Expert
+{: .label .label-black }
+
+Note: this is a direct translation of [SILLYB's article](https://gall.dcinside.com/mgallery/board/view/?id=iidxdp&no=7273) by Horie.
 
 <details open markdown="block">
   <summary>

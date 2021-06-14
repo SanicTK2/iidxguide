@@ -1,4 +1,4 @@
-.side_bar{
+.side_bar {
     background-color: #f5f6fa;
     opacity: 0.4;
     background-image: radial-gradient(#3d3d3d 0.5px, #f5f6fa 0.5px);
@@ -31,4 +31,25 @@ img.full_width {
 
 .search-input {
     color: #e6e1e8;
+}
+
+.label {
+    vertical-align: bottom;
+    margin-left: 0;
+}
+
+.label-black {
+    color: #ffffff;
+    background-color: black;
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+    font-weight: normal;
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+    background-image: linear-gradient(90deg,
+        rgba(92, 89, 98, 0) 0%,
+        rgba(92, 89, 98, 0.8) 80%,
+        rgba(92, 89, 98, 1.0) 100%);
 }

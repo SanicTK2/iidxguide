@@ -21,8 +21,6 @@ permalink: /intermediate/switchspring
 
 Before we begin, it is worth calling out that this is an **opinion piece** by the author. Button weight has been a hot topic for the longest time, and even today, players are torn on what the right set up is. The "meta" has changed over the years. This article was written in May of 2021.
 
----
-
 ## Recommendation
 
 Assuming you are using Sanwa buttons,
@@ -36,8 +34,6 @@ This is the set up I recommend to most players. 50N springs are not easy to get,
 If you play a lot of high level SP 12s, or insane BMS, or if you play DP, you'll most likely prefer the light setup.
 
 *Other buttons (Samduck-sa, and no name Chinese buttons) will have a different feeling even with the same switch and spring. Here, we will only talk about Sanwa buttons, which is the standard.*
-
----
 
 ## Justification
 

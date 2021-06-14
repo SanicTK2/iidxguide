@@ -8,10 +8,10 @@ permalink: /dp/basics
 # DP basics
 {: .no_toc }
 
-This is a translation of [iidxdp's article](https://gall.dcinside.com/mgallery/board/view/?id=iidxdp&no=6364), originally written in Korean. Translation by Horie.
-
 DP Beginner
 {: .label .label-green }
+
+This is a translation of [iidxdp's article](https://gall.dcinside.com/mgallery/board/view/?id=iidxdp&no=6364), originally written in Korean. Translation by Horie.
 
 <details open markdown="block">
   <summary>

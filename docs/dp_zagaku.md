@@ -8,8 +8,8 @@ permalink: /dp/stealth_zagaku
 # Stealth Zagaku
 {: .no_toc }
 
-## TL Notes
-{: .no_toc }
+DP Expert
+{: .label .label-black }
 
 This is a translation of a presentation given by II-L. 
 
@@ -18,9 +18,6 @@ This is a translation of a presentation given by II-L.
 [Presentation on Google Slides](https://docs.google.com/presentation/d/1-D9s3UF3IbUU_Mr74IwPnShbmubh6fwup966Fdiirwc/edit?usp=sharing)
 
 Translation was done by Horie, with help from [Mya](http://ereter.net/iidxplayerdata/50717747/), [Arisa](http://ereter.net/iidxplayerdata/25848262/), and [P.ACiD](http://ereter.net/bmsplayerdata/15335/).
-
-DP Expert
-{: .label .label-red }
 
 <details open markdown="block">
   <summary>

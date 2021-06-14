@@ -8,15 +8,13 @@ permalink: /dp/advanced_placement
 # Advanced finger placement for DP
 {: .no_toc }
 
-Note: this is a direct translation of [ereter's article](https://ereterblog.wordpress.com/2016/11/19/dp-%ec%86%90%eb%b0%b0%ec%b9%98-%ec%8b%ac%ed%99%94%ed%8e%b8/) by Horie. *I* in this article refers to ereter himself.
-
 DP Intermediate
 {: .label .label-yellow }
 
-DP Expert
+DP Advanced
 {: .label .label-red }
 
-This article is for intermediate to expert DP players. In other words, it's for DP players 10th dan and up.
+Note: this is a direct translation of [ereter's article](https://ereterblog.wordpress.com/2016/11/19/dp-%ec%86%90%eb%b0%b0%ec%b9%98-%ec%8b%ac%ed%99%94%ed%8e%b8/) by Horie.
 
 <details open markdown="block">
   <summary>
