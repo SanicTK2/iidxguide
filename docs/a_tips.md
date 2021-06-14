@@ -156,9 +156,11 @@ The general recommendation is that when you can hard clear three or four these, 
 
 * Bad Maniacs
 * MENDES
-* quell
+* quell~the seventh slave~
 * HAERETICUS
 * Tenkuu no Yoake (天空の夜明け)
+
+All of these songs 地力A on the hard gauge tier list. You should be able to clear about half of all 地力A tier.
 
 In terms of Insane BMS, it's typical for players to have Insane 4th or 5th dan, but rarely 6th.
 
