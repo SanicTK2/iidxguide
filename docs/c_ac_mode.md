@@ -35,51 +35,47 @@ Same song cannot be chosen more than once.
 There are limitations to what difficulty charts you can pick in Standard play. The table below shows the highest difficulty chart you can pick under certain conditions.
 
 <table class="center_table">
-  <thead>
-    <tr>
-      <th>DAN Class</th>
-      <th>Play Count</th>
-      <th>1st STAGE</th>
-      <th>2nd STAGE</th>
-      <th>FINAL STAGE<br class="spacer">EXTRA STAGE</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>None-5th Dan</td>
-      <td rowspan="3">-</td>
-      <td>LEVEL 8</td>
-      <td rowspan="2">LEVEL 10</td>
-      <td rowspan="6">No restrictions</td>
-    </tr>
-    <tr>
-      <td>6th Dan</td>
-      <td>LEVEL 9</td>
-    </tr>
-    <tr>
-      <td>7th Dan</td>
-      <td colspan="2">LEVEL 10</td>
-    </tr>
-    <tr>
-      <td rowspan="2">8th Dan and above</td>
-      <td>Under 100</td>
-      <td>LEVEL 10</td>
-      <td>LEVEL 11</td>
-    </tr>
-    <tr>
-      <td>100 or more</td>
-      <td colspan="2">LEVEL 11</td>
-    </tr>
-    <tr>
-      <td>10th Dan and above</td>
-      <td>1000 or more</td>
-      <td rowspan="2" colspan="2">No restrictions</td>
-    </tr>
-    <tr>
-      <td>Kiwami Kaiden</td>
-      <td>800 or more</td>
-    </tr>
-  </tbody>
+  <tr>
+    <th>DAN Class</th>
+    <th>Play Count</th>
+    <th>1st STAGE</th>
+    <th>2nd STAGE</th>
+    <th>FINAL STAGE<br class="spacer">EXTRA STAGE</th>
+  </tr>
+  <tr>
+    <td>None - 5th Dan</td>
+    <td rowspan="3">-</td>
+    <td>LEVEL 8</td>
+    <td rowspan="2">LEVEL 10</td>
+    <td rowspan="7">No restrictions</td>
+  </tr>
+  <tr>
+    <td>6th Dan</td>
+    <td>LEVEL 9</td>
+  </tr>
+  <tr>
+    <td>7th Dan</td>
+    <td colspan="2">LEVEL 10</td>
+  </tr>
+  <tr>
+    <td rowspan="2">8th Dan and above</td>
+    <td>Under 100</td>
+    <td>LEVEL 10</td>
+    <td>LEVEL 11</td>
+  </tr>
+  <tr>
+    <td>100 or more</td>
+    <td colspan="2">LEVEL 11</td>
+  </tr>
+  <tr>
+    <td>10th Dan and above</td>
+    <td>1000 or more</td>
+    <td rowspan="2" colspan="2">No restrictions</td>
+  </tr>
+  <tr>
+    <td>Kiwami Kaiden</td>
+    <td>800 or more</td>
+  </tr>
 </table>
 
 ### Extra Stage
@@ -140,9 +136,9 @@ To enter Extra Stage, certain conditions must be met in the final stage. These a
 
 There are important regional differences to note:
 
-* In Japan region, PASELI must be used as the form of payment when entering Standard mode in order to enter extra stage. (In other words, coin play cannot enter extra stage)
+* In Japan region, PASELI must be used as the form of payment when entering Standard (Premium) mode in order to enter extra stage. (In other words, coin play cannot enter extra stage)
   * This includes old IIDX cabs at American Round 1, which are on the Japanese eamuse network and PASELI cannot be used.
-* In Asia region and America region (including Lightning Model cabs at American Round 1), Extra Stage can be entered even on coin play, as PASELI is unavailable.
+* In Asia region and America region (including Lightning Model cabs at American Round 1), Extra Stage can be entered even on coin play Standard mode, as PASELI is unavailable.
 
 Additional notes:
 
@@ -199,15 +195,29 @@ PASELI only mode. You are given a time limit, but you can play any number of son
 
 ## Step-Up
 
-![step up](/assets/img/mode_stepup.jpg)
-
 Three songs are guaranteed, but sometimes you can play four. This is a "training" mode that also has a story.
 
-### Step-up folder
+![step up](/assets/img/mode_stepup.jpg)
 
-20 random charts are provided in this folder that matches your current step-up skill level. If you clear a song, the step-up skill increases and you are given more difficult charts; if you fail, you are given easier charts. If you clear a song with high DJ LEVEL (AAA) then you can greatly increase the skill level.
+### Tasks folder
 
-There is no penalty for EXPAND-JUDGE.
+20 random charts are provided in this folder that matches your current step-up skill level. Step-up skill level determines what level of songs show up in this folder. The skill level isn't shown to you, it is a decimal number that is stored on your profile. This number determines what level of charts are given to you in this folder.
+
+The step-up level is carried over from the previous version, but with an upper limit (level 9s). If you play class mode before entering Step Up mode for the first time, you will get an appropriate initial placement. If you play Step Up without doing that, you will start on level 1s.
+
+Depending on your result, your step-up level will change. The most impactful factor is your DJ level. Getting a higher rating (AAA) will result in a greater increase.
+
+The gauge type acts as a modifier. ASSIST-EASY or EASY gauge clear will result in a smaller increase, but failing will result in a large decrease (compared to normal gauge).
+
+HARD and EX-HARD gauge clears will result in a slightly larger increase, but fails will have less impact than a normal gauge; however, this is negated if you fail out early in a song and end up with a very low DJ LEVEL (E or F). FULL COMBO clear will greatly increase the level.
+
+There is no penalty of any kind for using EXPAND-JUDGE.
+
+Normally, new songs from the current versions do not show up in this folder. Once you complete the entire step-up story and see the ending, then you will start to see new songs show up.
+
+### Alternate Tasks folder (Ura)
+
+A new folder will appear once you beat the entire "story" for step-up mode. This is similar to the regular Tasks folder, except that new songs from the current version will also show up.
 
 ### Review folder(s)
 
@@ -215,17 +225,24 @@ There is no penalty for EXPAND-JUDGE.
 
 There are up to twelve folders for each level. You can only open folders that are 1 level below the current step-up level. It contains songs that you have **already played in other modes**, with the following restrictions:
 
-* New songs from the current version will not show up. This restriction is eventually removed at the end of the version's lifecycle.
+* New songs from the current version will not show up.
 * You must have EX-SCORE greater than 0 on it already.
-* You must have the song unlocked.
+* You must have the song unlocked, if it's part of an unlock event.
 * Songs played in class mode does not count as they save as "NO PLAY", even if you have greater than 0 EX-SCORE.
+* LEGGENDARIA charts may show up, but only if you are able to spend V-DISCs.
 
 Regional differences to note:
 
-* On Japanese network using coin play, or on old cabs at American Round 1, you are limited to [current level - 2] folders. In other words, there is no way to play songs harder than 10.
-  * On PASELI play or in Asia / America regions, this restriction does not exist.
+* On Japanese network using coin play, or on old J-region cabs at American Round 1, you are limited to [current level - 2] folders. In other words, review level 11 and 12 folders will not be available.
+* On PASELI play, or in Asia / America region cabs, this restriction does not exist.
 
-## Class
+### Practice match folder
+
+Once you fail a class in class mode, a new folder will show up to practice four songs from that course. Class mode gauge (expert gauge) is used instead; it starts at 100% in the beginning of each song, but it can be changed by holding the VEFX + EFFECT button and pressing number on the number pad.
+
+This doesn't show up until Chapter 2 of the story. 
+
+## Class Mode
 
 ![dan mode](/assets/img/mode_dan.jpg)
 
