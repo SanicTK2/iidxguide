@@ -16,7 +16,7 @@ permalink: /misc/infinitas_asio
 {:toc}
 </details>
 
-# Prerequisite hardware
+## Prerequisite hardware
 
 ASIO-compatible hardware. While Asus Xonar AE is the only one that is officially supported by the game (as seen on ARESPEAR line of Konami gaming PCs -- also on Lightning arcade cabs), other ASIO capable audio devices may work. Check [this page](https://github.com/darekasan/inf_launch_ext/blob/master/asio.md) for compatibility reports from users, and how to make registry modifications to "pretend" to the game that you have the Asus Xonar AE sound card. YMMV of course!!
 
@@ -31,7 +31,7 @@ Before you go out and buy a sound card, be mindful that -
 
 so think twice before you drop a lot of money on one.
 
-# Step by step
+## Step by step
 
 1. Launch PowerShell as administrator.
 1. Run ```Set-ExecutionPolicy Bypass``` which allows you to run arbitrary PS scripts.
