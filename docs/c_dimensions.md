@@ -30,7 +30,7 @@ When you are playing at the arcade, you would have shoes on (hopefully), but whe
 
 On old cabs, distance from top of the bass platform to the red judgement line is about **127cm-130cm**. This depends on model of the monitor of course, which varies depending on the cab.
 
-On lightning model cabs - this has not yet been accurately measured, but it seems to be slightly higher than on the old cabs.
+On lightning model cabs - this has not yet been accurately measured, but it should be about the same (130cm).
 
 ## [DP] Distance between 1P and 2P
 
