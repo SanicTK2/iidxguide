@@ -334,23 +334,31 @@ Each day of the week provides a bonus. **All time is based on Japan time.**
 
 ### V-Disc bonus
 
-Normally, each PASELI start gives you 7 V-Discs; but on Fridays, coin play (including Asia and America regions) will give you 3 V-Discs -- 6 if you are subscribed to platinum course.
+In this section, we will focus on **Asia and American region cabinets** for simplicity. For Japanese cabs, refer to [the official site](https://p.eagate.573.jp/game/2dx/28/howto/epass/paseli.html). Remember that at American Round 1 locations, Lightning Model cabs are American region, while the old cabs are Japan region.
 
-As of BISTROVER:
+Normally, in Japan region, V-Disc is premium feature only available when playing with PASELI; however, PASELI is unavailable outside of Japan, which means you cannot normally access V-Discs in Asia and America regions.
 
-* If you fail in the 1st or 2nd stage, 6 V-Discs will be automatically spent to advance to the next stage.
-* If you cleared final stage but did not meet the requirements for extra stage, 7 V-Discs will be spent to advance to extra stage.
-* Perhaps most importantly, LEGGENDARIA folder can be accessed; 4 V-Discs will be spent for each LEGGENDARIA chart played.
+That being said - when Friday bonus is active, Asia and America cabs are able to obtain and spend V-Discs. On Fridays, when you start a game mode, you are given three V-Discs at the start.
 
-On Fridays, instead of the number of V-Discs above, you will spend just one V-Disc instead.
+In Standard mode:
 
-Finally - if you have 100 V-Discs collected, the game will forcibly exchange 100 V-Discs for one DJ VIP PASS BLACK.
+* If you fail in the 1st or 2nd stage, 1 V-Disc will be automatically spent to advance to the next stage.
+* If you cleared final stage but did not meet the requirements for extra stage, 1 V-Disc will be spent to advance to extra stage. (It should be noted failing final stage will still end your credit)
+
+In Step Up and Standard, and Free modes:
+
+* LEGGENDARIA charts can be played; 1 V-Disc will be spent for each LEGGENDARIA chart played.
+
+At the end of the credit:
+
+* Remaining unused V-Discs are saved to your profile. Once you collect 100 unused V-Discs, the game will forcibly exchange 100 V-Discs for one DJ VIP PASS BLACK.
+* It should however be noted that unused V-Discs do not carry over to the next credit, you are only able to spend the three given to you at the start of each credit (i.e., you can't spend previously unused V-Discs).
 
 ### DJ VIP PASS BLACK
 
 ![black pass](/assets/img/blackpass.jpg)
 
-If you have one -- either from V-Disc bonus or from Sunday bonus -- you can choose it before going into Standard mode. DJ VIP PASS BLACK guarantees three stages, removes level restrictions in all stages, allows you to pick the same song more than once, and allows you to play LEGGENDARIA charts without spending V-Discs. It does not guarantee Extra Stage.
+If you have one -- either from unused V-Disc bonus or from Sunday bonus -- you can choose it before going into Standard mode. DJ VIP PASS BLACK guarantees three stages, removes level restrictions in all stages, allows you to pick the same song more than once, and allows you to play LEGGENDARIA charts without spending V-Discs. It does not guarantee Extra Stage.
 
 # References
 
