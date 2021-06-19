@@ -20,17 +20,17 @@ redirect_from:
 
 ## Disclaimers
 
-Updated May 2021.
+Updated June 2021.
 
 This is a list of monitors that meet the following criteria:
-* Native 120Hz+ panel and supports 120Hz input
-* 39" diagonal or larger
+* Native 120Hz+ panel and supports 120Hz input at 720p+.
+* 40" diagonal or larger
 * 16:9 aspect ratio
 * flat, not curved
 
 Features that do not affect IIDX or BMS simulators will not be explicitly called out; such as FreeSync, G-Sync, HDR, and so on.
 
-There are also a **handful of TVs** that are small enough (less than 55") and support native 120Hz input; e.g., LG NANO85, Sony X90J, and so on. This is a rapidly growing segment especially in 2021 -- you should look for reviews on [rtings.com](https://rtings.com) instead. Make sure the size of TV you are buying actually uses a 120Hz panel - it is common for TV manufacturers to use 120Hz panels for larger sizes but only 60Hz for smaller sizes of the same model -- Samsung is the worst offender in this regard.
+There are also a **handful of TVs** that are small enough (less than 55") and support native 120Hz input; e.g., LG NANO85, Sony X90J, and so on. This is a rapidly growing segment especially in 2021 -- you should look for reviews on [rtings.com](https://rtings.com). Make sure the size of TV you are buying actually uses a 120Hz panel - it is common for TV manufacturers to use 120Hz panels for larger sizes but only 60Hz for smaller sizes of the same model -- Samsung is the worst offender in this regard.
 
 ## Lightning Model display
 
@@ -43,56 +43,42 @@ For reference, [according to this page](https://land3939.info/mgame/1148), Light
 
 ## Asus
 
-### ROG Strix XG438Q
+### Asus ROG Strix XG438Q
 
-[https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg438q-model/](https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg438q-model/)
+[Official website](https://rog.asus.com/us/monitors/above-34-inches/rog-strix-xg438q-model/)
 
-43", VA panel, 4K, 120Hz
+43", VA panel, 4K, 120Hz. Around $1000. [TFTCentral review](https://www.tftcentral.co.uk/reviews/asus_rog_strix_xg438q.htm)
 
-Around $1000
+### Asus ROG Swift PG43UQ 
 
-### ROG Swift PG43UQ 
+[Official website](https://rog.asus.com/us/monitors/above-34-inches/rog-swift-pg43uq-model/)
 
-[https://rog.asus.com/us/monitors/above-34-inches/rog-swift-pg43uq-model/](https://rog.asus.com/us/monitors/above-34-inches/rog-swift-pg43uq-model/)
+43", VA panel, 4K, 144Hz. Around $1500. [Tom's hardware review](https://www.tomshardware.com/reviews/asus-rog-swift-pg43uq-4k-gaming-monitor-review-jumbo-screen-extra-bright).
 
-43", VA panel, 4K, 144Hz
+### Asus ROG Strix XG43UQ
 
-Around $1500
+[Official website](https://rog.asus.com/monitors/above-34-inches/rog-strix-xg43uq-model/)
 
-### ROG Strix XG43UQ
+43", VA panel, 4K, 144Hz, HDMI 2.1. Suspected to be around $1800-$2000, projected to have May 2021 release.
 
-[https://rog.asus.com/monitors/above-34-inches/rog-strix-xg43uq-model/](https://rog.asus.com/monitors/above-34-inches/rog-strix-xg43uq-model/)
+## Gigabyte
 
-43", VA panel, 4K, 144Hz, HDMI 2.1
+### Gigabyte Aorus FV43U
 
-Suspected to be around $1800-$2000, projected to have May 2021 release.
+[Official website](https://www.aorus.com/monitors/AORUS-FV43U)
 
-## Gigabyte Aorus
+43", VA panel, 4K, HDMI 2.1. Available for around $1050. [Tom's hardware review](https://www.tomshardware.com/reviews/gigabyte-aorus-fv43u-review-king-of-the-43-inch-class).
 
-### Aorus FV43U
-
-[https://www.aorus.com/monitors/AORUS-FV43U](https://www.aorus.com/monitors/AORUS-FV43U)
-
-43", VA panel, 4K, HDMI 2.1
-
-Around $1100
-
-## LG
+## TVs
 
 ### LG 48CX
 
-[https://www.rtings.com/monitor/reviews/lg/48-cx-oled](https://www.rtings.com/monitor/reviews/lg/48-cx-oled)
+[Official website](https://www.lg.com/us/tvs/lg-oled48cxpub-oled-4k-tv)
 
-48", OLED (potential burn-in risk!), 4K, 120Hz
-
-Around $1400
-
-## REGZA
+48", OLED (potential burn-in risk), 4K, 120Hz. Around $1400. [RTINGS review](https://www.rtings.com/monitor/reviews/lg/48-cx-oled)
 
 ### REGZA 43Z730X
 
-43", 4k panel but only supports 120Hz at 1080p.
+43", 4k panel but only supports 120Hz at 1080p. Around 100,000 JPY.
 
-Seems to be Japan only, but loved by many Japanese players.
-
-Around 100,000 JPY.
+Seems to be Japan only, but loved by many Japanese players. 
