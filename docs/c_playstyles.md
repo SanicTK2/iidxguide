@@ -16,13 +16,18 @@ permalink: /compendium/sp_playstyle
 {:toc}
 </details>
 
+## Introduction
+
+This page will cover some of the most common playstyles in IIDX. There are plenty of styles in active use by high-level players that are not covered here.
+
 ## 3/4 split - left hand (S+123)
 
 ### 1048 style
 
 This is currently the most used playstyle; it was popularized by former top ranker 1048 (Toshiya). 
 
-![1048](/assets/img/playstyle/1048.png){: .half_width }
+![1048](/assets/img/playstyle/1048.png)
+{: .image_container }
 
 The advantage is that this gives your pinky close to the turntable, and it is easy to switch to a 2:5 formation when there are lots of scratches. The downside is that it is difficult to learn initially.
 
@@ -34,17 +39,24 @@ You naturally put your left hand at a 45-degree angle, so that you hit button 1 
 
 Occasionally you'll need to hit button 3 with your right thumb, and rarely, hit button 4 with your left hand.
 
-[LICHT playing 1048 and transitioning into 3/5](https://www.youtube.com/watch?v=uM4ewMsG9Hs)
+[Example: LICHT playing 1048 and transitioning into 3/5](https://www.youtube.com/watch?v=uM4ewMsG9Hs)
+
+[Example: KKM playing transitional 1048, occasionally switching to wrist or 3/5](https://www.youtube.com/watch?v=-0WGsmgxvPA)
 
 #### Fixed 1048 (aka god pinky)
 
 In this variation of 1048, you keep your three fingers static on buttons 1-3, but stretch out your pinky to move the turntable (without really moving away from button 3). This is only possible if you have large hands and/or long fingers -- hence the name god pinky!
 
+[Example: Myousuke](https://www.youtube.com/watch?v=-iZRxU3BLH0)
+
+[Example: EBEBEBY with god pinky, with a very unique and unconventional right hand playstyle](https://www.youtube.com/watch?v=z63myEykvUY)
+
 #### Wrist scratch 1048
 
 In this variation of 1048, you use your wrist for the turntable.
 
-![wristing](/assets/img/playstyle/wrist.jpg){: .half_width }
+![wristing](/assets/img/playstyle/wrist.jpg)
+{: .image_container }
 
 It was not a major playstyle in the past, but more IIDX players started to adopt it after Lincle relaxed the timing window in scratch notes. It was popularized by insane BMS players who played with this style on the original JKOC controller.
 
@@ -56,19 +68,25 @@ Wristing has been a controversial among traditional players in the past, but as 
 
 [Example: RAG*](https://www.youtube.com/watch?v=UmLpYKFafW8)
 
+[Example: CHEPY](https://www.youtube.com/watch?v=23USdSAx1ow)
+
 ### Middle-index-thumb (aka Dolce style)
 
-In the past, this was one of the popular playstyles. While this is known as Dolce style, Dolce uses more than just one playstyle.
+In the past, this was one of the popular playstyles. While this is known as Dolce style, it is a bit of a misnomer, as he uses a variety of playstyles -- whatever suits the song he is playing.
 
-![dolce style](/assets/img/playstyle/dolce.png){: .half_width }
+![dolce style](/assets/img/playstyle/dolce.png)
+{: .image_container }
 
-The issues with this playstyle is that you need to bend your middle finger a lot, since it's much longer than your thumb. For this reason, it may be difficult to time on buttons 1 and 2, and you may have difficulties hitting 1-2 trills or denim patterns.
+The issue with this playstyle is that you need to bend your middle finger a lot, since it's much longer than your thumb. For this reason, it may be difficult to time on buttons 1 and 2, and you may have difficulties hitting 1-2 trills or denim patterns.
+
+[Example: DOLCE, especially around 30 second mark](https://www.youtube.com/watch?v=33Ki2EbANGU)
 
 ### Symmetric
 
 This was also one the most popular playstyles long ago -- but has since fallen out of favor. Technically this is not a 3:5 style as you will often hit buttons 4 with your left hand.
 
-![symmetric style](/assets/img/playstyle/symmetric.png){: .half_width }
+![symmetric style](/assets/img/playstyle/symmetric.png)
+{: .image_container }
 
 The (severe) downside to this playstyle is that you cannot possibly hit the turntable with your hand fixed in symmetric position, so you would need to temporarily switch to 2:5 or TAKA.S formation.
 
@@ -82,17 +100,21 @@ The (severe) downside to this playstyle is that you cannot possibly hit the turn
 
 Many people who started out playing rhythm games on a keyboard naturally transition to this playstyle, since it matches "S D F space J K L" layout used in other games.
 
-![claw style](/assets/img/playstyle/claw.jpg){: .half_width }
+![claw style](/assets/img/playstyle/claw.jpg)
+{: .image_container }
 
 This style was frequently used in the past as well, but it is considered less than ideal. 
 
 This also has a severe downside that you cannot hit the turntable, so you must temporarily switch to a different playstyle when you see scratches.
 
+[Example - KUREI](https://www.youtube.com/watch?v=5NGpykyqVDg)
+
 ### Thumb-index-thumb (aka 3/5 or thumb slide)
 
 Your left thumb is responsible for both button 1 and 3. Japanese players call this "thumb slide".
 
-![three five](/assets/img/playstyle/35.png){: .half_width }
+![three five](/assets/img/playstyle/35.png)
+{: .image_container }
 
 Since two fingers are responsible for three buttons, there are issues when dealing with patterns with heavy 1/3 notes.
 
@@ -100,11 +122,14 @@ To overcome this:
 1. you can bring the right thumb over to hit button 3, sharing the responsibility of button 3 with your left thumb. This is called 3/5.
 1. just use this in conjunction with other playstyles like TAKA.s or 1048.
 
-[LICHT playing 1048 and transitioning into 3/5](https://www.youtube.com/watch?v=uM4ewMsG9Hs)
+[Example: LICHT playing 1048 and transitioning into 3/5](https://www.youtube.com/watch?v=uM4ewMsG9Hs)
+
+[Example: RIOO](https://www.youtube.com/watch?v=ZCeZdpsA4OM)
 
 ### Becha press (aka TAKA.S)
 
-![taka-s style](/assets/img/playstyle/takas.jpg){: .half_width }
+![taka-s style](/assets/img/playstyle/takas.jpg)
+{: .image_container }
 
 This is popularized by top ranker TAKA.S. While it is not as popular as 1048, it is still one of the major playstyles that remain among high-level players.
 
@@ -116,31 +141,23 @@ Like 3/5, this style has a severe disadvantage when the pattern is heavy on 1/3 
 
 [Example - TAKA.S playing Mendes black](https://www.youtube.com/watch?v=r0uGrdFWzzc)
 
+[Example - NEON](https://www.youtube.com/watch?v=S70FbSZGX8o)
+
 ## 3/4 split - right hand (4567)
 
 The first two styles - ring on 7 and pinky on 7 - are the two popular choices. Others, not so much.
 
 ### Index-thumb-middle-ring (ring on 7)
 
-![ring on 7](/assets/img/playstyle/righthand_nopinky.png){: .half_width }
+![ring on 7](/assets/img/playstyle/righthand_nopinky.png)
+{: .image_container }
 
 ### Index-thumb-middle-pinky (pinky on 7)
 
-![pinky on 7](/assets/img/playstyle/righthand_noring.png){: .half_width }
+![pinky on 7](/assets/img/playstyle/righthand_noring.png)
+{: .image_container }
 
 A variant of this style is called flat pinky; here, you use the blade of your pinky instead of the tip to hit 7.
-
-### Index-thumb-ring-pinky
-
-![index thumb ring pinky](/assets/img/playstyle/righthand_nomiddle.jpg){: .half_width }
-
-This is a style that doesn't use the middle finger; it is not commonly used.
-
-### Index-middle-ring-pinky
-
-![index middle ring pinky](/assets/img/playstyle/righthand_nothumb.png){: .half_width }
-
-This is basically the right hand of a 2:5 style. 
 
 ---
 
@@ -148,7 +165,8 @@ This is basically the right hand of a 2:5 style.
 
 ### Left hand (S+12)
 
-![two five](/assets/img/playstyle/25.png){: .half_width }
+![two five](/assets/img/playstyle/25.png)
+{: .image_container }
 
 This is your only choice in 2/5 basically.
 
@@ -156,26 +174,30 @@ This is your only choice in 2/5 basically.
 
 #### 3/5 transitional
 
-![three five A](/assets/img/playstyle/25_right_1a.png){: .half_width }
+![three five A](/assets/img/playstyle/25_right_1a.png)
+{: .image_container }
 
-![three five B](/assets/img/playstyle/25_right_1b.png){: .half_width }
+![three five B](/assets/img/playstyle/25_right_1b.png)
+{: .image_container }
 
-![three five C](/assets/img/playstyle/25_right_1c.png){: .half_width }
+![three five C](/assets/img/playstyle/25_right_1c.png)
+{: .image_container }
 
 These are just examples of how you could cover buttons 3-7 with your right hand. There are no hard rules; the only common thing is that
 
 * Thumb is responsible for button 3
 * Ring or pinky is responsible for button 7, mostly dependent on your 3/4 style.
 
-[Example - SHD playing MENDES with fixed 2:5 with middle on 5](https://www.youtube.com/watch?v=GFW9w0H50l8)
-
-[Example - CHARM playing Plan 8 with mostly 2:5, with one-hand and 1048 mixed in](https://www.youtube.com/watch?v=v0gehGxBBag)
+[Example - MACAO6 playing Plan 8 with mostly 2:5, with one-hand and 1048 mixed in](https://www.youtube.com/watch?v=v0gehGxBBag)
 
 #### 1:1
 
-![one to one mapping](/assets/img/playstyle/25_right_2.png){: .half_width }
+![one to one mapping](/assets/img/playstyle/25_right_2.png)
+{: .image_container }
 
 You use all of your fingers to hit buttons 3-7. Not as common as it is not very comfortable.
+
+[Example - SHD playing MENDES](https://www.youtube.com/watch?v=GFW9w0H50l8)
 
 ## References
 

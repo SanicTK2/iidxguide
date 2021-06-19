@@ -17,6 +17,16 @@ table.center_table td {
     font-weight: 800;
 }
 
+p.image_container,
+.main-content h3 + p.image_container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+p.image_container img {
+    max-width: 60%;
+}
+
 img.half_width {
     max-width: 60%;
 }
@@ -27,6 +37,12 @@ img.full_width {
 
 .main-content a {
     white-space: normal;
+}
+
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+    margin-top:2.0em;
 }
 
 .search-input {
