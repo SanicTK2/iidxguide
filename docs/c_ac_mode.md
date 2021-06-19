@@ -16,15 +16,17 @@ permalink: /compendium/ac_gamemode
 {:toc}
 </details>
 
-![mode select](/assets/img/mode_select.jpg)
-
 ## Standard
-
-![song select](/assets/img/song_select.jpg)
 
 This is the most commonly played game mode on AC.
 
 You can play three songs, plus a potential 4th song in Extra Stage, plus a potential 5th song in One More Extra Stage.
+
+![mode select](/assets/img/mode_select.jpg)
+{: .image_container }
+
+![song select](/assets/img/song_select.jpg)
+{: .image_container }
 
 You are not guaranteed three songs, however. If you fail to clear the song, you do not advance to the next stage. Exception is given to the first stage - if you fail a song that is level 5 or under, you can still advance to the second stage.
 
@@ -176,6 +178,7 @@ Only active on certain day of the week - replaces Free / Free Plus. Instead of g
 ### Hazard
 
 ![hazard](/assets/img/mode_hazard.jpg)
+{: .image_container }
 
 In Mode Select, if you press all three black keys, you can switch to Hazard mode. You are guaranteed four songs, but you play on Hazard gauge which immediately fails you out if you lose a combo. EXPAND JUDGE is disabled.
 
@@ -190,6 +193,7 @@ Only active on certain day of the week - similar to Time Hazard (8 minute timer)
 ## Premium Free
 
 ![pfree](/assets/img/mode_pfree.jpg)
+{: .image_container }
 
 PASELI only mode. You are given a time limit, but you can play any number of songs without restrictions. This tends to be the most expensive option, but the most flexible way to play.
 
@@ -198,6 +202,7 @@ PASELI only mode. You are given a time limit, but you can play any number of son
 Three songs are guaranteed, but sometimes you can play four. This is a "training" mode that also has a story.
 
 ![step up](/assets/img/mode_stepup.jpg)
+{: .image_container }
 
 ### Tasks folder
 
@@ -222,6 +227,7 @@ A new folder will appear once you beat the entire "story" for step-up mode. This
 ### Review folder(s)
 
 ![step up review](/assets/img/mode_stepup_review.jpg)
+{: .image_container }
 
 There are up to twelve folders for each level. You can only open folders that are 1 level below the current step-up level. It contains songs that you have **already played in other modes**, with the following restrictions:
 
@@ -245,6 +251,7 @@ This doesn't show up until Chapter 2 of the story.
 ## Class Mode
 
 ![dan mode](/assets/img/mode_dan.jpg)
+{: .image_container }
 
 Class mode (dan-i-nintei) measures your skill level by playing through a pre-defined course of four songs, and awards you with a badge of honor.
 
@@ -253,6 +260,7 @@ Class mode (dan-i-nintei) measures your skill level by playing through a pre-def
 ## Arena
 
 ![arena](/assets/img/mode_arena.png)
+{: .image_container }
 
 Online battle mode, or local matching (within the same store) are available. Four stages are guaranteed.
 
@@ -357,6 +365,7 @@ At the end of the credit:
 ### DJ VIP PASS BLACK
 
 ![black pass](/assets/img/blackpass.jpg)
+{: .image_container }
 
 If you have one -- either from unused V-Disc bonus or from Sunday bonus -- you can choose it before going into Standard mode. DJ VIP PASS BLACK guarantees three stages, removes level restrictions in all stages, allows you to pick the same song more than once, and allows you to play LEGGENDARIA charts without spending V-Discs. It does not guarantee Extra Stage.
 

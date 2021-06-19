@@ -18,7 +18,9 @@ table.center_table td {
 }
 
 p.image_container,
-.main-content h3 + p.image_container {
+.main-content h3 + p.image_container,
+p.image_container_full,
+.main-content h3 + p.image_container_full {
     text-align: center;
     margin-top: 10px;
 }

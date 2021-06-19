@@ -17,6 +17,7 @@ permalink: /compendium/gauge
 </details>
 
 ![gauge options screen](/assets/img/gauge/option_gauge.jpg)
+{: .image_container }
 
 ## Normal gauge
 
@@ -29,18 +30,21 @@ The rate of increase per note is (usually) relative to the number of total notes
 ## Easy Gauge
 
 ![easy gauge](/assets/img/gauge/easy.jpg)
+{: .image_container }
 
 Same as normal gauge, except that when you get BAD or POORs, the gauge will **decrease less**. You still need 80% to pass the stage, and the rate of **increase** remains the same.
 
 ## Assist Easy Gauge
 
 ![assist easy gauge](/assets/img/gauge/a_easy.jpg)
+{: .image_container }
 
 Same as easy gauge, except that you only need 60% to pass the stage.
 
 ## Hard Gauge
 
 ![hard gauge](/assets/img/gauge/hard.jpg)
+{: .image_container }
 
 This is the "survival" gauge - you start with 100%, and every BAD and POORs will decrease it. GOOD and above will still refill the gauge, although at a fixed rate. Once you hit 0%, you immediately fail out of the song.
 
@@ -51,6 +55,7 @@ At or below 30% gauge, the rate of decrease for BAD / POORs will halve.
 ## EX-Hard Gauge
 
 ![ex-hard gauge](/assets/img/gauge/exhard.jpg)
+{: .image_container }
 
 Harder version of Hard gauge - each BAD and POORs will greatly decrease the gauge, and failing out of the stage at 0%.
 

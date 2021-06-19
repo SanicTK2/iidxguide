@@ -43,7 +43,8 @@ The main disadvantage is that it takes quite a long time to learn and get used t
 
 I have been using middle 5 since 2009. Back then, I used a 1:1 position to play SP***. Only until 2015 or so, I barely hard cleared all 12s, except Beach Side Bunny. At that point, I felt my limitations in SP and started to play DP instead. Because of that, I naturally learned how to bend down my middle finger.
 
-![nonggisa style](/assets/img/dp/nonggisa.png){: .half_width }
+![nonggisa style](/assets/img/dp/nonggisa.png)
+{: .image_container }
 
 (*** TL note: he means 2:5 where he uses all five fingers on the right hand to hit 3-7)
 
