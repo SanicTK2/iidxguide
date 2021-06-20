@@ -367,7 +367,7 @@ At the end of the credit:
 ![black pass](/assets/img/blackpass.jpg)
 {: .image_container }
 
-If you have one -- either from unused V-Disc bonus or from Sunday bonus -- you can choose it before going into Standard mode. DJ VIP PASS BLACK guarantees three stages, removes level restrictions in all stages, allows you to pick the same song more than once, and allows you to play LEGGENDARIA charts without spending V-Discs. It does not guarantee Extra Stage.
+If you have one -- either from unused V-Disc bonus or from Sunday bonus -- you can choose it before going into Standard mode. DJ VIP PASS BLACK gives you all V-Disc bonuses for free -- guarantees three stages, removes level restrictions in all stages, advances you to Extra Stage if you clear final stage without needing to meet the requirements, allows you to pick the same song more than once, and allows you to play LEGGENDARIA charts.
 
 # References
 
