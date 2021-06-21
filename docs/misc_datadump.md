@@ -25,33 +25,33 @@ Notes
 * a = a function of total note count in IIDX, but depends on chart. See graph below.
 * all units in %
 
-|                  | PG          | GREAT     | GOOD      | BAD   | POOR   | 空P   | Low Life Adj<sup>※0</sup> |
-|------------------|-------------|-----------|-----------|-------|--------|-------|-----------------|
-| Beatoraja/AEASY  | T/n         | T/n       | T/n/2     | -1.5  | -3     | -0.5  | -               |
-| IIDX/AEASY       | a           | a         | a/2       | -3.2  | -4.8   | -1.6  | -               |
-|                  |             |           |           |       |        |       |                 |
-| Beatoraja/EASY   | T/n         | T/n       | T/n/2     | -1.5  | -4.5   | -1    | -               |
-| LR2/EASY         | (T/n)x1.2   | (T/n)x1.2 | (T/n)x0.6 | -3.2  | -4.8   | -1.6  | -           |
-| IIDX/EASY        | a           | a         | a/2       | -1.6  | -4.8   | -1.6  | -               |
-|                  |             |           |           |       |        |       |                 |
-| Beatoraja/NORMAL | T/n         | T/n       | T/n/2     | -3    | -6     | -2    | -               |
-| LR2/NORMAL       | T/n         | T/n       | T/n/2     | -4    | -6     | -2    | -               |
-| IIDX/NORMAL      | a           | a         | a/2       | -2    | -6     | -2    | -               |
-|                  |             |           |           |       |        |       |                 |
-| Beatoraja/HARD   | 0.15 <sup>※2</sup>    | 0.12 <sup>※2</sup>  | 0.03 <sup>※2</sup>   | -5    | -10    | -5    | Yes             |
-| LR2/HARD         | 0.1         | 0.1       | 0.05      | -6 <sup>※1</sup> | -10 <sup>※1</sup> | -2 <sup>※1</sup> | Yes          |
-| IIDX/HARD        | 0.16        | 0.16      | 0         | -5    | -9     | -5    | Yes             |
-|                  |             |           |           |       |        |       |                 |
-| Beatoraja/EXH    | 0.15 <sup>※2</sup>    | 0.06 <sup>※2</sup>  | 0         | -8    | -16    | -8    | No              |
-| IIDX/EXH         | 0.16        | 0.16      | 0         | -10   | -18    | -10   | No              |
-|                  |             |           |           |       |        |       |                 |
-| Beatoraja/DAN ※3 | 0.15       | 0.12      | 0.06      | -1.5  | -3     | -1.5  | Yes             |
-| LR2/DAN          | 0.1         | 0.1       | 0.05      | -2    | -3     | -2    | Yes             |
-| IIDX/DAN         | 0.16        | 0.16      | 0.04      | -1.5  | -2.5   | -1.5  | Yes             |
-|                  |             |           |           |       |        |       |                 |
-| IIDX/EXDAN       | 0.16        | 0.16      | 0.04      | -3.0  | -5.0   | -3.0  | No              |
-| Beatoraja/EXDAN  | 0.15        | 0.12      | 0.03      | -3    | -6     | -3    | No              |
-| Beatoraja/EXHDAN | 0.15        | 0.08      | 0         | -5    | -10    | -5    | No              |
+|                      | PG          | GREAT     | GOOD      | BAD   | POOR   | 空P   | Low Life Adj<sup>※0</sup> |
+|----------------------|-------------|-----------|-----------|-------|--------|-------|-----------------|
+| raja/AEASY           | T/n         | T/n       | T/n/2     | -1.5  | -3     | -0.5  | -               |
+| IIDX/AEASY           | a           | a         | a/2       | -3.2  | -4.8   | -1.6  | -               |
+|                      |             |           |           |       |        |       |                 |
+| raja/EASY            | T/n         | T/n       | T/n/2     | -1.5  | -4.5   | -1    | -               |
+| LR2/EASY             | (T/n)x1.2   | (T/n)x1.2 | (T/n)x0.6 | -3.2  | -4.8   | -1.6  | -               |
+| IIDX/EASY            | a           | a         | a/2       | -1.6  | -4.8   | -1.6  | -               |
+|                      |             |           |           |       |        |       |                 |
+| raja/NORMAL          | T/n         | T/n       | T/n/2     | -3    | -6     | -2    | -               |
+| LR2/NORMAL           | T/n         | T/n       | T/n/2     | -4    | -6     | -2    | -               |
+| IIDX/NORMAL          | a           | a         | a/2       | -2    | -6     | -2    | -               |
+|                      |             |           |           |       |        |       |                 |
+| raja/HARD            | 0.15 <sup>※2</sup>    | 0.12 <sup>※2</sup>  | 0.03 <sup>※2</sup>   | -5    | -10    | -5    | Yes             |
+| LR2/HARD             | 0.1         | 0.1       | 0.05      | -6 <sup>※1</sup> | -10 <sup>※1</sup> | -2 <sup>※1</sup> | Yes          |
+| IIDX/HARD            | 0.16        | 0.16      | 0         | -5    | -9     | -5    | Yes             |
+|                      |             |           |           |       |        |       |                 |
+| raja/EXHARD          | 0.15 <sup>※2</sup>    | 0.06 <sup>※2</sup>  | 0         | -8    | -16    | -8    | No              |
+| IIDX/EXHARD          | 0.16        | 0.16      | 0         | -10   | -18    | -10   | No              |
+|                      |             |           |           |       |        |       |                 |
+| raja/DAN ※3         | 0.15        | 0.12      | 0.06      | -1.5  | -3     | -1.5  | Yes             |
+| LR2/DAN              | 0.1         | 0.1       | 0.05      | -2    | -3     | -2    | Yes             |
+| IIDX/DAN             | 0.16        | 0.16      | 0.04      | -1.5  | -2.5   | -1.5  | Yes             |
+|                      |             |           |           |       |        |       |                 |
+| IIDX/EX-DAN          | 0.16        | 0.16      | 0.04      | -3.0  | -5.0   | -3.0  | No              |
+| raja/EX-DAN          | 0.15        | 0.12      | 0.03      | -3    | -6     | -3    | No              |
+| raja/EXHARD-DAN      | 0.15        | 0.08      | 0         | -5    | -10    | -5    | No              |
 
 
 These are for 7key and 14key modes; other modes in beatoraja have different values.
@@ -218,27 +218,34 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 
 ## Timing window
 
-|                            | PG     | GR     | GD      | BD        | PR               |
-|----------------------------|--------|--------|---------|-----------|------------------|
-| LR2 easy                   | ±21    | ±60    | ±120    | ±200      | +1000            |
-| LR2 normal                 | ±18    | ±40    | ±100    | ±200      | +1000            |
-| LR2 hard                   | ±15    | ±30    | ±60     | ±200      | +1000            |
-| LR2 very hard              | ±8     | ±24    | ±40     | ±200      | +1000            |
-| beatoraja easy (notes)     | ±20    | ±60    | ±150    | +220 -280 | +500 -150        |
-| beatoraja easy (turntable) | ±30    | ±70    | ±160    | +230 -290 | +500 -160        |
-| IIDX (most charts)         | ±16.67 | ±33.33 | ±116.67 | ±250      | ?                |
+For notes:
+
+|                            | PG     | GR     | GD      | BD        | PR        |
+|----------------------------|--------|--------|---------|-----------|-----------|
+| **IIDX (most charts)**     | ±16.67 | ±33.33 | ±116.67 | ±250      | ?         |
+| **LR2 easy**               | ±21    | ±60    | ±120    | ±200      | +1000     |
+| LR2 normal                 | ±18    | ±40    | ±100    | ±200      | +1000     |
+| LR2 hard                   | ±15    | ±30    | ±60     | ±200      | +1000     |
+| LR2 very hard              | ±8     | ±24    | ±40     | ±200      | +1000     |
+| raja very easy (125%)      | ±25    | ±75    | ±187    | +275 -350 | +500 -150 |
+| **raja easy (100%)**       | ±20    | ±60    | ±150    | +220 -280 | +500 -150 |
+| raja normal (75%)          | ±15    | ±45    | ±112    | +165 -210 | +500 -150 |
+| raja hard (50%)            | ±10    | ±30    | ±75     | +110 -140 | +500 -150 |
+| raja very hard (25%)       | ±5     | ±15    | ±37     | +55 -70   | +500 -150 |
 
 All units in milliseconds. Positive means before the note, negative is after the note.
 
-Special rules for beatoraja easy judge:
-* long notes: significantly larger ({-120, 120}, {-160, 160}, {-200, 200}, {-280, 220}})
-* long scratch notes: add -10 +10 to each end of long note window
-* For other judge windows: VERYEASY is 25% wider than EASY, NORMAL is 25% narrower, HARD is 50% narrower, and so on.
-* In beatoraja, empty poors are possible after a note. (This exists in IIDX , but not LR2)
+Detailed rules for beatoraja (based on easy judge):
 
-## Now what?
+* Scratch notes: add -10 +10 to each end of note timing window
+* Release window of long notes: significantly larger (±120, ±160, ±200, {+220, -280})
+* Release window of long scratch notes: add -10 +10 to each end of long note window
+* For other judge windows: VERYEASY is 25% wider than EASY, NORMAL is 25% narrower, HARD is 50% narrower, and so on. Integer math is used to scale (discard decimal value).
+* In beatoraja, empty poors are possible after a note. (also exists in IIDX , but not LR2)
 
-If you only care about EX-score, beatoraja is slightly harder, since its PGREAT window is 4ms narrower.
+## Concluding Remarks
+
+If you only care about EX-score, beatoraja is ever so slightly harder, since its PGREAT window is 2ms narrower while GREAT windows are the same.
 
 If you are playing BMS DAN courses, the gauge differences are small since beatoraja will switch to LR2 gauge (for "fairness"). Timing is different though; with a wider GOOD window you are more likely to survive the DAN gauge.
 
