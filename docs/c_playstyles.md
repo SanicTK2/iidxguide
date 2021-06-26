@@ -43,6 +43,8 @@ Occasionally you'll need to hit button 3 with your right thumb, and rarely, hit 
 
 [Example: KKM playing transitional 1048, occasionally switching to wrist or 3/5](https://www.youtube.com/watch?v=-0WGsmgxvPA)
 
+[Example: NORI with transitional 1048](https://www.youtube.com/watch?v=HW1czBmfqCU)
+
 #### Fixed 1048 (aka god pinky)
 
 In this variation of 1048, you keep your three fingers static on buttons 1-3, but stretch out your pinky to move the turntable (without really moving away from button 3). This is only possible if you have large hands and/or long fingers -- hence the name god pinky!
