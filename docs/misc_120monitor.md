@@ -41,6 +41,14 @@ For reference, [according to this page](https://land3939.info/mgame/1148), Light
 * 43" VA panel at native 1080p 120Hz.
 * Cab uses 1600x900@120Hz over DisplayPort (the game is 720p however, so it's upscaled to 900p)
 
+## Acer
+
+### Acer Predator CG7 (CG437K Pbmiiippuzx)
+
+[Official website](https://www.acer.com/ac/en/US/content/predator-series/predatorcg7)
+
+43", VA panel, 4K, 144HZ, $1500. [Tom's hardware review](https://www.tomshardware.com/reviews/acer-predator-cg437k-43-4k-hdr1000)
+
 ## Asus
 
 ### Asus ROG Strix XG438Q
