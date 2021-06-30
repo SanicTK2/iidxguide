@@ -81,6 +81,12 @@ Score tracking, lamp tracking, and top ranker tracker for DP players. You must h
 
 Website for rating DP charts. This is the de facto standard place for DP tiers.
 
+### IIDX DP International Terms (English / Japanese / Korean)
+
+[link to Google Doc](https://docs.google.com/spreadsheets/d/1Hji3jFA_hqrM8jO4w-3SzvtfS9OdhZ4xuPFk3VJS88U/edit#gid=0)
+
+Common terminology for DP.
+
 ## Top Rankers
 
 ### rekidai.info (Japanese)
