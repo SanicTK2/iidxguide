@@ -268,6 +268,19 @@ You enter a lobby with up to four players - if there are fewer than four, you ar
 
 If you are not matched at least one person, you are given the option to enter TIME FREE instead.
 
+## BPL Battle
+
+![bpl match](/assets/img/mode_bpl.jpg)
+{: .image_container }
+
+1:1 battle mode, lightning model exclusive. Added to BISTROVER on July 1st, 2021.
+
+Online private matching (uses an 8-digit password to match) and local matching are available.
+
+If you time out during online matching, you are given a choice between CPU battle or TIME FREE.  If you time out during local matching, you are forced to play the CPU.
+
+You are guaranteed two or three songs -- one of the players gets to choose. Each player selects one song; third song is random. The option to play four songs is greyed out on Asia / American cabs, as they require both players to start with PASELI.
+
 ## Daily bonuses
 
 Each day of the week provides a bonus. **All time is based on Japan time.**
