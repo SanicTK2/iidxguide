@@ -39,7 +39,8 @@ For reference, [according to this page](https://land3939.info/mgame/1148), Light
 * Manufactuer: [GTT](http://gtt.co.kr/en/?ckattempt=1)
 * Model: TLK-4300
 * 43" VA panel at native 1080p 120Hz.
-* Cab uses 1600x900@120Hz over DisplayPort (the game is 720p however, so it's upscaled to 900p)
+* Cab boots into Windows at 1080p@120Hz, and then switches to 1600x900@120Hz when the game boots. DisplayPort cable is used.
+* The game is still native 720p; it just gets upscaled. Presumably, the GPU scales the game from 720p to 900p full screen, and then the monitor upscales 900p to fit 1080p panel.
 
 ## Acer
 
