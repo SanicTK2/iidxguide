@@ -43,10 +43,6 @@ so think twice before you drop a lot of money on one.
 
 ## On audio settings
 
-The game uses 48kHz sampling rate. When using 44.1kHz, the game occasionally has audio glitches, delayed background music sync, or will have crackling sound - very, very minor though. For whatever reason, the game doesn't automatically switch ASIO to use 48kHz, at least on my Asus sound card. To address this, I manually changed the mode to 48kHz in Asus Sonic Studio app:
-
-![asus sample rate menu](https://raw.githubusercontent.com/minsang-github/rhythmgame-docs/ee220888bf28701d3d061f103d1afc79d3bcb472/res/asus_samplerate.png)
-
 If you experience glitching, dropped audio, or sync issues in the game, try adjusting the buffer size. The default is 4ms which is the minimum supported by the card; 6ms or 8ms is probably more reasonable (at the cost of very slight audio delay). Right click on the tray icon for Asus Sonic Studio, Open ASIO, and adjust the latency.
 
 ![asus asio buffer size option](https://raw.githubusercontent.com/minsang-github/rhythmgame-docs/f27101ed54afe6db7e94a2b5d93a1cb153c4d5d3/res/asus_asio.png)
