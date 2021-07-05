@@ -245,11 +245,11 @@ Detailed rules for beatoraja (based on easy judge):
 
 ## Concluding Remarks
 
-If you only care about EX-score, beatoraja is ever so slightly harder, since its PGREAT window is 2ms narrower while GREAT windows are the same.
+If you only care about EX-score, beatoraja is ever so slightly harder than LR2, since its PGREAT window is 2ms narrower while GREAT window is the same.
 
-If you are playing BMS DAN courses, the gauge differences are small since beatoraja will switch to LR2 gauge (for "fairness"). Timing is different though; with a wider GOOD window you are more likely to survive the DAN gauge.
+If you are playing BMS DAN courses, the difference between LR2 and beatoraja is very minor, since the gauge calculation will follow LR2 algorithm in both cases. It's difficult to make a 1:1 comparison, however; while beatoraja has a wider GOOD window, but empty-poor calculation is stricter.
 
-If you are playing difficulty tables, your experience will differ from others, since difficulty tables are rated using LR2. Tables are usually rated on easy or normal gauge. Even if you ignore the differences in timing, no direct comparison can be made between LR2 groove gauge and beatoraja groove gauge, since their calculation methods are different. On survival gauges though, beatoraja is always easier than LR2, so you should keep that in mind.
+If you are playing difficulty tables, your experience will differ in beatoraja vs. LR2, since difficulty tables are rated using LR2 algorithm. Tables are usually rated on easy or normal gauge of LR2. Even if you ignore the differences in timing, no direct comparison can be made between LR2 groove gauge and beatoraja groove gauge, since their calculation methods are different. On survival gauges though, beatoraja is always easier than LR2 due to the penalty fall off in the lower part of the gauge -- you should keep that in mind.
 
 If you like to use LR2 timing and gauge for everything, check out [LR2oraja](https://github.com/wcko87/lr2oraja/).
 
