@@ -32,11 +32,7 @@ Translation was done by Horie, with help from [Mya](http://ereter.net/iidxplayer
 
 ### Page 3
 
-Self-introduction of DJ II-L, champion of KAC 2012 in jubeat but now plays IIDX DP.
-
-### Pages 4-6
-
-Introduction of DJ FUSEI3 aka DJ SILENT (no words are needed).
+Self-introduction of II-L, champion of KAC 2012 in jubeat but now plays IIDX DP.
 
 ### Page 7
 
@@ -58,7 +54,7 @@ From a music teacher, I heard that there are 2 types of lazy students:
 
 * Making strategies not by playing the same chart repeatedly, but by performing an analysis of the chart and forming strategies.
 
-(TL note: Zagaku / 座学 is a word that SILENT uses often to describe the act of "studying" charts. It is a word that originates from military vocabulary to differentiate between field exercises vs. lecture or written studies.)
+(TL note: Zagaku / 座学 is a word that he uses often to describe the act of "studying" charts. It is a word that originates from military vocabulary to differentiate between field exercises vs. lecture or written studies.)
 
 Zagaku can be separated into several types, depending on the player's play style:
 
@@ -76,7 +72,7 @@ Zagaku is about memorizing how to hit patterns. Stealth Zagaku is about memorizi
 
 You don't have to memorize entire charts for Zagaku, but I recommend Stealth Zagaku when Zagaku is not sufficient and you are still experiencing difficulties.
 
-### Page 11 - SILENT's Stealth Zagaku
+### Page 11 - Stealth Zagaku
 
 1. Planning Anmitsu
 1. Planning Hand Positions
@@ -197,7 +193,7 @@ It's easy to fall into bad habits when practising with Metronome Zagaku; when th
 #### Stay motivated
 
 * Your mindset is the most important thing in Zagaku.
-* DJ SILENT says think of Zagaku process like brushing your teeth, to a point where you are uncomfortable if you skip them.
+* He says think of Zagaku process like brushing your teeth, to a point where you are uncomfortable if you skip them.
 * High-level charts might keep you motivated; but conversely, when you don't have such high-level chart to play, you would lose all motivation.
 * You will eventually encounter a "wall". Understand your limits, keep the big-picture goal in mind, but also have smaller checkpoints along the way to keep you motivated.
 
@@ -235,7 +231,7 @@ So you don’t like memorizing charts?
 So you don't like doing Zagaku?
 
 * You can do Zagaku easily. Just need a smartphone, or whatever method you can use to check the chart.
-* Even if you don't have controllers at home, you can imagine as if you are playing at AC. (TL note: SILENT advocates constructing a fake controller using cardboard to practice)
+* Even if you don't have controllers at home, you can imagine as if you are playing at AC.
 * Even if you don't have much time, try a little bit at a time. It's really down to your motivation.
 
 人生はモチベゲー
