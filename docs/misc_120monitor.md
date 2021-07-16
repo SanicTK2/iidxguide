@@ -30,8 +30,6 @@ This is a list of monitors that meet the following criteria:
 
 Features that do not affect IIDX or BMS simulators will not be explicitly called out; such as FreeSync, G-Sync, HDR, and so on.
 
-There are also a **handful of TVs** that are small enough (less than 55") and support native 120Hz input; e.g., LG NANO85, Sony X85J / X90J, and so on. This is a rapidly growing segment especially in 2021 -- you should look for reviews on [rtings.com](https://rtings.com). Make sure the size of TV you are buying actually uses a 120Hz panel - it is common for TV manufacturers to use 120Hz panels for larger sizes but only 60Hz for smaller sizes of the same model -- Samsung is the worst offender in this regard.
-
 ## Lightning Model display
 
 For reference, [according to this page](https://land3939.info/mgame/1148), Lightning Model cabs use the following primary display:
@@ -80,14 +78,11 @@ For reference, [according to this page](https://land3939.info/mgame/1148), Light
 
 ## TVs
 
-### LG 48CX
+There are also a handful of TVs that are small enough (less than 55") and support native 120Hz input; e.g.,
+* Sony X85J
+* Sony X90J
+* LG NANO85
+* LG 48CX (OLED)
+* REGZA 43Z730X
 
-[Official website](https://www.lg.com/us/tvs/lg-oled48cxpub-oled-4k-tv)
-
-48", OLED (potential burn-in risk), 4K, 120Hz. Around $1400. [RTINGS review](https://www.rtings.com/monitor/reviews/lg/48-cx-oled)
-
-### REGZA 43Z730X
-
-43", 4k panel but only supports 120Hz at 1080p. Around 100,000 JPY.
-
-Seems to be Japan only, but loved by many Japanese players. 
+... and so on. This is a rapidly growing segment especially in 2021 -- you should look for reviews on [rtings.com](https://rtings.com). Make sure the size of TV you are buying actually uses a 120Hz panel - it is common for TV manufacturers to use 120Hz panels for larger sizes but only 60Hz for smaller sizes of the same model -- Samsung is the worst offender in this regard.
