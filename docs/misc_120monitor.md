@@ -20,7 +20,7 @@ redirect_from:
 
 ## Disclaimers
 
-Updated June 2021.
+Updated July 2021.
 
 This is a list of monitors that meet the following criteria:
 * Native 120Hz+ panel and supports 120Hz input at 720p+.
@@ -68,7 +68,7 @@ For reference, [according to this page](https://land3939.info/mgame/1148), Light
 
 [Official website](https://rog.asus.com/monitors/above-34-inches/rog-strix-xg43uq-model/)
 
-43", VA panel, 4K, 144Hz, HDMI 2.1. Suspected to be around $1800-$2000, projected to have May 2021 release.
+43", VA panel, 4K, 144Hz, HDMI 2.1. Suspected to be around $1400, projected to have October 2021 release.
 
 ## Gigabyte
 
