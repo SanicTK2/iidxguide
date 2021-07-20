@@ -48,6 +48,8 @@ If you are getting too many FASTs, this is easily fixable! Consider reducing you
 
 If you are getting way too many SLOWs, you may not be having enough time to react. Increase your green number (make notes go slower) and see if it helps.
 
+Lastly, don't use a green number that is too high or too low. When it is extremely low, you are playing purely on reaction speed, which has severe (negative) impact on timing. When it is extremely high, you are giving your brain too much time to process the notes, which leads to inconsistent timing. A typical GN range is between 260 and 300.
+
 ### Fix your offset last
 
 [Use the offset setting in the blue menu to change your visual offset.](/beginner/option2#offset-adjustment)
