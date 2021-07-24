@@ -5,7 +5,7 @@ nav_order: 200
 permalink: /dp/stealth_zagaku
 ---
 
-# Stealth Zagaku
+# Stealth Zagaku (by II-L)
 {: .no_toc }
 
 DP Expert

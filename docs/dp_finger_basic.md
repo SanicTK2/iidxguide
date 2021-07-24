@@ -1,11 +1,11 @@
 ---
 title: Basic finger placement for DP
 parent: DP (Double Play)
-nav_order: 10
+nav_order: 15
 permalink: /dp/basic_placement
 ---
 
-# Basic finger placement for DP
+# Basic finger placement for DP (by ERETER)
 {: .no_toc }
 
 DP Beginner
@@ -24,7 +24,7 @@ Note: this is a direct translation of [ereter's article](https://ereterblog.word
 
 ## Before we begin
 
-In this post, I have summarized the DP hand positions that I use. This post is not about “DP must be played this way” but it’s closer to “DP can be played this way”. I think that for DP hand positions, there is no one answer to rule them all, but I thought it would be useful to share a set of positions I use while I play.
+In this post, I have summarized the DP finger placement that I use. This post is not about “DP must be played this way” but it’s closer to “DP can be played this way”. I think that for DP finger placement, there is no one answer to rule them all, but I thought it would be useful to share a set of positions I use while I play.
 
 This post is split into three parts. In this post – basics – I will talk about how each finger corresponds to button(s). Everything below is in reference to the **right** hand. ☆ refers to the IIDX scale, and ★ refers to the insane (発狂) BMS rating.
 
@@ -62,7 +62,7 @@ Anatomically, the pinky can’t really hit anything other than #7; therefore, fi
 
 ## Summary
 
-For high-density streams, other than #3 button, I use a static mapping of each key to one finger; the middle finger handles #4, ring finger hits #5 and #6, pinky is #7. Additionally, even for #3 key, for high-density streams I tend to use my thumb rather than my index finger. If you map **(thumb, index, mid, ring, pinky) to (13, 2, 4, 56, 7)**, this minimizes the finger movement, so I believe this is the DP basic finger position.
+For high-density streams, other than #3 button, I use a static mapping of each key to one finger; the middle finger handles #4, ring finger hits #5 and #6, pinky is #7. Additionally, even for #3 key, for high-density streams I tend to use my thumb rather than my index finger. If you map **(thumb, index, mid, ring, pinky) to (13, 2, 4, 56, 7)**, this minimizes the finger movement, so I believe this is the DP basic finger placement.
 
 ## References
 

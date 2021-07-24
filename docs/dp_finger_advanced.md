@@ -5,7 +5,7 @@ nav_order: 51
 permalink: /dp/advanced_placement
 ---
 
-# Advanced finger placement for DP
+# Advanced finger placement for DP (by ERETER)
 {: .no_toc }
 
 DP Intermediate

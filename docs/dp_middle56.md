@@ -5,7 +5,7 @@ nav_order: 100
 permalink: /dp/middle56
 ---
 
-# Middle 5 vs Middle 6
+# Middle 5 vs Middle 6 (by SILLYB)
 {: .no_toc }
 
 DP Advanced

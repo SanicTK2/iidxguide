@@ -44,7 +44,7 @@ Recommend songs:
 
 ### Adjust your green number first
 
-If you are getting too many FASTs, this is easily fixable! Consider reducing your green number (make notes go faster). The explanation for this is that, if have too much time to react to a note coming down, you may tend to hit too quickly. By reducing the green number, there will be a smaller window between the moment you read the notes and the moment you press the buttons. At least in theory, anyway -- don't use a green number that is too low.
+If you are getting too many FASTs, this is easily fixable! Consider reducing your green number (make notes go faster). The explanation for this is that, if have too much time to react to a note coming down, you may tend to hit too quickly. By reducing the green number, there will be a smaller window between the moment you read the notes and the moment you press the buttons.
 
 If you are getting way too many SLOWs, you may not be having enough time to react. Increase your green number (make notes go slower) and see if it helps.
 

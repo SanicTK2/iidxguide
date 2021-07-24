@@ -5,7 +5,7 @@ nav_order: 11
 permalink: /dp/basics
 ---
 
-# DP basics
+# DP basics (by IIDXDP)
 {: .no_toc }
 
 DP Beginner
