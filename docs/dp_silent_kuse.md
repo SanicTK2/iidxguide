@@ -16,6 +16,8 @@ DP Expert
 
 This is an article provided directly by DJ SILENT, in English. Japanese video version is [here](https://www.youtube.com/watch?v=yY0QLv0wZck).
 
+Special thanks to DJ [Mya](http://ereter.net/iidxplayerdata/50717747/) for making this possible.
+
 <details open markdown="block">
   <summary>
     Table of contents
