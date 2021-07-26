@@ -1,7 +1,7 @@
 ---
 title: Stealth Zagaku
 parent: DP (Double Play)
-nav_order: 200
+nav_order: 220
 permalink: /dp/stealth_zagaku
 ---
 
