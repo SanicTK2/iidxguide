@@ -268,6 +268,139 @@ You enter a lobby with up to four players - if there are fewer than four, you ar
 
 If you are not matched at least one person, you are given the option to enter TIME FREE instead.
 
+Based on your arena tier, song selection is limited to the following levels (- column is for regular beginner/normal/hyper/another charts, LEG is for leggendaria charts)
+
+<table cellspacing="1" border="0" style="text-align: center">
+  <thead>
+    <tr>
+      <td rowspan="2" style="background-color:#ff3333;">
+        A
+      </td>
+      <td colspan="2" style="background-color:#ff3333">
+        Level
+      </td>
+      <td rowspan="2" style="background-color:#333;"></td>
+      <td rowspan="2" style="background-color:orange;">
+        B
+      </td>
+      <td colspan="2" style="background-color:orange">
+        Level
+      </td>
+      <td rowspan="2" style="background-color:#333;"></td>
+      <td rowspan="2" style="background-color:green;">
+        C
+      </td>
+      <td colspan="2" style="background-color:green">
+        Level
+      </td>
+      <td rowspan="2" style="background-color:#333;"></td>
+      <td rowspan="2" style="background-color:deepskyblue;">
+        D
+      </td>
+      <td colspan="2" style="background-color:deepskyblue">
+        Level
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:#ff3333;">-</td>
+      <td style="background-color:#ff3333;">LEG</td>
+      <td style="background-color:orange;">-</td>
+      <td style="background-color:orange;">LEG</td>
+      <td style="background-color:green;">-</td>
+      <td style="background-color:green;">LEG</td>
+      <td style="background-color:deepskyblue;">-</td>
+      <td style="background-color:deepskyblue;">LEG</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="background-color:#ffcece; color: black">
+        A1
+      </td>
+      <td rowspan="5">12</td>
+      <td rowspan="5">12</td>
+      <td rowspan="5"></td>
+      <td style="background-color:#ffffce; color: black">
+        B1
+      </td>
+      <td rowspan="2">12</td>
+      <td rowspan="5">11</td>
+      <td rowspan="5"></td>
+      <td style="background-color:#ceffce; color: black">
+        C1
+      </td>
+      <td rowspan="5">10</td>
+      <td rowspan="5">10</td>
+      <td rowspan="5"></td>
+      <td style="background-color:#ceffff; color: black">
+        D1
+      </td>
+      <td rowspan="2">9</td>
+      <td rowspan="5">×</td>
+    </tr>
+    <tr>
+      <td style="background-color:#ffcece; color: black">
+        A2
+      </td>
+      <td style="background-color:#ffffce; color: black">
+        B2
+      </td>
+      <td style="background-color:#ceffce; color: black">
+        C2
+      </td>
+      <td style="background-color:#ceffff; color: black">
+        D2
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:#ffcece; color: black">
+        A3
+      </td>
+      <td style="background-color:#ffffce; color: black">
+        B3
+      </td>
+      <td rowspan="3">11</td>
+      <td style="background-color:#ceffce; color: black">
+        C3
+      </td>
+      <td style="background-color:#ceffff; color: black">
+        D3
+      </td>
+      <td rowspan="2">8</td>
+    </tr>
+    <tr>
+      <td style="background-color:#ffcece; color: black">
+        A4
+      </td>
+      <td style="background-color:#ffffce; color: black">
+        B4
+      </td>
+      <td style="background-color:#ceffce; color: black">
+        C4
+      </td>
+      <td style="background-color:#ceffff; color: black">
+        D4
+      </td>
+    </tr>
+    <tr>
+      <td style="background-color:#ffcece; color: black">
+        A5
+      </td>
+      <td style="background-color:#ffffce; color: black">
+        B5
+      </td>
+      <td style="background-color:#ceffce; color: black">
+        C5
+      </td>
+      <td style="background-color:#ceffff; color: black">
+        D5
+      </td>
+      <td>7</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## BPL Battle
 
 ![bpl match](/assets/img/mode_bpl.jpg)
