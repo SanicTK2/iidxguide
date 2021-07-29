@@ -23,7 +23,7 @@ redirect_from:
 
 When you press or hold the start button, you are initially presented with the simplified beginner option menu.
 
-![beginner option](/assets/img/option/option_menu_beginner.jpg)
+![beginner option](/assets/img/option/option_menu_beginner.png)
 
 * Use buttons 1 and 2 to adjust regular hi-speed.
 * Use 3 to turn on [Assist Easy gauge](/c_gauge.html#assist-easy-gauge).
@@ -36,7 +36,7 @@ If you are a beginner, feel free to use the Assist Easy gauge if you want the sa
 
 ## (Full, regular) options menu
 
-![full option menu](/assets/img/option/option_menu_full.jpg)
+![full option menu](/assets/img/option/option_menu_full.png)
 
 There is a lot here, but let's break it down into parts:
 
