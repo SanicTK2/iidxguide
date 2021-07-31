@@ -50,6 +50,7 @@ This enables the JUDGE display, which shows you real time count of PGREAT, GREAT
 ![gauge visibility screen](/assets/img/option2/gauge.png)
 
 ![gauge that is partially hidden](/assets/img/option2/hidegauge.png)
+{: .image_container }
 
 If you find the groove gauge distracting during gameplay, you can set this to Type B or Type C to partially hide it from your view.
 

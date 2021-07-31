@@ -36,11 +36,11 @@ When you are calibrating your timing, play a chart that meets these criteria:
 1. not heavy on scratches
 
 Recommend songs:
-* Fly Above
-* Shining World
-* DAYDREAMER
-* Element of SPADA
-* Mermaid Girl
+* Element of SPADA (7/9)
+* Fly Above (8)
+* Shining World (8/9)
+* DAYDREAMER (8/10)
+* Mermaid Girl (8/10)
 
 ### Adjust your green number first
 
@@ -76,6 +76,118 @@ Take some time to consider where on the screen you are looking. Ideally, your si
 
 This might seem obvious, but it does need to be called out. Some days, you are tired, so you hit a lot of SLOWs. Other days, you're hyped up on caffeine, so you hit a lot more FASTs thanks to your heightened reaction time. Since IIDX has a very tight timing window, this makes a lot more of a difference than you think! This doesn't directly help you with improving your timing, but it's something to keep in mind. Maybe your green number and offset are totally fine, maybe you're just a bit tired today.
 
+## Recommended songs for timing practice
+
+This is a slightly older list, but a good list nonetheless. The number of stars indicate how helpful it is for your timing practice, and not its difficulty.
+
+Gathered from [this page](https://gall.dcinside.com/board/view/?id=rhythmgame&no=5841649).
+
+### Level 8
+* Fly Above ★★★★★★★★★★
+* indigo vision ★★★★☆
+* nageki normal ★★★★☆
+* Vanessa normal s-ran ★★★★☆ 
+* four leaf ★★★★★
+* かずあそび ★★★★☆
+* Decoherence hyper ★★★☆☆
+
+### Level 9
+* Frozen ray ★★★★★
+* Plasma ★★★★★
+* Heaven above ★★★★☆
+* Howling ★★★★☆
+* Mermaid girl remix ★★★★★
+* Neo genesis ★★★★★
+* Shining world ★★★★★★★★★★
+* 高高度降下低高度開傘 ★★★★☆
+
+### Level 10
+* 5.1.1. s-ran ★★★★★
+* Abyss -The Heavens Remix- ★★★★☆
+* DXY! ★★★☆☆
+* Präludium ★★★★★
+* garden ★★★★☆
+* SigSig ★★★★★
+* SOLITON BEAM ★★★★★
+* Tizona d'El Cid ★★★★☆
+* ANDROMEDA II ★★★★★
+* Bloody Tears(IIDX EDITION) ★★★★☆
+* Bahram Attack-猫叉Master Remix- ★★★★★★★★★★
+* CROSSROAD ★★★★★
+* Dazzlin' Darlin ★★★★★★★★★★
+* double thrash another ★★★★☆
+* EDEN ★★★★★
+* Dominion hyper ★★★☆☆
+* F hyper ★★★★★
+* Flash back 90's ★★★★☆
+* Fly you to the star ★★★★★
+* Follow Tomorrow ★★★★☆
+* GO BEYOND!! ★★★★★
+* Hydrogen Blueback ★★★★☆
+* Last Burning ★★★★☆
+* Macho Gang ★☆☆☆☆ (s-ran ★★★☆☆)
+* NoN-Fiction Story! ★★★★☆
+* PHOTONGENIC ★★★★☆
+* Programmed Sun(xac Antarctic Ocean mix) ★★★☆☆
+* She is my wife ★★★☆☆
+* snow storm ★★★★★★★★★★
+* Sorrows ★★★★☆
+* THANK YOU FOR PLAYING ★★★★☆
+* Turii ～Panta rhei～★★★★★
+* Vermillion ★★★☆☆
+* Zenius-I-vanisher ★★★★★
+* ZERO-ONE ★★★★☆
+* ミラージュ･レジデンス ★★★★☆
+* 冥 hyper ★★★☆☆
+* 朧 ★★★★★
+* 鉄甲乙女-under the steel- ★★★★★
+ 
+### Level 11
+* 405nm (Ryu☆mix) ★★★★☆
+* Elisha ★★★★☆
+* FLOWER ★★★★★
+* four pieces of heaven ★☆☆☆☆
+* SCHWARZSCHILD FIELD ★★★☆☆
+* Pollinosis ★★☆☆☆
+* THE BLACK KNIGHT ★★☆☆☆
+* V2 ★★★★★
+* VALLIS-NERIA ★★☆☆☆
+* ZED ★★★★★
+* Anisakis -somatic mutation type "Forza"- ★★★★★
+* ANTHEM LANDING ★★★★★
+* Be quiet ★★★★☆
+* Blind Justice ～Torn souls,Hurt Faiths～ ★★★★★
+* Blue Rain ★★★★★
+* Broadbanded ★★★★★
+* DROP ★★★★☆
+* Empire State Glory ★★★★★
+* EXTREME MACH COLLIDER ★★★★☆
+* GALGALIM ★★★☆☆
+* Giudecca ★★☆☆☆
+* GOLD RUSH ★★★★★
+* HYPERION ★★★★★
+* INAZUMA ★★★★★
+* KAMAITACHI ★★★★★
+* No.13 ★★★★★
+* Programmed Sun ★★★★☆
+* Programmed World ★★★☆☆
+* quasar ★★★★★★★★★★
+* Raison d'etre～交差する宿命～★★★★☆
+* RED ZONE ★★★★☆
+* RESONATE 1794 ★★★★★
+* Rock Da House ★★★★★
+* Second Heaven ★★★★★
+* SHADE ★★★★★★★★★★
+* SOUND OF GIALLARHORN ★★★★☆
+* Sun Field ★★★★★
+* The Dirty of Loudness ★★★☆☆
+* Ubertreffen ★★★★☆
+* Xepher ★★★★★
+* ピアノ協奏曲第1番"蠍火"  hyper  ★★★★☆
+* 仮想空間の旅人たち ★★★★★★★★★★
+* 合体せよ！ストロングイェーガー！！(Ryu☆ remix)★★★★★★★★★★
+* 龍と少女とデコヒーレンス ★★★★★★★★★
+
 ## [INF] Ensure your PC's audio latency isn't too high
 
 If you are playing at home, you might first want to confirm that your audio output does not have a significant delay. A good way to check this is to use a [test video like this one](https://www.youtube.com/watch?v=ucZl6vQ_8Uo).
@@ -85,4 +197,3 @@ If you are playing at home, you might first want to confirm that your audio outp
 Double check that you're using exclusive WASAPI setting and not shared mode -- this is configurable in the game's launcher. See the image above.
 
 There are other ways to reduce audio latency on a Windows PC, but this page will not go into detail, since it is very hardware dependent. Just gotta search online for answers and experiment on your own.
-

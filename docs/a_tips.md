@@ -25,21 +25,9 @@ Consider this an opinion piece; suggestions here may or may not be useful to you
 
 But these are common suggestions given to players aiming for kaiden.
 
+If you are not at this level yet, or if you need a review, [Tips for Intermediate Level Players](/intermediate/tips) would also be a good read. There will be a little bit of overlap between the two, if they are really that important.
+
 ## Tips
-
-### Watch your form
-
-Don't do this:
-
-![playing with wrist too low](/assets/img/hand_lift_1.png)
-
-Lift up your wrist like this, but not too high:
-
-![playing with level wrist](/assets/img/hand_lift_2.png)
-
-and remember to hit the keys with the tip of your fingers.
-
-Source: [https://the-safari.com/3072](https://the-safari.com/3072)
 
 ### Try Insane BMS
 
@@ -49,15 +37,13 @@ Playing insane BMS is the most efficient way to reach kaiden. Many players over 
 
 ### Leave RANDOM enabled
 
-Ideally you're already doing this ever since you started playing 11s, but it's not too late. When practicing, you should almost always leave random enabled, except in extremely rare cases where the chart calls for it (e.g., Diavolo, scratch songs), or when R-RAN is more ideal (e.g., Colorful Cookie, Bitter Chocolate Striker).
+Ideally you're already doing this [ever since you started playing 11s](/intermediate/tips#use-random), but it's not too late. When practicing, you should almost always leave random enabled, except in extremely rare cases where the chart calls for it (e.g., Diavolo, scratch songs), or when R-RAN is more ideal (e.g., Colorful Cookie, Bitter Chocolate Striker).
 
 [https://the-japari.tumblr.com/post/167002150470/why-you-should-use-random](https://the-japari.tumblr.com/post/167002150470/why-you-should-use-random)
 
 [https://djrea.blogspot.com/2012/10/technique.html](https://djrea.blogspot.com/2012/10/technique.html)
 
 ... but don't restart songs until you get a good random. Try to play songs to completion even if you get a bad random, if the goal is to practice.
-
-There is a small group of people who advocate for never using random because they think it is sub-optimal, or consider it "cheating". Not every opinion is worth listening to.
 
 ### Have a proper warm-up routine
 
@@ -80,21 +66,11 @@ Record your gameplay (with a hand cam) and review it. This is especially helpful
 
 Perhaps you notice that you're scratching at 16ths, when you really should be scratching 24ths. Maybe you notice yourself hitting the notes too fast or too slow in certain parts of a song.
 
-### Reduce your white number if it's too high
-
-If you use a high white number (if your lane cover or lift covers a lot of your screen), try to reduce it.
-
-![playing with high white number](/assets/img/high_wn.png)
-
-The idea is that -- given the same green number -- if the play field is too small, the spacing between notes are compressed vertically, making it harder to differentiate between them.
-
-**Typically, players cover about 5%-40% of the screen.** If more than 50% of your screen is covered, strongly consider reducing it.
-
-Source: [https://the-safari.com/3103](https://the-safari.com/3103)
-
-### Re-evaluate your green number
+### Re-evaluate your green number and white number
 
 At this level, a typical green number is between 260 to 300. If your green number deviates greatly from this, you might want to consider going back to more conventional setting and making small adjustments.
+
+Your white number should also be not too high; see [this section](/intermediate/tips#reduce-your-white-number-if-its-too-high) from Intermediate chapter.
 
 ### Go for hard clears
 
@@ -121,10 +97,12 @@ Source: [https://the-safari.com/2535](https://the-safari.com/2535)
 This is *vertical reading*, where you imagine a split between left and right side. You should avoid it -
 
 ![vertical reading](/assets/img/vertical_reading.png)
+{: .image_container }
 
 Instead, you should be using *horizontal reading* where you read them as a series of notes and chords:
 
 ![horizontal reading](/assets/img/horizontal_reading.png)
+{: .image_container }
 
 This is one of the most important topics; others have done a better job at an explanation. Continue reading here: [https://the-japari.tumblr.com/post/166760567060/horizontal-and-vertical-reading](https://the-japari.tumblr.com/post/166760567060/horizontal-and-vertical-reading)
 
@@ -177,12 +155,14 @@ This is **NOT universally true** to everyone! Keep that in mind. Mirrored kaiden
 If you are losing too much life around this section:
 
 ![nageki stairs](/assets/img/nageki_stairs.png)
+{: .image_container }
 
 ...try not to see it as *staircase pattern with some crap added in*. Instead, work on your horizontal reading.
 
 If you are failing in the last denim:
 
 ![nageki denim](/assets/img/nageki_denim.png)
+{: .image_container }
 
 take your time to practice it offline. How you hit these really depend on your play style. If you have trouble, try putting your fingers on all the keys in the "home" position of your play style, and rocking your hand forward (black keys) and then backwards (white keys).
 

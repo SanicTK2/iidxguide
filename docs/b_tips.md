@@ -64,6 +64,7 @@ Avoid the "hunt and peck" method (moving your hand around and using your index o
 This is the playstyle where your turntable hand uses ring finger, middle finger, and index finger to hit buttons 1-3. New players that come from keyboard-based rhythm games naturally gravitate to this playstyle, as it maps 1:1 to a linear layout on the keyboard (e.g., S D F space J K L).
 
 ![claw style](/assets/img/playstyle/claw.jpg){: .half_width }
+{: .image_container }
 
 The issue with this playstyle is that:
 * you are not using your left thumb, which is bad as explained above
@@ -74,6 +75,7 @@ The issue with this playstyle is that:
 Wristing is when you use the wrist - or the bottom part of your palm - to turn the turntable. When not scratching, it rests naturally on top of the turntable.
 
 ![wristing](/assets/img/playstyle/wrist.jpg){: .half_width }
+{: .image_container }
 
 While this is a method that is commonly used by high-level players, including many top rankers - it's really unnecessary if you are a beginner; in fact, it could give you bad habits. Wristing was a skill that started from BMS players playing insane BMS on PS2 KOC controller, which has a small, flat turntable that is much closer to the keys; it was a necessary skill that arose from a combination of extremely high density charts + a controller that is easy to wrist on.
 
@@ -94,6 +96,7 @@ Why is this one recommended over ring on 7? For most people, it seems like using
 #### Pinky on 7 (Recommended)
 
 ![pinky on 7](/assets/img/playstyle/righthand_noring.png){: .half_width }
+{: .image_container }
 
 Index on 4, thumb on 5, middle on 6, and pinky on 7. Ring finger is normally not used.
 
@@ -102,6 +105,7 @@ There is a variation of called "flat pinky" where you use the side of your pinky
 #### Ring on 7
 
 ![ring on 7](/assets/img/playstyle/righthand_nopinky.png){: .half_width }
+{: .image_container }
 
 Index on 4, thumb on 5, middle on 6, and ring finger on 7. Pinky is normally not used.
 
@@ -112,6 +116,7 @@ You should also be flexible enough to hit 3 with your thumb.
 #### Thumb Slide aka 3/5 (Recommended)
 
 ![thumb slide](/assets/img/playstyle/35.png){: .half_width }
+{: .image_container }
 
 Thumb on 1 **and** 3, and index finger on 2. Note that you are moving your left thumb around to hit button 1 or 3, using the tip of your thumb.
 
@@ -126,6 +131,7 @@ Why this style for beginners?
 #### 1048
 
 ![1048 style](/assets/img/playstyle/1048.png){: .half_width }
+{: .image_container }
 
 It is also useful to start learning 1048 if you wish. This style is extremely useful for high density charts that you will be facing as you go into higher level charts. The downside is that it has a steep learning curve initially due to it's somewhat unnatural formation.
 

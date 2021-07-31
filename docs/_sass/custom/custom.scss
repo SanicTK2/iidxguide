@@ -22,7 +22,7 @@ p.image_container,
 p.image_container_full,
 .main-content h3 + p.image_container_full {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 10px !important;
 }
 
 p.image_container img {
@@ -41,10 +41,16 @@ img.full_width {
     white-space: normal;
 }
 
+.main-content h1,
+.main-content h2,
+.main-content h3 {
+    font-weight: bold;
+}
+
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-    margin-top:2.0em;
+    margin-top: 2.0em;
 }
 
 .search-input {
