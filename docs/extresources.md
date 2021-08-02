@@ -67,6 +67,20 @@ Tier lists based on official eamuse statistics. This one stands out for having t
 
 Japanese blog on improving SP skills. Extremely valuable information.
 
+### at-wiki bemani2sp11 (Japanese)
+
+[https://w.atwiki.jp/bemani2sp11/pages/18.html](https://w.atwiki.jp/bemani2sp11/pages/18.html)
+
+Up-to-date list of tiers for SP 11/12 normal/hard clear tiers, with additional notes on pattern type (BSS, CN, zure, etc). Use the menu on the left to navigate between tables.
+
+### SP12 Twitter (Japanese)
+
+[https://twitter.com/iidx_sp12](https://twitter.com/iidx_sp12)
+
+Updates from 5ch IIDX 12 difficulty rating thread, also posts Twitter polls.
+
+### 
+
 ## DP
 
 ### ereter's dp laboratory (English)
