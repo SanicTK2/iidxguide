@@ -30,9 +30,9 @@ Each charge note (same for hell charge note) count as two notes - one in the beg
 
 For timing windows, [refer to this page](/misc/iidx_lr2_beatoraja_diff).
 
-### Empty POOR (aka Excessive POOR, 空POOR)
+### Excessive POOR (空POOR)
 
-Empty POOR / excessive is POOR that happens when you press a button again, right after the note was already processed (including BAD). To calculate:
+Excessive POOR is a POOR that happens when you press a button again, right after the note was already processed (including BAD). To calculate:
 
 ```
 空POOR = MISS_COUNT - COMBO_BREAK
