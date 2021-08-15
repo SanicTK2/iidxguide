@@ -515,7 +515,7 @@ At the end of the credit:
 
 If you have one -- either from unused V-Disc bonus or from Sunday bonus -- you can choose it before going into Standard mode. DJ VIP PASS BLACK gives you all V-Disc bonuses for free -- guarantees three stages, removes level restrictions in all stages, advances you to Extra Stage if you clear final stage without needing to meet the requirements, allows you to pick the same song more than once, and allows you to play LEGGENDARIA charts.
 
-# References
+## References
 
 * [IIDX 28 BISTROVER - Game Mode](https://p.eagate.573.jp/game/2dx/28/howto/mode/game_mode.html)
 * [bemaniwiki - IIDX 28 BISTROVER](https://bemaniwiki.com/index.php?beatmania%20IIDX%2028%20BISTROVER/%B1%A3%A4%B7%CD%D7%C1%C7)
