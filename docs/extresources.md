@@ -79,8 +79,6 @@ Up-to-date list of tiers for SP 11/12 normal/hard clear tiers, with additional n
 
 Updates from 5ch IIDX 12 difficulty rating thread, also posts Twitter polls.
 
-### 
-
 ## DP
 
 ### ereter's dp laboratory (English)
