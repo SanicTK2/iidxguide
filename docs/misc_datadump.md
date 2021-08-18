@@ -134,9 +134,9 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
     </tr>
 </table>
 
-
 * In IIDX and LR2, the gauge decreases at a lower rate when the gauge is at or below 30%
 * In beatoraja, this is more of a gradual decrease from 50% and down
+* According to the latest release of [LR2oraja](https://github.com/wcko87/lr2oraja/releases/tag/build1099684698), LR2 damage reduction begins at 32% and not at 30%, and you get a stage fail at 2%. This has not been confirmed by other sources but good to keep in mind that there may be slight differences.
 
 ### DAN gauge adjustment
 <table>
