@@ -22,7 +22,7 @@ Everyone is off by plus or minus a few centimeters, including this page. People 
 
 ## Height from bass platform to keys
 
-The height from top of the bass platform to the button panel is **92-93cm**. It is the same for both Lightning Model cabinets and the old cabs.
+The height from top of the bass platform to the button panel is **90-93cm**. It is the same for both Lightning Model cabinets and the old cabs.
 
 When you are playing at the arcade, you would have shoes on (hopefully), but when you are playing at home, you may not be wearing any shoes. This means you may need to compensate by having your home setup a few centimeters lower.
 
@@ -56,7 +56,7 @@ This assumes that you are using the same size monitor as the arcade, though. If 
 * Screen is a 43" - [see this page](/compendium/infinitas_monitor) for more about monitors. In reality, the visible area is a bit smaller, little bit over 42".
 * Roughly speaking, center of each turntable align with edges of the main monitor.
 * Keys to bottom fo the screen is about 23.7cm.
-* Bass platform to keys is about 93.5cm in the diagram; in reality, when measured, it seemed to be the same as old cabs (91-93cm).
+* Bass platform to keys is about 93.5cm in the diagram; in reality, when measured, it seemed to be the same as old cabs (90-93cm).
 * Depth from front end of control panel to screen is about 66.7cm. Note that lightning cab does not have the black leather-bound cushion part on the front. This is the main reason for players thinking that LM cabs are lower than old cabs (even though they are the same); it's because they stand closer to it.
 
 ## Old cabinet details
@@ -64,12 +64,16 @@ This assumes that you are using the same size monitor as the arcade, though. If 
 [This page](http://jahhoo.ldblog.jp/archives/17971701.html) has measurements taken from an old cabinet.
 
 * Bass platform is 10cm.
-* Bass platform to key panel is about 90cm from the diagram; in reality it's around 92-93cm.
+* Bass platform to key panel is about 90cm from the diagram; in reality it's around 90-93cm.
 * For LCD cabs, key panel (measured from wood, not acrylic panel) to bottom of monitor is 23.5cm.
 
 ![Uniana cab dimensions](/assets/img/uniana_dimensions.jpg)
 
 The drawing above is from Korean cab manual from Uniana. Key measurements should be mostly the same, with an exception that Uniana cabs tend to use larger monitors that are farther back and slightly higher up.
+
+## What if my monitor at home is smaller or larger?
+
+To get an equivalent experience, use an [FOV calculator as explained here](/external_resources#fov-calculator), which would give you an accurate screen distance to compensate for monitor size difference.
 
 ## Further reading
 
