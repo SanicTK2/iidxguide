@@ -165,6 +165,10 @@ Tool for generating a shortcut URL to update your rating: [https://pasta-soft.co
 
 You may want to make your BMS playing experience closely resemble IIDX so that you can easily transition between the two.
 
+### Match your setup
+
+See this page for [arcade cabinet dimensions](/compendium/cab_dimensions) and see if you can make your environment closer to arcade experience.
+
 ### Get AC- or CS- spec skins
 
 Some skins for beatoraja are AC spec, which means they follow the dimensions of IIDX. 
