@@ -50,7 +50,7 @@ Original source is [this image](https://www.gamo2.com/en/images/companies/1/ss00
  
 3. Make sure you're on the latest firmware. If you just purchased the controller, it's likely that it came with an ancient firmware - Dao does NOT ship with newest firmware installed! See [https://www.gamo2.com/en/firmware/](https://www.gamo2.com/en/firmware/) for instructions. v1.23 is the latest as of this writing. Some people swear by v1.22, that's fine too. Check their FAQ for details.
  
-4. Now that you upgraded the firmware, try switching game modes. See the link from #3 and look for "how to switch mode". Make sure you're in the right mode. A lot of people get stuck in the wrong mode and get confused why the turntables aren't working. Once you're in the right mode, you'll need to remap your input again in the game's configuration.
+4. Now that you upgraded the firmware, try switching game modes. See [this image](https://www.gamo2.com/en/images/companies/1/ss001.png?1479545558251) under "how to switch mode". Make sure you're in the right mode. A lot of people get stuck in the wrong mode and get confused why the turntables aren't working. Once you're in the right mode, you'll need to remap your input again in the game's configuration.
  
 5. Open up USB Game Controllers control panel again. You should see a PS3Controller. Check that all your buttons work & spinning the analog causes the analog stick to move. If turntable is wonky, try flashing the new firmware again and see if that fixes it. If it's still weird, open up the controller and check the sensors are not out place & cables are all plugged in. It should look like this when TT is turned: [https://youtu.be/6g771LxV6w8](https://youtu.be/6g771LxV6w8)
  
