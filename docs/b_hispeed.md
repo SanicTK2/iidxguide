@@ -27,6 +27,8 @@ There are three hi-speed modes:
 
 Normal hi-speed is the default option as of BISTROVER. It is a good option for beginners. It is BPM-independent, and ranges from 1 to 20. In the game screen, before the song starts, or during the song, hold start and press a black key to increase or press a white key to reduce the speed.
 
+You can also change in the song select screen by accessing the beginner option, but this isn't recommended since you should not be using the beginner options, instead switching to the [full menu instead](/beginner/option).
+
 ## Classic hi-Speed
 
 ![classic hi speed](/assets/img/fhs/classic.png)
