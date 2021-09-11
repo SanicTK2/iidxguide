@@ -25,13 +25,13 @@ There are three hi-speed modes:
 
 ![normal hi speed](/assets/img/fhs/normal.jpg)
 
-Normal hi-speed is the default option as of BISTROVER. It is a good option for beginners. It is BPM-independent, and ranges from 1 to 20.
+Normal hi-speed is the default option as of BISTROVER. It is a good option for beginners. It is BPM-independent, and ranges from 1 to 20. In the game screen, before the song starts, or during the song, hold start and press a black key to increase or press a white key to reduce the speed.
 
 ## Classic hi-Speed
 
 ![classic hi speed](/assets/img/fhs/classic.png)
 
-Classic hi-speed is an option that is not accessible by default. It is a legacy option that can be enabled through the eamusement website. This is a BPM-dependent hi-speed option that was available beatmania IIDX in older versions instead of the normal hi-speed.
+Classic hi-speed is an option that is not accessible by default. It is a legacy option that can be enabled through the eamusement website. This is a BPM-dependent hi-speed option that was available beatmania IIDX in older versions instead of the normal hi-speed. In the game screen, before the song starts, or during the song, hold start and press a black key to increase or press a white key to reduce the speed.
 
 ## Floating Hi-Speed
 
