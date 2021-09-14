@@ -27,6 +27,10 @@ All resources obtained from the official website only. Please do not request hig
 
 <div>
     <div class="customize">
+        <div class="customize_img"><img src="/assets/img/shop/tt/default.jpg" /></div>
+        <div class="customize_label">Default</div>
+    </div>
+    <div class="customize">
         <div class="customize_img"><img src="/assets/img/shop/tt/022.jpg" /></div>
         <div class="customize_label">トラン (Tran)</div>
     </div>

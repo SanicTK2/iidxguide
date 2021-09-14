@@ -26,6 +26,10 @@ All resources obtained from the official website only. Please do not request hig
 ## Lane covers
 
 <div>
+    <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/default.jpg" /></div>
+      <div class="lanecover_label">Default</div>
+  </div>
   <div class="lanecover">
       <div class="lanecover_img"><img src="/assets/img/shop/lanecover/1/img_customize_051.jpg" /></div>
       <div class="lanecover_label">sigsig</div>
