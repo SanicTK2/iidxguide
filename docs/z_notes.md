@@ -1,5 +1,5 @@
 ---
-title: Notes, Beams, Judge Font, and Bomb customize options
+title: Notes, Beams, Judge Font, and Bomb
 parent: Customize
 permalink: /customize/notebeamjudgebomb
 nav_order: 101

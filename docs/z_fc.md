@@ -1,5 +1,5 @@
 ---
-title: Full Combo customize options
+title: Full Combo
 parent: Customize
 permalink: /customize/fc
 nav_order: 103
