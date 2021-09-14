@@ -2,6 +2,7 @@
 title: Lane Covers
 parent: Customize
 permalink: /customize/lanecover
+nav_order: 102
 ---
 
 # beatmania IIDX Lane Covers

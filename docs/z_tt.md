@@ -2,6 +2,7 @@
 title: Turntable emblem
 parent: Customize
 permalink: /customize/turntable
+nav_order: 104
 ---
 
 # beatmania IIDX Turntable Emblem customize options

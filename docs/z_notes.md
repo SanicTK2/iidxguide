@@ -2,6 +2,7 @@
 title: Notes, Beams, Judge Font, and Bomb customize options
 parent: Customize
 permalink: /customize/notebeamjudgebomb
+nav_order: 101
 ---
 
 # beatmania IIDX Notes, Beams, Judge Font, and Bomb customize options

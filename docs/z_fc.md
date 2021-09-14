@@ -2,6 +2,7 @@
 title: Full Combo customize options
 parent: Customize
 permalink: /customize/fc
+nav_order: 103
 ---
 
 # beatmania IIDX Full Combo effect customize options
