@@ -75,21 +75,28 @@ img.full_width {
         rgba(68, 67, 77, 1.0) 100%);
 }
 
-.lanecover {
+.lanecover, .customize {
     float: left;
     margin: 8px 2px;
     width: 160px;
     text-align: center;
 }
 
+.customize_label {
+    font-size: 13px;
+}
+
 .lanecover_label {
-    font-size: 10px;
+    font-size: 12px;
+}
+
+.lanecover_label, .customize_label {
     margin: 0 16px;
     height: 32px;
     text-align: center;
 }
 
-.lanecover_img {
+.lanecover_img, .customize_img {
     padding: 0;
     margin: 0;
 }
