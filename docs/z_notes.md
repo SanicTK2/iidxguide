@@ -19,13 +19,15 @@ nav_order: 101
 
 ## Introduction
 
-A dump of customize options for notes skin, key beam, judgement font, and bomb effect.
+Lists of customization options for the play area - notes skin, key beam, judgement font, and bomb effect.
 
 All resources obtained from the official website only. Please do not request high resolution images.
 
-Warning: rapidly flashing images.
+Warning: rapidly flashing images below.
 
 ## Note skin
+
+Default, pastel, and simple are the most commonly used. Photon and light options are also popular. Default and simple may be difficult to see on Lightning Model monitors, as the blues tend to be dark.
 
 <div>
   <div class="customize">
@@ -80,6 +82,8 @@ Warning: rapidly flashing images.
 </div>
 
 ## Key Beam
+
+Default, short, and very short are the most commonly used. Monochrome is also somewhat popular.
 
 <div>
 <div class="customize">
@@ -138,6 +142,8 @@ Warning: rapidly flashing images.
 </div>
 
 ## Judge Font
+
+Default is the most popular. Metallic blue is also common because it uses less distracting colors for PGREAT. Smart is also often used as it is small in size (and therefore take up less space).
 
 <div>
     <div class="customize">
@@ -208,6 +214,12 @@ Warning: rapidly flashing images.
 </div>
 
 ## Bomb
+
+Default is the most popular. 9th style is a simple one and perhaps the least distracting.
+
+Note that the images below aren't really to scale - some may appear significantly larger or smaller than the images below.
+
+On e-amuse play customize page, it is possible to adjust the size of the bomb.
 
 <div>
     <div class="customize">

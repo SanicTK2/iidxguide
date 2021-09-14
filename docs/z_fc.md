@@ -19,7 +19,7 @@ nav_order: 103
 
 ## Introduction
 
-A dump of customize options for full combo animation.
+List of customization options for full combo animation.
 
 All resources obtained from the official website only. Please do not request high resolution images.
 

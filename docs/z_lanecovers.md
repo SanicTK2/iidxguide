@@ -19,11 +19,16 @@ nav_order: 102
 
 ## Introduction
 
-A dump of lane covers -- which can also be used as pacemaker background, updated for BISTROVER.
+List of all lane covers -- which can also be used as pacemaker background, updated for BISTROVER.
 
 All resources obtained from the official website only. Please do not request high resolution images.
 
 ## Lane covers
+
+Notable options:
+
+* Initiation has a bottom part that is completely black (up to white number of 126)
+* Exhaust Hype has a bottom part in dark blue, although much smaller than Initiation. Up to white number of 94, the lane cover will be completely dark blue; around 100 a little bit of white part will show, just barely.
 
 <div>
     <div class="lanecover">
