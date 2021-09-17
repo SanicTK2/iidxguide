@@ -1,6 +1,6 @@
 ---
 title: Starting the game
-parent: Absolute Beginner
+parent: Getting started
 nav_order: 10
 permalink: /absolute_beginner/firstcredit
 redirect_from:

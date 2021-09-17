@@ -1,13 +1,13 @@
 ---
-title: Absolute Beginner FAQ
-parent: Absolute Beginner
+title: Getting Started FAQ
+parent: Getting started
 nav_order: 999
 permalink: /absolute_beginner/faq
 redirect_from:
   - /absolute_beginners/faq
 ---
 
-# FAQ for Absolute Beginners
+# Getting Started FAQ
 {: .no_toc }
 
 <details open markdown="block">

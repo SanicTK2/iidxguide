@@ -1,6 +1,6 @@
 ---
 title: Playing your first song
-parent: Absolute Beginner
+parent: Getting started
 nav_order: 20
 permalink: /absolute_beginner/firstsong
 redirect_from:

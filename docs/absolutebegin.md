@@ -1,11 +1,11 @@
 ---
-title: Absolute Beginner
+title: Getting started
 nav_order: 1
 has_children: true
 permalink: /absolute_beginner
 ---
 
-# Absolute Beginners
+# Getting started
 
 A section for absolute beginners who never even touched IIDX.
 
