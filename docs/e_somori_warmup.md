@@ -40,18 +40,22 @@ On or around my third credit, I play whatever I want.
 
 ## Q&A
 
-### 1
+#### 1
+{: .no_toc }
+
 **Question:** What about Wonder Bullfighter?
 
 **SOMORI:** Not bad if you get used to playing it.
 
-### 2
+#### 2
+{: .no_toc }
 
 **Question:** What about Dynamite?
 
 **SOMORI:** Fine but the notes are too fast, so maybe too much for the fingers.
 
-### 3
+#### 3
+{: .no_toc }
 
 **P.ACID:** Agreed. There is a huge difference between warming up and not warming up, do it for your health.
 

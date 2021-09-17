@@ -63,13 +63,15 @@ As you can see in early part of the video, you should be able to hit the denim j
 
 ## Q&A
 
-### 1
+#### 1
+{: .no_toc }
 
 **Question:** Is it necessary to use snapping / tilting movement of the wrist?
 
 **SOMORI:** I think not doing so would put strain on your finger joints.
 
-### 2
+#### 2
+{: .no_toc }
 
 **SGH:** How to increase finger independencies?
 
@@ -77,7 +79,8 @@ As you can see in early part of the video, you should be able to hit the denim j
 
 **P.ACID:** Read this [link for basics](https://gall.dcinside.com/mgallery/board/view/?id=iidxdp&no=7818&search_head=50&page=1).  (TL note: this one's to be translated for DP players)
 
-### 3
+#### 3
+{: .no_toc }
 
 **P.ACID:** The reason why butterfly stream is hard to hit is that it demands muscle independence between index and thumb, and between middle and ring (or pinky). This is why it's complicated.
 
