@@ -2,7 +2,7 @@
 title: Difficult trills and denims
 parent: Expert
 nav_order: 100
-permalink: /dp/trills_somori
+permalink: /expert/trills_somori
 ---
 
 # On 4-5 trill, 6-7 trill, and butterfly denim (by SOMORI)

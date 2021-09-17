@@ -2,7 +2,7 @@
 title: Warming up
 parent: Expert
 nav_order: 101
-permalink: /dp/warmup_somori
+permalink: /expert/warmup_somori
 ---
 
 # On warming up (by SOMORI)
