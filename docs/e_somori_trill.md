@@ -29,7 +29,9 @@ I recorded some videos which show you how to hit them; focus on position and mov
 
 ## 4-5 Trill
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WQpmv0mB-xE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-embed-wrapper iframe-embed-responsive-16by9">
+  <iframe class="iframe-embed" src="https://www.youtube.com/embed/WQpmv0mB-xE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 When you hit a 4-5 trill, it is important to rock your wrist up and down.
 
@@ -39,7 +41,9 @@ Using this "snapping" motion of your wrist and moving your hand like above will 
 
 ## 6-7 Trill
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/POFgVAfdi4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-embed-wrapper iframe-embed-responsive-16by9">
+  <iframe class="iframe-embed" src="https://www.youtube.com/embed/POFgVAfdi4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 When you hit 6-7 trills, it is important to tilt your wrist to **left and right**.
 
@@ -51,7 +55,9 @@ Early in the video I'm using just my fingers; latter half uses more wrist moveme
 
 ## 47-56 (Butterfly Denim)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9TK9baxjWM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="iframe-embed-wrapper iframe-embed-responsive-16by9">
+  <iframe class="iframe-embed" src="https://www.youtube.com/embed/9TK9baxjWM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 Now we are getting into more advanced topics.
 
