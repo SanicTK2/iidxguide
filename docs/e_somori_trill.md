@@ -8,7 +8,7 @@ permalink: /dp/trills_somori
 # On 4-5 trill, 6-7 trill, and butterfly denim (by SOMORI)
 {: .no_toc }
 
-This is a translation of [an article by DJ SOMORI](https://gall.dcinside.com/board/view/?id=rhythmgame_new1&no=113493&search_pos=-114595&s_type=search_name&s_keyword=%EC%86%8C%EB%A8%B8%EB%A6%AC&page=1), originally written in Korean.
+This is a translation of [an article by DJ SOMORI](https://gall.dcinside.com/board/view/?id=rhythmgame_new1&no=113493), originally written in Korean.
 
 <details open markdown="block">
   <summary>
@@ -65,7 +65,7 @@ As you can see in early part of the video, you should be able to hit the denim j
 
 ### 1
 
-**Anonymous:** Is it necessary to use snapping / tilting movement of the wrist?
+**Question:** Is it necessary to use snapping / tilting movement of the wrist?
 
 **SOMORI:** I think not doing so would put strain on your finger joints.
 
