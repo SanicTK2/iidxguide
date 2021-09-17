@@ -14,7 +14,7 @@ DP Intermediate
 DP Advanced
 {: .label .label-red }
 
-Note: this is a direct translation of [ereter's article](https://ereterblog.wordpress.com/2016/11/19/dp-%ec%86%90%eb%b0%b0%ec%b9%98-%ec%8b%ac%ed%99%94%ed%8e%b8/) by Horie.
+This is a direct translation of [ereter's article](https://ereterblog.wordpress.com/2016/11/19/dp-%ec%86%90%eb%b0%b0%ec%b9%98-%ec%8b%ac%ed%99%94%ed%8e%b8/) by Horie.
 
 <details open markdown="block">
   <summary>

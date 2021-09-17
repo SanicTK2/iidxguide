@@ -5,7 +5,7 @@ nav_order: 210
 permalink: /dp/silent_kuse
 ---
 
-# Breaking out of bad habits (by DJ SILENT)
+# Breaking out of bad habits (by SILENT)
 {: .no_toc }
 
 DP Advanced

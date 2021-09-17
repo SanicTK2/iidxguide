@@ -14,7 +14,7 @@ DP Advanced
 DP Expert
 {: .label .label-black }
 
-Note: this is a direct translation of [SILLYB's article](https://gall.dcinside.com/mgallery/board/view/?id=iidxdp&no=7273) by Horie.
+This is a direct translation of [SILLYB's article](https://gall.dcinside.com/mgallery/board/view/?id=iidxdp&no=7273) by Horie.
 
 <details open markdown="block">
   <summary>
