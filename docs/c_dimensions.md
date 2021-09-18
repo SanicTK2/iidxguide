@@ -55,6 +55,8 @@ This assumes that you are using the same size monitor as the arcade, though. If 
 * Roughly speaking, center of each turntable align with edges of the main monitor.
 * Note that lightning cab does not have the black leather-bound cushion part on the front. This is the main reason for players thinking that LM cabs are lower than old cabs (even though they are the same); it's because they stand closer to it.
 
+[Here is another player](https://mame48-g.net/%e3%80%90beatmaniaiidx-infinitasbms-%e7%ab%8b%e3%81%a1%e7%92%b0%e5%a2%83%e7%94%a8%e3%80%91%e3%83%a9%e3%82%a4%e3%83%88%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%a2%e3%83%87%e3%83%ab%e7%ad%90%e4%bd%93%e5%af%b8/413/) who measured things with a measuring tape. They also have some additional measurements.
+
 ## Old cabinet specifics
 
 [This page](http://jahhoo.ldblog.jp/archives/17971701.html) has accurate measurements taken from an old cabinet. According to the page,
