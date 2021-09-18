@@ -39,16 +39,6 @@ Other cards with Amusement IC logo will work as well; namely, new versions of Ai
 
 It is recommended that you jot down the card number on the back, just in case you lose it AND it isn't connected to a Konami account.
 
-### (Optional) Create a Konami account and link your eamusement card
-
-You can do this later - it is not a requirement to have a Konami account to play using the card.
-
-It is recommended that you create a Japanese account, and not an English-language international account. Only Japanese accounts are able to make full use of eamusement - such as paying for eamuse basic subscription (more features), linking profiles with eamusement cloud services, participating in KAC events, and so on.
-
-Follow the steps [here on remywiki](https://remywiki.com/E-amusement#Registering_a_Japanese_KONAMI_ID) with some help from Google Translate. You'll want to create a Japanese account and link your eamusement card number to your account. Note that the card can be freely unlinked and re-linked to different accounts at a later date.
-
-If you already linked your card to a non-Japanese Konami account, don't fret; you can always unlink and re-link to a Japanese account.
-
 ### Scan your card on the IIDX machine
 
 Scan your card on the green highlighted area.
@@ -84,6 +74,16 @@ If it's your first time playing, STANDARD mode is recommended. (Some people reco
 ![mode select](/assets/img/mode_select.jpg)
 
 Once you select it, the game will ask you to insert credits - do that. It will ask you if you want to play the tutorial - you should try it.
+
+### (Optional) Create a Konami account and link your eamusement card
+
+You can do this later - it is not a requirement to have a Konami account to play using the card.
+
+It is recommended that you create a Japanese account, and not an English-language international account. Only Japanese accounts are able to make full use of eamusement - such as paying for eamuse basic subscription (more features), linking profiles with eamusement cloud services, participating in KAC events, and so on.
+
+Follow the steps [here on remywiki](https://remywiki.com/E-amusement#Registering_a_Japanese_KONAMI_ID) with some help from Google Translate. You'll want to create a Japanese account and link your eamusement card number to your account. Note that the card can be freely unlinked and re-linked to different accounts at a later date.
+
+If you already linked your card to a non-Japanese Konami account, don't fret; you can always unlink and re-link to a Japanese account.
 
 ## References
 
