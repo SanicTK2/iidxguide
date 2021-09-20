@@ -29,6 +29,7 @@ Notable options:
 
 * Initiation has a bottom part that is completely black (up to white number of 126)
 * Exhaust Hype has a bottom part in dark blue, although much smaller than Initiation. Up to white number of 94, the lane cover will be completely dark blue; around 100 a little bit of white part will show, just barely.
+* For 獅子霞麗ノ舞, the bottom 30% (white number 300) is mostly white.
 
 <div>
     <div class="lanecover">
