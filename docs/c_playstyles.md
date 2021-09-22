@@ -199,6 +199,8 @@ These are just examples of how you could cover buttons 3-7 with your right hand.
 
 You use all of your fingers to hit buttons 3-7. Not as common as it is not very comfortable.
 
+[Example - LiA](https://www.youtube.com/watch?v=SOYx4JbZi_8)
+
 [Example - SHD playing MENDES](https://www.youtube.com/watch?v=GFW9w0H50l8)
 
 ## References
