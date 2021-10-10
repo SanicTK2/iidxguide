@@ -23,10 +23,18 @@ p.image_container_full,
 .main-content h3 + p.image_container_full {
     text-align: center;
     margin-top: 10px !important;
+    margin-bottom: 4px !important;
 }
 
 p.image_container img {
     max-width: 60%;
+}
+
+p.image_caption {
+    margin-top: 0;
+    margin-bottom: 24px;
+    text-align: center;
+    font-weight: bold;
 }
 
 img.half_width {
