@@ -300,6 +300,13 @@ Dates in parenthesis are release date in Japan. The "era" names are made up for 
 * Shows used options in the result screen
 * Added ability to record gameplay on LM cabs
 
+### beatmania IIDX 29 CastHour (October 13, 2021)
+{: .no_toc }
+
+* Added MSS (multi-spin scratch)
+* Added random gacha ticket system
+* Added auto offset adjustment feature, can also chanage offset during play
+
 ## List of Monitors
 
 These are official monitors that Konami distributed in Japan.
