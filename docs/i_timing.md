@@ -76,6 +76,20 @@ Take some time to consider where on the screen you are looking. Ideally, your si
 
 This might seem obvious, but it does need to be called out. Some days, you are tired, so you hit a lot of SLOWs. Other days, you're hyped up on caffeine, so you hit a lot more FASTs thanks to your heightened reaction time. Since IIDX has a very tight timing window, this makes a lot more of a difference than you think! This doesn't directly help you with improving your timing, but it's something to keep in mind. Maybe your green number and offset are totally fine, maybe you're just a bit tired today.
 
+## Recommendation from DJ SOMORI
+
+This section is a translation from [this page](https://gall.dcinside.com/board/view/?id=rhythmgame_new1&no=82337&search_pos=-90001) by DJ SOMORI.
+
+You should always be paying attention to your key taps and comparing to the song you are playing. This doesn't mean that you should be putting more power into your fingers to make a louder noise; you should instead try to make a louder key tap with the minimal movement and minimal force.
+
+When you watch videos which play high-tier songs like 天空の夜明け or Verflucht Leggegendaria by ranked players, their key sounds sound almost like hand clap videos.
+
+If you are able to make louder noise with very little movement and force, you are efficiently pressing the keys.
+
+Next - stabilizing your sight line is also important. Some players who use a high white number for the purpose of stabilizing their focus. Unless you play soflan songs, your sight line must be fixed on one spot.
+
+It is also important that you lower your green number first, before messing with the offset. If you lower the green number, you are reducing the amount of information your brain needs to process. As the result of this you may get a bit more SLOWs - at this point you can adjust the offset to compensate for this.
+
 ## Recommended songs for timing practice
 
 This is a slightly older list, but a good list nonetheless. The number of stars indicate how helpful it is for your timing practice, and not its difficulty.
