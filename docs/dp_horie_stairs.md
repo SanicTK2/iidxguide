@@ -209,16 +209,59 @@ Here are some BMS charts to practice, as recommended by P.ACID.
 * Light drivv -DP NORMAL-
 * P-ChicK-ParK (DP NORMAL)
 * Regression 2099 [14H]
+* コスモワンダラー [DP HYPER]
+* 物怪舞踏 [14KEYS]
 
-**δ9 (Hard)**
+**δ9 (harder)**
+
+* 514nm(Kucchi☆mix) [DP HYPER]
 * AXION [H14]
 * Halcyon [DP HYPER]
 * Happiness Magical Kanon [HARD]
 * Mirage Garden [HYPER 14]
 * More Selfish [14key,Hyper]
 * Pure Ruby -DP NORMAL-
+* strawberry music [14keys Hyper]
+* Symptom [DPH]
+* ドリームグライダー <14KEYS HYPER>
+* 四十五年ノ雪桜 [Hyper14]
+* 天上のポリスルイン [DP HYPER]
+* 弦月の猫 [Double]
+
+**δ10**
+
+* AIRSHAVER [14key,Hyper]
+* B.0.X [DP HYPER]
+* Dance Doll Dream [DP HYPER]
+* Derringer [14key,Hyper]
+* Hyper Prismriver [14 Main]
+* JULIAN "for B.O.F. 2009"
+* Loli Plaza [dph edit]
+* Lucid Dreaming [DP ANOTHER]
+* Madoromi [DP ANOTHER]
+* Neps Paradox [H14]
+* NEXT STAGE!!
+* Prismrose [DP HYPER++]
+* Sweet Trap
+* The Last Page [DP ANOTHER]
+* the scenery [DP HYPER]
+* ひつぎとふたご [HYPER]
+* スピカ [DP HYPER]
+* 憎しみはあの空の彼方に
+
+**δ10 (harder)**
+
+* Black Lair [HYPER]
+* dreaming (distorted envy mix) [DP ANOTHER]
+* IN
+* in daylight [14key,Hyper]
+* Modern Times
+* Pure Ruby [H14]
+* rainy beauty
+* ぼくらの惑星創造計画
 
 **★1**
+
 * Act Beloved [DP LOVEPLUS+]
 * AIRSHAVER [14key,Another]
 * Betelgeuse (ANOTHER14)
@@ -228,6 +271,7 @@ Here are some BMS charts to practice, as recommended by P.ACID.
 * Spangle
 * The infant daughter Frandle's [ANOTHER]
 
-**★1 (Hard)**
-* Amusing Colorful Pudding. (DP ANOTHER) 
-* Existence [DP ANOTHER] 
+**★1 (harder)**
+
+* Amusing Colorful Pudding. (DP ANOTHER) 강
+* Existence [DP ANOTHER] 강
