@@ -273,5 +273,5 @@ Here are some BMS charts to practice, as recommended by P.ACID.
 
 **★1 (harder)**
 
-* Amusing Colorful Pudding. (DP ANOTHER) 강
-* Existence [DP ANOTHER] 강
+* Amusing Colorful Pudding. (DP ANOTHER)
+* Existence [DP ANOTHER]
