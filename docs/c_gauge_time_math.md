@@ -18,6 +18,8 @@ permalink: /compendium/gauges_and_timing
 
 ## Gauge types
 
+For a simple, high-level explanation of each gauge types, please see [this page](/compendium/gauge).
+
 Notes
 
 * a = a function of total note count in IIDX -- see below
