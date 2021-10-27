@@ -130,3 +130,14 @@ img.full_width {
 .iframe-embed-responsive-16by9 {
     padding-bottom: 56.25%;
 }
+
+.form_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.form_container label, .form_container button {
+    display: block;
+    width: 140px;
+    margin-bottom: 12px;
+}
