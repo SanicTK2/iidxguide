@@ -1,5 +1,5 @@
 ---
-title: Basic finger placement for DP
+title: Basic finger placement
 parent: DP (Double Play)
 nav_order: 15
 permalink: /dp/basic_placement
