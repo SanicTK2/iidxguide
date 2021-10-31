@@ -67,9 +67,12 @@ That being said, matching 50/50 setup is difficult with 25g switches; 100N sprin
 
 If you have an Omron switch, it's written on the switch casing. Here is a cheat sheet:
 
+* D2MV-01-1C1 = 10g
 * D2MV-01-1C2 = 25g
-* D2MV-01-1C3 = 50g
+* D2MV-01-1C3 = 50g (old LM standard)
+* VX-01-1C23 = 50g (new LM standard as of CastHour)
 * V-10-1A4 = 100g
+* V-15-1A5 = 200g
 
 Spring weights are harder. If you don't know:
 
