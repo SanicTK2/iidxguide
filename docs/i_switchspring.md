@@ -83,3 +83,5 @@ Spring weights are harder. If you don't know:
 ## References
 
 [https://the-safari.com/2858](https://the-safari.com/2858)
+
+[https://land3939.info/mgame/767](https://land3939.info/mgame/767)
