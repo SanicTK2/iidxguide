@@ -80,6 +80,11 @@ Spring weights are harder. If you don't know:
 * Stock Dao buttons are 20g Honeywell switches and 40N springs.
 * Stock Samduck buttons ship with 45g Gersung switches 20N-30N springs. YMMV as they occasionally switch up the defaults. The only way to know is call Samduck-sa store and ask.
 
+These are official images for Sanwa springs.
+
+[![sanwa springs](/assets/img/obsa_sp.jpg)](/assets/img/obsa_sp.jpg)
+{: .image_container }
+
 ## References
 
 [https://the-safari.com/2858](https://the-safari.com/2858)
