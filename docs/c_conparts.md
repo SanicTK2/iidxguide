@@ -138,9 +138,9 @@ Stock Samduck buttons ship with 45g Gersung switches 20N-30N springs. YMMV as th
 ### DJ DAO buttons
 
 * White button
-  * [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=253)
-* Black button
   * [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=252)
+* Black button
+  * [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=253)
 * Square push button (white)
   * [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=254)
 
@@ -208,7 +208,7 @@ Comet Pinball lamps work but can be a bit dim, but they are easy to obtain and c
 ## FAQ
 
 * Can I use Omron switches with my Dao buttons?
-  * Omron and Gersung switches are compatible with Sanwa buttons, Samduck-sa buttons, and most Chinese buttons.
+  * Yes, Omron and Gersung switches are compatible with Sanwa buttons, Samduck-sa buttons, and most Chinese buttons.
 * Can I use Sanwa springs with Dao buttons?
   * Not really, the springs will be too long.
 * Can I use Sanwa springs with Samduck-sa buttons?
