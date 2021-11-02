@@ -86,7 +86,7 @@ Spring weights are harder. If you don't know:
 
 * Stock Sanwa buttons ship with V-10-1A4 (100g) switches and 100N springs.
 * Stock Dao buttons are 20g Honeywell switches and 40N springs.
-* Stock Samduck buttons ship with 45g Gersung switches 20N-30N springs. YMMV as they occasionally switch up the defaults. The only way to know is call Samduck-sa store and ask.
+* Stock Samduck buttons ship with 60g-ish Gersung switches 20N-30N springs. YMMV as they occasionally switch up the defaults. The only way to know is call Samduck-sa store and ask.
 
 These are official images for Sanwa springs. You can try to tell them apart by the density and the color (e.g., 60N springs are heat-treated, therefore darker).
 
@@ -126,7 +126,9 @@ Sanwa buttons come with V-10-1A4 (100g) switches and 100N Sanwa springs.
 
 ### Samduck-sa buttons
 
-Stock Samduck buttons ship with 45g Gersung switches 20N-30N springs. YMMV as they occasionally switch up the defaults. The only way to know is call Samduck-sa store and ask. You can always swap in Omron switches and Sanwa springs. These do not include LED lamps but are compatible with DAO lamps and ISTMall lamps.
+Stock Samduck buttons ship with 60g-ish Gersung switches 20N-30N springs. YMMV as they occasionally switch up the defaults. The only way to know is call Samduck-sa store and ask.
+
+You can always swap in Omron switches and Sanwa springs. These do not include LED lamps but are compatible with DAO lamps and ISTMall lamps.
 
 * Samduck-sa CWB 405
   * Buttons in various colors.
