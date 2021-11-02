@@ -65,25 +65,7 @@ That being said, matching 50/50 setup is difficult with 25g switches; 100N sprin
 
 ## What set up do I have???
 
-If you have an Omron switch, it's written on the switch casing. Here is a cheat sheet:
-
-* D2MV-01-1C1 = 10g
-* D2MV-01-1C2 = 25g
-* D2MV-01-1C3 = 50g (old LM standard)
-* VX-01-1C23 = 50g (new LM standard as of CastHour)
-* V-10-1A4 = 100g
-* V-15-1A5 = 200g
-
-Spring weights are harder. If you don't know:
-
-* Stock Sanwa buttons ship with V-10-1A4 (100g) switches and 100N springs.
-* Stock Dao buttons are 20g Honeywell switches and 40N springs.
-* Stock Samduck buttons ship with 45g Gersung switches 20N-30N springs. YMMV as they occasionally switch up the defaults. The only way to know is call Samduck-sa store and ask.
-
-These are official images for Sanwa springs.
-
-[![sanwa springs](/assets/img/obsa_sp.jpg)](/assets/img/obsa_sp.jpg)
-{: .image_container }
+Refer to [parts page](/compendium/parts).
 
 ## References
 
