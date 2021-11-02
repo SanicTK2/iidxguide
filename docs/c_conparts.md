@@ -16,7 +16,7 @@ permalink: /compendium/parts
 {:toc}
 </details>
 
-## What should I be using?
+## What should I get?
 
 ### Buttons
 
@@ -27,9 +27,9 @@ Buttons practically last forever, so they are a good long-term investment. They 
 
 Sanwa buttons (from Japan) feel the best, but can be expensive. This is the arcade standard. They come with Omron switches by default.
 
-Samduck-sa buttons (from Korea) feel very, very close to Sanwa buttons, at fraction of the cost. Many Korean arcades use them. Some at-home players swear by these. Samduck-sa buttons can use the same springs as Sanwa buttons. These come with Gersung switches by default, but are compatible with Omron switches.
+Samduck-sa buttons (from Korea) feel very, very close to Sanwa buttons, at a fraction of the cost. Most Korean arcades use these buttons. Some at-home players swear by these. Samduck-sa buttons can use the same springs as Sanwa buttons. These come with Gersung switches by default.
 
-DJ DAO buttons and other Chinese-manufactured buttons feel very different from Sanwas. They often have slightly different internal dimensions, which means Sanwa springs will not fit (usually the springs will be too long to fit). These are very cheap & often come by default when controllers are purchased. These will most likely be compatible with Omron and Gersung switches, as well as other cheap Chinese switches.
+DJ DAO buttons and other Chinese-manufactured buttons feel very different from Sanwas. They often have slightly different internal dimensions, which means Sanwa springs will not fit (usually the springs will be too long to fit). They are also very cheap. These usually come built-in by default when controllers are purchased.
 
 ### Switches and springs
 
@@ -69,7 +69,7 @@ Most controllers will come with LED lamps built into the buttons. You can pull t
 
 Arcade LEDs operate at 12V, most home controllers like DJ DAO operate at 5V. YuanCon is a notable exception which uses 12V.
 
-Some LED lamps work with both. Most only work with 5V, or only with 12V.
+Some LED lamps work with both. Some only work with 5V, or only with 12V.
 
 ## How do I know what I have?
 
@@ -189,13 +189,13 @@ These are very common hobby electronics parts, you may be able to find them in y
   * [Sanwa Denshi](https://item.rakuten.co.jp/sanwadenshi/ilumb_217/)
   * [ISTMall](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953)
 
-## ISTMall no-name springs
+### ISTMall no-name springs
 
 These are cheaper alternatives. They come in 20N / 30N / 40N / 60N / 100N / 200N.
 
 * [ISTMall](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992332)
 
-## LED Lamps
+### LED Lamps
 
 ISTMall lamps work fine in 5V, although a little dimmer than stock DAO lights.
 
@@ -204,3 +204,18 @@ Comet Pinball lamps work but can be a bit dim, but they are easy to obtain and c
 * [ISTMall](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992273)
 * [Comet Pinball - pick Wedge 555 type with Clear Lens](https://www.cometpinball.com/products/2smd-bulbs)
 * [GAMO2](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=266)
+
+## FAQ
+
+* Can I use Omron switches with my Dao buttons?
+  * Omron and Gersung switches are compatible with Sanwa buttons, Samduck-sa buttons, and most Chinese buttons.
+* Can I use Sanwa springs with Dao buttons?
+  * Not really, the springs will be too long.
+* Can I use Sanwa springs with Samduck-sa buttons?
+  * Yes. Samduck-sa buttons have almost identical dimensions as Sanwa buttons.
+
+## Further reading
+
+[Cons & Stuff custom controller guide](https://consandstuff.github.io/)
+
+[Rhythm Cons Wiki](https://rhythm-cons.wiki/w/Main_Page)
