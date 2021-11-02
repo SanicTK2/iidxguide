@@ -45,7 +45,7 @@ Omron switches (from Japan) are the arcade standard.
 [![gersung switch](/assets/img/parts/gersung.jpg)](/assets/img/parts/gersung.jpg)
 {: .image_container }
 
-Gersung switches (from Korea) are cheaper alternatives to Omrons. The downsides are that they do not last as long, and only comes in 45g weight.
+Gersung switches (from Korea) are cheaper alternatives to Omrons. The downsides are that they do not last as long, and only comes in 60g-ish weight.
 
 Honeywell and other no-name switches are heavily recommended against; they are too light and/or prone to failure.
 
