@@ -63,7 +63,7 @@ But if you ended up getting 25g switches anyway, they are totally fine. You can 
 
 That being said, matching 50/50 setup is difficult with 25g switches; 100N springs are a bit too heavy, and you can't really find any springs between 60N And 100N.
 
-## What set up do I have???
+## What set up do I have? Where do I buy parts?
 
 Refer to [parts page](/compendium/parts).
 
