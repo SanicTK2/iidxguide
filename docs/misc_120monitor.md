@@ -1,5 +1,5 @@
 ---
-title: Large 120Hz monitors for Infinitas
+title: 120Hz monitors
 parent: Miscellaneous
 permalink: /misc/infinitas_monitor
 redirect_from:

@@ -1,5 +1,5 @@
 ---
-title: Troubleshooting DJ DAO beatmania IIDX controllers
+title: Troubleshooting DAO
 parent: Miscellaneous
 permalink: /misc/dao_controller_faq
 ---

@@ -1,7 +1,9 @@
 ---
 title: Parts for IIDX controllers
-parent: Compendium
-permalink: /compendium/parts
+parent: Miscellaneous
+permalink: /misc/parts
+redirect_from:
+  - /compendium/parts
 ---
 
 # Parts for IIDX controllers
