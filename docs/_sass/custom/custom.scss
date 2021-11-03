@@ -50,15 +50,34 @@ img.full_width {
 }
 
 .main-content h1,
-.main-content h2,
+.main-content h2 {
+    font-weight: bold;
+    margin-top: 1.2em;
+}
+
 .main-content h3 {
     font-weight: bold;
+    margin-top: 0.8em;
 }
 
 .main-content h4,
 .main-content h5,
 .main-content h6 {
-    margin-top: 2.0em;
+    margin-top: 1.0em;
+}
+
+.main-content h2 {
+    border-bottom: 1px solid #a5a5a5;
+}
+
+.main-content h3 {
+    font-size: 20px !important;
+}
+
+.main-content h4 {
+    font-size: 16px !important;
+    text-transform: none;
+    letter-spacing: normal;
 }
 
 .search-input {
