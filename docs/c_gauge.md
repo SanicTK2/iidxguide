@@ -19,7 +19,12 @@ permalink: /compendium/gauge
 ![gauge options screen](/assets/img/gauge/option_gauge.jpg)
 {: .image_container }
 
-## Normal gauge
+## List of gauge types
+
+### Normal gauge
+
+![normal and easy gauge](/assets/img/gauge/easy.jpg)
+{: .image_container }
 
 Setting the gauge option to "OFF" will use what people usually call the normal gauge.
 
@@ -27,21 +32,18 @@ It starts at 22%; it goes up if you get GOOD or better, and goes down for BAD / 
 
 The rate of increase per note is (usually) relative to the number of total notes. The rate of decrease is fixed.
 
-## Easy Gauge
-
-![easy gauge](/assets/img/gauge/easy.jpg)
-{: .image_container }
+### Easy Gauge
 
 Same as normal gauge, except that when you get BAD or POORs, the gauge will **decrease less**. You still need 80% to pass the stage, and the rate of **increase** remains the same.
 
-## Assist Easy Gauge
+### Assist Easy Gauge
 
 ![assist easy gauge](/assets/img/gauge/a_easy.jpg)
 {: .image_container }
 
 Same as easy gauge, except that you only need 60% to pass the stage.
 
-## Hard Gauge
+### Hard Gauge
 
 ![hard gauge](/assets/img/gauge/hard.jpg)
 {: .image_container }
@@ -52,7 +54,7 @@ About 14 POORs in a row will bring your gauge down from 100% to 0%.
 
 At or below 30% gauge, the rate of decrease for BAD / POORs will halve.
 
-## EX-Hard Gauge
+### EX-Hard Gauge
 
 ![ex-hard gauge](/assets/img/gauge/exhard.jpg)
 {: .image_container }
@@ -63,7 +65,7 @@ About 6 POORs in a row will bring your gauge down from 100% to 0%.
 
 Unlike hard gauge, there is also no halved decrease rate bonus for 30% and below.
 
-## DAN Gauge
+### DAN Gauge
 
 This is not a selectable option in Standard mode, but it is used during Class mode.
 

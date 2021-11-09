@@ -40,7 +40,7 @@ Excessive POOR is a POOR that happens when you press a button again, right after
 
 ## EX-SCORE
 
-EX score is the only scoring system in the game, as of Bistrover. It's rules are simple:
+EX score is the only scoring system in the game, as of Bistrover. Its rules are simple:
 
 * PGREAT gives you 2 points.
 * GREAT gives you 1 point.
