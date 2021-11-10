@@ -62,9 +62,10 @@ Many DP players recommend beginners to be familiar with [base position](/dp/intr
 Base position means that 
 
 * hold your thumb / middle / pinky on 1 / 4 / 7
-* and move your index / ring to 2-3 / 5-6
+* move your index between 2 / 3
+* and move your ring finger between 5 / 6
 
-This position lets your finger movement to a minimum, because you mostly move your index / pinky away from the base position. It results high efficiency when it comes to hitting notes; this is sufficient to reach DP kaiden without any issues.
+This position lets your finger movement to a minimum, because you mostly move your index / ring finger away from the base position. It results high efficiency when it comes to hitting notes; this is sufficient to reach DP kaiden without any issues.
 
 [![Double Dribble DPA](/assets/img/dp/horiestairs/image3.png)](/assets/img/dp/horiestairs/image3.png)
 {: .image_container }
