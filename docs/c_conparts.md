@@ -217,9 +217,9 @@ ISTMall lamps work fine in 5V, although a little dimmer than stock DAO lights.
 
 Comet Pinball lamps work but can be a bit dim, but they are easy to obtain and come in many colors - YMMV.
 
-* [ISTMall](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992273)
+* [ISTMall 5V/12V lamps](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992273)
 * [Comet Pinball - pick Wedge 555 type with Clear Lens](https://www.cometpinball.com/products/2smd-bulbs)
-* [GAMO2](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=266)
+* [GAMO2 5V lamps](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=266)
 
 ## FAQ
 
