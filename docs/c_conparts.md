@@ -62,6 +62,8 @@ Sanwa springs (from Japan) are the arcade standard, but can be expensive and dif
 
 ISTMall springs (no-name) are much cheaper, but they tend to be a bit inconsistent (each spring can be heavier or lighter than another, even though they are supposed to be the same weight). They are also slightly shorter, which makes the buttons sink a little lower.
 
+It is recommended that you pair Sanwa buttons with Sanwa springs, since other branded springs may have different dimensions & you may not be getting the intended weight.
+
 ## LED Lamps
 
 [![LED lamps](/assets/img/parts/led.jpg)](/assets/img/parts/led.jpg)
@@ -87,7 +89,7 @@ If you have an Omron switch, it's written on the switch casing. Here is a cheat 
 Spring weights are harder. If you don't know:
 
 * Stock Sanwa buttons ship with V-10-1A4 (100g) switches and 100N springs.
-* Stock Samduck buttons ship with 60g-ish Gersung switches and 20N-30N springs. YMMV as they occasionally switch up the defaults.
+* Stock Samduck buttons ship with 60g-ish Gersung switches and 30-40N springs. YMMV as they occasionally switch up the defaults.
 * Stock ISTMall buttons come with 30N springs and Gersung switches, YMMV as they will occasionally switch up the defaults.
 * Stock Dao buttons are 20g Honeywell switches and 40N springs.
 
@@ -129,9 +131,7 @@ Sanwa buttons come with V-10-1A4 (100g) switches and 100N Sanwa springs.
 
 ### Samduck-sa buttons
 
-Stock Samduck buttons ship with 60g-ish Gersung switches 20N-30N springs. YMMV as they occasionally switch up the defaults. The only way to know is call Samduck-sa store and ask.
-
-You can always swap in Omron switches and Sanwa springs. These do not include LED lamps but are compatible with DAO lamps and ISTMall lamps.
+Stock Samduck buttons ship with 60g-ish Gersung switches and 30-40N springs. YMMV as they occasionally switch up the defaults. These do not include LED lamps but are compatible with DAO and ISTMall lamps.
 
 * Samduck-sa CWB 405
   * Buttons in various colors.
@@ -143,7 +143,7 @@ You can always swap in Omron switches and Sanwa springs. These do not include LE
 ### ISTMall buttons
 
 * IST 405
-  * Buttons, very similar to CWB 405
+  * Buttons very similar to CWB 405
   * Comes with 30N springs and Gersung switch, and 5V/12V ISTMall LED lamp
   * [ISTMall](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992262)
 * IST 406
@@ -169,12 +169,12 @@ These are very common hobby electronics parts, you may be able to find them in y
   * [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C2?qs=%2Fha2pyFadug1oYFl8kFvdGtnihIvZQD7y5s6mAWYTiMkZ5XGaGMe%252Bw%3D%3D)
   * [Sanwa Denshi](https://item.rakuten.co.jp/sanwadenshi/ilumb_222/)
   * [ISTMall](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992803)
-* D2MV-01-1C3 (50g - old LM standard)
+* D2MV-01-1C3 (50g - old LM standard, common in home controllers)
   * [Digikey](https://www.digikey.com/product-detail/en/omron-electronics-inc-emc-div/D2MV-01-1C3/Z4708-ND/5236584)
   * [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C3?qs=%2Fha2pyFadug1oYFl8kFvdFkCqo0EzPC4o8MqoRHv1dM%3D)
   * [Sanwa Denshi](https://item.rakuten.co.jp/sanwadenshi/ilumb_223/)
   * [ISTMall](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992804)
-* VX-01-1C23 (50g - new LM standard, clicky)
+* VX-01-1C23 (50g - new LM standard, clicky, experimental use in home controllers)
   * [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C23/369962)
   * [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/VX-01-1C23?qs=%2Fha2pyFadugroU8EmW8PnwKMrkIs1AxAtAvj3RQZ%2Fjg%3D)
 * V-10-1A4 (100g)
