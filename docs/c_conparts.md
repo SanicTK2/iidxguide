@@ -31,7 +31,7 @@ Sanwa buttons (from Japan) feel the best, but can be expensive. This is the arca
 
 Samduck-sa buttons (from Korea) feel very, very close to Sanwa buttons, at a fraction of the cost. Most Korean arcades use these buttons. Some at-home players swear by these. Samduck-sa buttons can use the same springs as Sanwa buttons. These come with Gersung switches by default.
 
-DJ DAO buttons and other Chinese-manufactured buttons feel very different from Sanwas. They often have slightly different internal dimensions, which means Sanwa springs will not fit (usually the springs will be too long to fit). They are also very cheap. These usually come built-in by default when controllers are purchased.
+DJ DAO buttons, ISTMall buttons, and other Chinese-manufactured buttons feel very different from Sanwas. They often have slightly different internal dimensions, which means Sanwa springs will not fit (usually the springs will be too long to fit). They are also very cheap. These usually come built-in by default when controllers are purchased.
 
 ### Switches and springs
 
@@ -60,7 +60,7 @@ Compared to button and switch quality, springs play a relatively minor role in t
 
 Sanwa springs (from Japan) are the arcade standard, but can be expensive and difficult to obtain, depending on the weight.
 
-IST mall springs (no-name) are much cheaper, but they tend to be a bit inconsistent (each spring can be heavier or lighter than another, even though they are supposed to be the same weight). They are also slightly shorter, which makes the buttons sink a little lower.
+ISTMall springs (no-name) are much cheaper, but they tend to be a bit inconsistent (each spring can be heavier or lighter than another, even though they are supposed to be the same weight). They are also slightly shorter, which makes the buttons sink a little lower.
 
 ## LED Lamps
 
@@ -79,16 +79,17 @@ If you have an Omron switch, it's written on the switch casing. Here is a cheat 
 
 * D2MV-01-1C1 = 10g
 * D2MV-01-1C2 = 25g
-* D2MV-01-1C3 = 50g (old LM standard)
-* VX-01-1C23 = 50g (new LM standard as of CastHour)
+* D2MV-01-1C3 = 50g (old LM standard, commonly used in home controllers)
+* VX-01-1C23 = 50g (new LM standard as of CastHour, not common in home controllers)
 * V-10-1A4 = 100g
 * V-15-1A5 = 200g
 
 Spring weights are harder. If you don't know:
 
 * Stock Sanwa buttons ship with V-10-1A4 (100g) switches and 100N springs.
+* Stock Samduck buttons ship with 60g-ish Gersung switches and 20N-30N springs. YMMV as they occasionally switch up the defaults.
+* Stock ISTMall buttons come with 30N springs and Gersung switches, YMMV as they will occasionally switch up the defaults.
 * Stock Dao buttons are 20g Honeywell switches and 40N springs.
-* Stock Samduck buttons ship with 60g-ish Gersung switches 20N-30N springs. YMMV as they occasionally switch up the defaults. The only way to know is call Samduck-sa store and ask.
 
 These are official images for Sanwa springs. You can try to tell them apart by the density and the color (e.g., 60N springs are heat-treated, therefore darker).
 
@@ -139,6 +140,17 @@ You can always swap in Omron switches and Sanwa springs. These do not include LE
   * Square buttons for start / select
   * [ISTMall](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992352)
 
+### ISTMall buttons
+
+* IST 405
+  * Buttons, very similar to CWB 405
+  * Comes with 30N springs and Gersung switch, and 5V/12V ISTMall LED lamp
+  * [ISTMall](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992262)
+* IST 406
+  * Square buttons for start / select, very similar to CWB 406
+  * Comes with 30N springs, Gersung switch, and 5V/12V ISTMall LED lamp
+  * [ISTMall](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992263)
+
 ### DJ DAO buttons
 
 * White button
@@ -176,7 +188,7 @@ These are very common hobby electronics parts, you may be able to find them in y
   * Advertised to be between 50g and 100g, according to ISTMall. People commonly refer to this as 60g Gersung switches.
   * [ISTMall](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526)
 
-## Sanwa springs
+### Sanwa springs
 
 * OBSA-SP-20 (20N)
   * [Sanwa Denshi](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/)
@@ -195,7 +207,7 @@ These are very common hobby electronics parts, you may be able to find them in y
 
 ### ISTMall no-name springs
 
-These are cheaper alternatives. They come in 20N / 30N / 40N / 60N / 100N / 200N.
+These are cheaper alternatives. They come in 20N / 30N / 40N / 60N / 100N / 200N. See notes at the end of this page for compatibility warning -- these are meant to be used with ISTMall buttons.
 
 * [ISTMall](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992332)
 
@@ -214,9 +226,11 @@ Comet Pinball lamps work but can be a bit dim, but they are easy to obtain and c
 * Can I use Omron switches with my Dao buttons?
   * Yes, Omron and Gersung switches are compatible with Sanwa buttons, Samduck-sa buttons, and most Chinese buttons.
 * Can I use Sanwa springs with Dao buttons?
-  * Not really, the springs will be too long.
-* Can I use Sanwa springs with Samduck-sa buttons?
-  * Yes. Samduck-sa buttons have almost identical dimensions as Sanwa buttons.
+  * No, the springs will be too long.
+* Can I use ISTMall springs with Sanwa buttons?
+  * ISTMall specifically mentions that these are not meant to be compatible with Sanwa buttons. Most of them will work, but it may not be 100% ideal (usually the spring will be too short).
+* Can I use Sanwa springs with Samduck-sa buttons? Or Samduck-sa springs with Sanwa buttons?
+  * It might work but YMMV.
 
 ## Further reading
 
