@@ -109,14 +109,14 @@ Common terminology for DP.
 
 ## Top Rankers
 
-### rekidai.info (Japanese)
-
-[https://rekidai.info/](https://rekidai.info/)
-
-Tracker for all time (rekidai) SP top scores and top ranker stats, across all AC versions.
-
 ### Rekidai twitter account (Japanese)
 
 [https://twitter.com/iidx_rekidai_kp](https://twitter.com/iidx_rekidai_kp)
 
 Twitter account for SP top score updates. Not a bot!
+
+### Rekidai spreadsheet (Japanese)
+
+[Link to Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDnXSI5I-YDVOW5ZSjLW1Aqnf3Ek8X48hZAoi6iefGnZOFtHz7PFN8OUUgN9o25gRDfWnUXZyYg4tF/pubhtml)
+
+Currently the de facto standard place for keeping track of all time high scores for SP 12s, after the shutdown of rekidai.info.

@@ -64,9 +64,11 @@ You will often hear people talk about scores relative to a grade, for example, "
 
 If you get 8.5/9 (**94.44%**) or higher, it is considered a MAX- score. While MAX- is not a rating displayed on the result screen, it does show up in other parts of the interface, and you will hear about players refer to scores in this way.
 
+Getting a MAX (sometimes MAX+0, MAX-0, or 理論値) refer to obtaining the theoretical maximum value of 100%, PGREAT on every note.
+
 ---
 
-To put things in to perspective, as of May 2021:
+To put things in to perspective, for AC scores, as of November 2021:
 
-* All SP top scores are MAX-, except DIAVOLO and Mare Nectaris which are AAA.
+* All SP top scores are in MAX- range, except Mare Nectaris which is in the AAA+ range. Two songs (Mosaic and GRID KNIGHT L) have been MAX'd.
 * All DP top scores have AAA or above, except Mare Nectaris.
