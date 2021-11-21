@@ -44,7 +44,7 @@ Also known as R乱.
 
 ![random](/assets/img/random/random.png)
 
-The lanes are shuffled in a randomized order. There are 7! = 5040 possible permutations for SP. It is still possible to get the original chart with a very low probability.
+The **lanes** are shuffled in a randomized order. There are 7! = 5040 possible permutations for SP. It is still possible to get the original chart with a very low probability.
 
 Also known as 乱.
 
@@ -52,7 +52,7 @@ Also known as 乱.
 
 ![s-random](/assets/img/random/sran.png)
 
-Each individual notes are placed on a random lane.
+Each individual **notes** are placed on a random lane.
 
 ## H-RAN
 
