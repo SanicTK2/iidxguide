@@ -60,13 +60,13 @@ For reference, [according to this page](https://land3939.info/mgame/1148), Light
 
 [Official website](https://rog.asus.com/us/monitors/above-34-inches/rog-swift-pg43uq-model/)
 
-43", VA panel, 4K, 144Hz. Around $1500. [Tom's hardware review](https://www.tomshardware.com/reviews/asus-rog-swift-pg43uq-4k-gaming-monitor-review-jumbo-screen-extra-bright).
+43", VA panel, 4K, 144Hz. MSRP $1500 but typically sells for around $1100. [Tom's hardware review](https://www.tomshardware.com/reviews/asus-rog-swift-pg43uq-4k-gaming-monitor-review-jumbo-screen-extra-bright).
 
 ### Asus ROG Strix XG43UQ
 
 [Official website](https://rog.asus.com/monitors/above-34-inches/rog-strix-xg43uq-model/)
 
-43", VA panel, 4K, 144Hz, HDMI 2.1. Suspected to be around $1400, projected to have October 2021 release.
+43", VA panel, 4K, 144Hz, HDMI 2.1. $1300, released in late 2021. [Tom's hardware review](https://www.tomshardware.com/reviews/asus-rog-strix-xg43uq-review)
 
 ## Gigabyte
 
