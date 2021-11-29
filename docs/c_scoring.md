@@ -60,6 +60,8 @@ DJ level on the result screen is calculated using EX-SCORE, compared to the theo
 |  E    | 2/9 or above       | >= 22.22%  |
 |  F    | Under 2/9          |  < 22.22%  |
 
+### What is "max-" ?
+
 You will often hear people talk about scores relative to a grade, for example, "AA-3" to mean 3 points under the AA requirement, or "AAA+10" to mean 10 points above the AAA requirement.
 
 If you get 8.5/9 (**94.44%**) or higher, it is considered a MAX- score. While MAX- is not a rating displayed on the result screen, it does show up in other parts of the interface, and you will hear about players refer to scores in this way.
