@@ -55,11 +55,13 @@ It is important that you play through a diverse set of patterns during your sess
 
 ## Avoid bad playstyles
 
-### Avoid hunt & peck
+### Avoid hunt & peck method
 
-Avoid the "hunt and peck" method (moving your hand around and using your index or middle finger to press each key). You will quickly become overwhelmed as you progress to higher levels! Yes, there are people who can play level 12's with this playstyle, but that doesn't mean it's an ideal playstyle.
+Avoid the "hunt and peck" method - moving your hand around and using your index or middle finger to press each key - commonly referred to as hokuto (北斗) method. In western communities this is sometimes referred to as "freestyle" - although the term *freestyle* is ill-defined and misleading - but that's besides the point.
 
-### Avoid the "claw" playstyle.
+You will quickly become overwhelmed as you progress to higher levels! Yes, there are people who can play level 12's with this style, but that doesn't mean it's an ideal one. You will have an immensely difficult time with the game if you don't learn at least one static playstyle.
+
+### Try not to use the "claw" playstyle.
 
 This is the playstyle where your turntable hand uses ring finger, middle finger, and index finger to hit buttons 1-3. New players that come from keyboard-based rhythm games naturally gravitate to this playstyle, as it maps 1:1 to a linear layout on the keyboard (e.g., S D F space J K L).
 
@@ -70,7 +72,9 @@ The issue with this playstyle is that:
 * you are not using your left thumb, which is bad as explained above
 * it requires a lot of hand movement for the left hand to move into the scratching position.
 
-### Avoid wristing... for now
+Yes, there are top rankers who use this style, but they are a tiny minority.
+
+### Try not to "wrist"... for now
 
 Wristing is when you use the wrist - or the bottom part of your palm - to turn the turntable. When not scratching, it rests naturally on top of the turntable.
 
