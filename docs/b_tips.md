@@ -89,6 +89,32 @@ The level of charts you are playing as a beginner do not call for wristing, it s
 
 Here is a **suggestion** as to how you could be playing, but feel free to experiment with other popular playstyles!
 
+### Left hand
+
+#### Thumb Slide aka 3/5 (Strongly recommended for beginners)
+
+![thumb slide](/assets/img/playstyle/35.png){: .half_width }
+{: .image_container }
+
+Thumb on 1 **and** 3, and index finger on 2. Note that you are moving your left thumb around to hit button 1 or 3, using the tip of your thumb.
+
+Some people call this 3/5, as the left hand covers buttons 1-3, and the right hand covers buttons 3-5. Japanese people call it thumb slide.
+
+Why this style for beginners?
+
+* It is easy to learn (vs. 1048, for example, which has a bit of a learning curve)
+* It is a perfectly fine primary playstyle that could possibly carry you to Kaiden level, if you wish.
+* Even if you end up switching to a different style later on (e.g., 1048 or TAKA.S), this is a very useful style to fall back onto when you need to scratch and hit notes at the same time. Most high-level players switch between a primary and a secondary playstyle, depending on the situation.
+
+#### 1048 (Sometimes recommended for beginners but difficult to learn)
+
+![1048 style](/assets/img/playstyle/1048.png){: .half_width }
+{: .image_container }
+
+It is also useful to start learning 1048 if you wish. This style is extremely useful for high density charts that you will be facing as you go into higher level charts. The downside is that it has a steep learning curve initially due to it's somewhat unnatural formation.
+
+However -- it is not yet necessary as a beginner. It's just that if you can get used to this early on, you will benefit later on when it is time to learn it.
+
 ### Right hand
 
 For right hand (left hand if you're 2p player), you only really have two choices. While pinky on 7 is more encouraged, you should pick one that feels more natural to you.
@@ -114,32 +140,6 @@ There is a variation of called "flat pinky" where you use the side of your pinky
 Index on 4, thumb on 5, middle on 6, and ring finger on 7. Pinky is normally not used.
 
 You should also be flexible enough to hit 3 with your thumb.
-
-### Left hand
-
-#### Thumb Slide aka 3/5 (Recommended)
-
-![thumb slide](/assets/img/playstyle/35.png){: .half_width }
-{: .image_container }
-
-Thumb on 1 **and** 3, and index finger on 2. Note that you are moving your left thumb around to hit button 1 or 3, using the tip of your thumb.
-
-Some people call this 3/5, as the left hand covers buttons 1-3, and the right hand covers buttons 3-5. Japanese people call it thumb slide.
-
-Why this style for beginners?
-
-* It is easy to learn (vs. 1048, for example, which has a bit of a learning curve)
-* It is a perfectly fine primary playstyle that could possibly carry you to Kaiden level, if you wish.
-* Even if you end up switching to a different style later on (e.g., 1048 or TAKA.S), this is a very useful style to fall back onto when you need to scratch and hit notes at the same time. Most high-level players switch between a primary and a secondary playstyle, depending on the situation.
-
-#### 1048
-
-![1048 style](/assets/img/playstyle/1048.png){: .half_width }
-{: .image_container }
-
-It is also useful to start learning 1048 if you wish. This style is extremely useful for high density charts that you will be facing as you go into higher level charts. The downside is that it has a steep learning curve initially due to it's somewhat unnatural formation.
-
-However -- it is not yet necessary as a beginner. It's just that if you can get used to this early on, you will benefit later on when it is time to learn it.
 
 #### Other styles
 
