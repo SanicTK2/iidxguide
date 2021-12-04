@@ -1,5 +1,5 @@
 ---
-title: 120Hz monitors
+title: 120Hz monitors for home
 parent: Hardware
 permalink: /infinitas_monitor
 redirect_from:

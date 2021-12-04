@@ -54,7 +54,7 @@ This assumes that you are using the same size monitor as the arcade, though. If 
 ![Lightning Model cab dimensions](/assets/img/lm_dimensions.png)
 
 * These are accurate numbers obtained using a measuring tape.
-* Screen is a 43" class panel - [see this page](/compendium/infinitas_monitor) for more about monitors. The visible area is a bit smaller, little bit over 42".
+* Screen is a 43" class panel - [see this page](/monitor_history) for more about monitors. The visible area is a bit smaller, little bit over 42".
 * Roughly speaking, center of each turntable align with edges of the main monitor.
 * Note that lightning cab does not have the black leather-bound cushion part on the front. This is the main reason for players thinking that LM cabs are lower than old cabs (even though they are the same); it's because they stand closer to it.
 
