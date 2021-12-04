@@ -1,7 +1,9 @@
 ---
 title: Troubleshooting DAO
-parent: Miscellaneous
-permalink: /misc/dao_controller_faq
+parent: Hardware
+permalink: /dao_controller_faq
+redirect_from:
+  - /misc/dao_controller_faq
 ---
 
 # Troubleshooting DJ DAO beatmania IIDX controllers

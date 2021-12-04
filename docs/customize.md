@@ -1,6 +1,6 @@
 ---
 title: Customize
-nav_order: 150
+nav_order: 400
 has_children: true
 permalink: /customize
 ---

@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-nav_order: 100
+nav_order: 300
 has_children: true
 permalink: /misc
 ---

@@ -1,6 +1,6 @@
 ---
 title: External Resources
-nav_order: 200
+nav_order: 900
 has_children: false
 permalink: /external_resources
 ---
@@ -43,7 +43,7 @@ Remywiki is a wiki for all things BEMANI related. Lots of useful historical info
 
 This is used to calculate FOV values for various racing games, but it can also be used to figure out the screen distance for your home IIDX / BMS setup, in case your monitor is smaller or larger than cab monitors.
 
-For example, Lightning Model cabs have (approximately) [42" monitor at 67cm away from bottom edge of the control deck](/compendium/cab_dimensions), which gives RBR value of 0.960. To get an equivalent experience with a 32" monitor, you would put the screen at 51cm away.
+For example, Lightning Model cabs have (approximately) [42" monitor at 67cm away from bottom edge of the control deck](/cab_dimensions), which gives RBR value of 0.960. To get an equivalent experience with a 32" monitor, you would put the screen at 51cm away.
 
 ## SP
 

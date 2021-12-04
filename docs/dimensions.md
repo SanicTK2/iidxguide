@@ -1,9 +1,10 @@
 ---
 title: Arcade cab dimensions
-parent: Miscellaneous
-permalink: /misc/cab_dimensions
+parent: Hardware
+permalink: /cab_dimensions
 redirect_from:
   - /compendium/cab_dimensions
+  - /misc/cab_dimensions
 ---
 
 # beatmania IIDX arcade cabinet dimensions

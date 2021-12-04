@@ -1,9 +1,10 @@
 ---
 title: 120Hz monitors
-parent: Miscellaneous
-permalink: /misc/infinitas_monitor
+parent: Hardware
+permalink: /infinitas_monitor
 redirect_from:
   - /compendium/infinitas_monitor
+  - /misc/infinitas_monitor
 ---
 
 # Large 120Hz monitors for beatmania IIDX Infinitas

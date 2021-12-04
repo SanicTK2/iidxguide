@@ -167,7 +167,7 @@ You may want to make your BMS playing experience closely resemble IIDX so that y
 
 ### Match your setup
 
-See this page for [arcade cabinet dimensions](/compendium/cab_dimensions) and see if you can make your environment closer to arcade experience.
+See this page for [arcade cabinet dimensions](/cab_dimensions) and see if you can make your environment closer to arcade experience.
 
 ### Get AC- or CS- spec skins
 

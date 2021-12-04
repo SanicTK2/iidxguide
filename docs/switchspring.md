@@ -1,11 +1,12 @@
 ---
-title: Switch and Spring Weight
-parent: Intermediate
-nav_order: 20
-permalink: /intermediate/switchspring
+title: Switch and Spring Weight Recommendation
+parent: Hardware
+permalink: /switchspring
+redirect_from:
+  - /intermediate/switchspring
 ---
 
-# Switch and Spring Weight for IIDX
+# Switch and Spring Weight Recommendation for IIDX
 {: .no_toc }
 
 <details open markdown="block">
@@ -19,7 +20,9 @@ permalink: /intermediate/switchspring
 
 ## Introduction
 
-Before we begin, it is worth calling out that this is an **opinion piece** by the author. Button weight has been a hot topic for the longest time, and even today, players are torn on what the right set up is. The "meta" has changed over the years. This article was written in May of 2021.
+Before we begin, it is worth calling out that this is an **opinion piece** by the author. Button weight has been a hot topic for the longest time, and even today, players are torn on what the right set up is. The "meta" has changed over the years. **If you are able, you should try out various configurations and find the best option that works for you.**
+
+This article was written in May of 2021.
 
 ## Recommendation
 
@@ -65,7 +68,7 @@ That being said, matching 50/50 setup is difficult with 25g switches; 100N sprin
 
 ## What set up do I have? Where do I buy parts?
 
-Refer to [parts page](/compendium/parts).
+Refer to [parts page](/parts).
 
 ## References
 

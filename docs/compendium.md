@@ -1,6 +1,6 @@
 ---
 title: Compendium
-nav_order: 50
+nav_order: 210
 has_children: true
 permalink: /compendium
 ---

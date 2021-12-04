@@ -1,9 +1,10 @@
 ---
 title: Parts for IIDX controllers
-parent: Miscellaneous
-permalink: /misc/parts
+parent: Hardware
+permalink: /parts
 redirect_from:
   - /compendium/parts
+  - /misc/parts
 ---
 
 # Parts for IIDX controllers
@@ -35,7 +36,7 @@ DJ DAO buttons, ISTMall buttons, and other Chinese-manufactured buttons feel ver
 
 ### Switches and springs
 
-For most players, **50g Omron switch + 50N spring**, or **50g Omron switch + 20N spring** setup is recommended - [more details here](/intermediate/switchspring).
+For most players, **50g Omron switch + 50N spring**, or **50g Omron switch + 20N spring** setup is recommended - [more details here](/switchspring).
 
 #### Switches
 
