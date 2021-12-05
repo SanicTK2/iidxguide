@@ -87,3 +87,5 @@ There are also a handful of TVs that are small enough (less than 55") and suppor
 * REGZA 43Z730X
 
 ... and so on. This is a rapidly growing segment especially in 2021 -- you should look for reviews on [rtings.com](https://rtings.com). Make sure the size of TV you are buying actually uses a 120Hz panel - it is common for TV manufacturers to use 120Hz panels for larger sizes but only 60Hz for smaller sizes of the same model -- Samsung is the worst offender in this regard.
+
+It's also worth noting that most TVs use a glossy screen, while most monitors use a matte screen. While glossy screens look nicer, glare from other light sources can be distracting when playing IIDX.
