@@ -25,7 +25,9 @@ Additionally, make it a habit to check out the FAST / SLOW section in the result
 
 If you are playing BISTROVER on the lightning model cabinet, the touch screen display has fine-grained breakdown of your timing information as well, if you tap on the "Player Analyze" menu.
 
-## How do I fix my timing?
+FAST:SLOW ratio should be roughly 1:1, but don't fret if it is slightly off.
+
+## How do I fix my options?
 
 If your timing feels *significantly* off, you should fix your green number first before adjusting offset. If you feel the timing is slightly off, then you can fine-tune using the offset feature.
 
@@ -46,7 +48,7 @@ Some recommend songs around levels 7-8:
 
 ### Step one - adjust your green number
 
-If you are getting too many FASTs, this is easily fixable! Consider reducing your green number (make notes go faster). The explanation for this is that, if have too much time to react to a note coming down, you may tend to hit too quickly. By reducing the green number, there will be a smaller window between the moment you read the notes and the moment you press the buttons.
+If you are getting too many FASTs, consider decreasing your green number (to make notes scroll faster). The explanation for this is that, if have too much time to react to a note coming down, you may tend to hit too quickly. By reducing the green number, there will be a smaller window between the moment you read the notes and the moment you press the buttons.
 
 If you are getting way too many SLOWs, you may not be having enough time to react. Increase your green number (make notes go slower) and see if it helps.
 
@@ -59,6 +61,20 @@ Once you find a green number you are comfortable with, stick with it. Try to kee
 [Use the offset setting in the blue menu to change your visual offset.](/beginner/option2#offset-adjustment)
 
 Don't fiddle with this too much. Once you find a good offset for the environment you play on (particular arcade cabinet or your PC), try to keep the same offset for a while and see if you can get adjust to it.
+
+## I fixed my options, why do I still get so many SLOWs?
+
+One explanation is that you are playing charts beyond your typical skill range. You should try dropping down to easier charts and see if this is still an issue.
+
+Other than that, getting SLOWs is usually a result of your settings being wrong. You should try to dial in your hi-speed and offset options again.
+
+## I fixed my options, why do I still get so many FASTs?
+
+One example is, again, if you are playing charts beyond your skill level; you may end up pressing the buttons way faster than you should be.
+
+For charts around your skill level -- do note that getting many FASTS is very common! Usually this is more of a mindset problem. You're at a point where you can read where the notes are, but not quite the spacing between the notes (i.e., the timing of notes). This just means you need practice timing. Try to listen to the music, the beats (bass / drum lines) and tune yourself to the BPM.
+
+You might also be used to pressing buttons way earlier if you are coming from other rhythm games. Many rhythm games tend to have timing windows skew a bit earlier to compensate for audio and input latency. Since IIDX is built around low latency audio, input, and display, the game is able to have more "accurate" timing windows, so the skew is practically non-existent. You'll just need to get used to IIDX timing with practice.
 
 ## What about white number?
 
