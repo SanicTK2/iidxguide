@@ -115,6 +115,10 @@ All resources obtained from the official website only. Please do not request hig
         <div class="customize_label">HEROIC VERSE</div>
     </div>
     <div class="customize">
+        <div class="customize_img"><img src="/assets/img/shop/tt/023.jpg" /></div>
+        <div class="customize_label">CastHour</div>
+    </div>
+    <div class="customize">
         <div class="customize_img"><img src="/assets/img/shop/tt/008.jpg" /></div>
         <div class="customize_label">いちご (strawberry)</div>
     </div>

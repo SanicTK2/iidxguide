@@ -805,76 +805,156 @@ Notable options:
       <div class="lanecover_label">Ah Hah Yeah</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_007.jpg" /></div>
-      <div class="lanecover_label">HIGH VOLTAGE </div>
+    <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_015.jpg" /></div>
+    <div class="lanecover_label">HIGH VOLTAGE </div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_008.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_038.jpg" /></div>
       <div class="lanecover_label">BISTROVER</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_012.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_036.jpg" /></div>
       <div class="lanecover_label">Chewingood!!!</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_002.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_029.jpg" /></div>
       <div class="lanecover_label">がっつり陰キャ!? 怪盗いいんちょの億劫</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_013.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_002.jpg" /></div>
       <div class="lanecover_label">がっつり陰キャ!? 怪盗いいんちょの億劫&lt;2&gt;</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_006.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_017.jpg" /></div>
       <div class="lanecover_label">魅惑のYUMMYスイーツ</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_009.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_020.jpg" /></div>
       <div class="lanecover_label">度胸兄弟</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_005.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_022.jpg" /></div>
       <div class="lanecover_label">STOIC HYPOTHESIS</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_010.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_011.jpg" /></div>
       <div class="lanecover_label">GHOST</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_005.jpg" /></div>
       <div class="lanecover_label">GIGA VIOLATE</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_011.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_031.jpg" /></div>
       <div class="lanecover_label">Crank It</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_018.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_024.jpg" /></div>
       <div class="lanecover_label">Horizons of Promise</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_003.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_033.jpg" /></div>
       <div class="lanecover_label">Backyard Stars</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_017.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_035.jpg" /></div>
       <div class="lanecover_label">Smashing Wedge</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_004.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_032.jpg" /></div>
       <div class="lanecover_label">HEROIC VERSE Shutter</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_014.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_034.jpg" /></div>
       <div class="lanecover_label">LIGHTNING MODEL</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_016.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_012.jpg" /></div>
       <div class="lanecover_label">ARENA UI 2.0</div>
   </div>
   <div class="lanecover">
-      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4/img_customize_015.jpg" /></div>
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_007.jpg" /></div>
       <div class="lanecover_label">華麗なる大犬円舞曲</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_027.jpg" /></div>
+      <div class="lanecover_label">召しませ！BISTROVER</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_004.jpg" /></div>
+      <div class="lanecover_label">ピンシェフくん</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_014.jpg" /></div>
+      <div class="lanecover_label">バッド・スイーツ、バッド・ドリーム</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_028.jpg" /></div>
+      <div class="lanecover_label">Sinus Iridum</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_037.jpg" /></div>
+      <div class="lanecover_label">ジェイ君とドゥイさん</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_003.jpg" /></div>
+      <div class="lanecover_label">あまいじかん</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_016.jpg" /></div>
+      <div class="lanecover_label">リフレナ</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_009.jpg" /></div>
+      <div class="lanecover_label">THE PEERLESS UNDER HEAVEN</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_018.jpg" /></div>
+      <div class="lanecover_label">二人ノ廃城幽踊宴</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_021.jpg" /></div>
+      <div class="lanecover_label">乱膳の舞姫</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_026.jpg" /></div>
+      <div class="lanecover_label">ハイテックトキオ</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize.jpg" /></div>
+      <div class="lanecover_label">月とミルク</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_025.jpg" /></div>
+      <div class="lanecover_label">Ariah</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_023.jpg" /></div>
+      <div class="lanecover_label">LIVE DRIVING!! feat. 花たん</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_010.jpg" /></div>
+      <div class="lanecover_label">Wonderful Escape</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_030.jpg" /></div>
+      <div class="lanecover_label">GiGaGaHell</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_013.jpg" /></div>
+      <div class="lanecover_label">オールトの雲</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_006.jpg" /></div>
+      <div class="lanecover_label">Ventriloquist</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_019.jpg" /></div>
+      <div class="lanecover_label">DREAM OF SPACE UFO ABDUCTION</div>
+  </div>
+  <div class="lanecover">
+      <div class="lanecover_img"><img src="/assets/img/shop/lanecover/4c/img_customize_008.jpg" /></div>
+      <div class="lanecover_label">Skreaming for Salvation</div>
   </div>
   <div style="clear:both;"></div>
 </div>

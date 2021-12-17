@@ -138,6 +138,10 @@ Default, short, and very short are the most commonly used. Monochrome is also so
     <div class="customize_img"><img src="/assets/img/shop/beam/004.jpg" /></div>
     <div class="customize_label">BISTROVER BURNER</div>
 </div>
+<div class="customize">
+    <div class="customize_img"><img src="/assets/img/shop/beam/013.jpg" /></div>
+    <div class="customize_label">フレネルビーム (Fresnel beam)</div>
+</div>
 <div style="clear:both;"></div>
 </div>
 
@@ -209,6 +213,10 @@ Default is the most popular. Metallic blue is also common because it uses less d
     <div class="customize">
         <div class="customize_img"><img src="/assets/img/shop/judge/012.gif" /></div>
         <div class="customize_label">BISTROVER JUDGE</div>
+    </div>
+    <div class="customize">
+        <div class="customize_img"><img src="/assets/img/shop/judge/016.gif" /></div>
+        <div class="customize_label">CastHour</div>
     </div>
     <div style="clear:both;"></div>
 </div>
@@ -309,6 +317,10 @@ On e-amuse play customize page, it is possible to adjust the size of the bomb.
     <div class="customize">
         <div class="customize_img"><img src="/assets/img/shop/bomb/008.gif" /></div>
         <div class="customize_label">BISTROVERボム (BISTROVER bomb)</div>
+    </div>
+    <div class="customize">
+        <div class="customize_img"><img src="/assets/img/shop/bomb/022.gif" /></div>
+        <div class="customize_label">いいねフラッシュ (Like👍 flash)</div>
     </div>
     <div style="clear:both;"></div>
 </div>
