@@ -961,4 +961,4 @@ Notable options:
 
 ## Source
 
-[BISTROVER official web page (requires basic subscription)](https://p.eagate.573.jp/game/2dx/28/room/c_index.html?kind=5&page=1)
+[CastHour official web page (requires basic subscription)](https://p.eagate.573.jp/game/2dx/29/index.html)

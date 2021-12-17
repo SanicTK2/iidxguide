@@ -327,4 +327,4 @@ On e-amuse play customize page, it is possible to adjust the size of the bomb.
 
 ## Source
 
-[BISTROVER official web page (requires basic subscription)](https://p.eagate.573.jp/game/2dx/28/room/c_index.html?kind=8)
+[CastHour official web page (requires basic subscription)](https://p.eagate.573.jp/game/2dx/29/index.html)
