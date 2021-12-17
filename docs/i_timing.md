@@ -83,3 +83,11 @@ You might also be used to pressing buttons way earlier if you are coming from ot
 That is just one opinion - you should find a white number that you are comfortable with.
 
 There are valid reasons for very high white numbers -- one of them being playing on a display with severe ghosting problems, which can be remedied by a high WN. In that case... sorry, not much you can do there.
+
+## Warning
+
+When you are practicing for timing, or when you are calibrating your options, don't fall into the trap of playing extremely easy charts.
+
+When you play a chart that is significantly below your skill level, you are not using the same parts of the brain that you would be using for charts around your skill level. For example, on a ☆3 chart, you might try to follow each individual note from top to bottom and press the button when it exactly hits the judgement line - but that isn't how you would normally play, so it is pointless.
+
+Therefore, for timing practice & calibration, you should try to play songs at - or slightly below - your typical skill range.
