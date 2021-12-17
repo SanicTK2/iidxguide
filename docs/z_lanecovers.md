@@ -19,7 +19,7 @@ nav_order: 102
 
 ## Introduction
 
-List of all lane covers -- which can also be used as pacemaker background, updated for BISTROVER.
+List of all lane covers -- which can also be used as pacemaker background, updated for CastHour.
 
 All resources obtained from the official website only. Please do not request high resolution images.
 

@@ -17,8 +17,8 @@ This is part of an effort to provide a friendly introduction to the game for the
 This guide aims to resolve these issues by pulling from various *established* resources written in other languages (mostly Japanese and Korean), with a bit of original English content as well. References will be provided whenever possible.
 
 The guide assumes that you are either playing on:
- * beatmania IIDX Infinitas (2020 version)
- * beatmania IIDX 28 BISTROVER 
+ * beatmania IIDX Infinitas
+ * beatmania IIDX 29 CastHour
 
 Infinitas-specific sections will be denoted with [INF], and arcade-specific sections will have [AC].
 

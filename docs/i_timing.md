@@ -23,7 +23,7 @@ If you haven't already, follow [the instructions here](/beginner/option2#timing-
 
 Additionally, make it a habit to check out the FAST / SLOW section in the result screen.
 
-If you are playing BISTROVER on the lightning model cabinet, the touch screen display has fine-grained breakdown of your timing information as well, if you tap on the "Player Analyze" menu.
+If you are playing on the lightning model cabinet, the touch screen display has fine-grained breakdown of your timing information as well, if you tap on the "Player Analyze" menu.
 
 FAST:SLOW ratio should be roughly 1:1, but don't fret if it is slightly off.
 
