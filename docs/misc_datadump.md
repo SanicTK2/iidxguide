@@ -213,14 +213,13 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
     </tr>
 </table>
 
-
 * Again, most DAN courses are tagged to enable LR2 DAN gauge in beatoraja.
 
 ## Timing window
 
 For notes:
 
-|                            | PG     | GR     | GD      | BD        | PR        |
+|                            | PG     | GR     | GD      | BD        | 空PR      |
 |----------------------------|--------|--------|---------|-----------|-----------|
 | **IIDX (most charts)**     | ±16.67 | ±33.33 | ±116.67 | ±250      | ?         |
 | **LR2 easy**               | ±21    | ±60    | ±120    | ±200      | +1000     |
@@ -235,13 +234,18 @@ For notes:
 
 All units in milliseconds. Positive means before the note, negative is after the note.
 
+Notes:
+
+* A POOR happens if a button is not pressed before the LATE BAD window ends.
+* Exact numbers for excessive POORs in IIDX are not known.
+* In LR2, excessive POORs are only possible before a note; not after.
+
 Detailed rules for beatoraja (based on easy judge):
 
 * Scratch notes: add -10 +10 to each end of note timing window
 * Release window of long notes: significantly larger (±120, ±160, ±200, {+220, -280})
 * Release window of long scratch notes: add -10 +10 to each end of long note window
 * For other judge windows: VERYEASY is 25% wider than EASY, NORMAL is 25% narrower, HARD is 50% narrower, and so on. Integer math is used to scale (discard decimal value).
-* In beatoraja, excessive poors are possible after a note. (also exists in IIDX , but not LR2)
 
 ## Concluding Remarks
 

@@ -32,7 +32,9 @@ For timing windows, [refer to this page](/misc/iidx_lr2_beatoraja_diff).
 
 ### Excessive POOR (空POOR)
 
-Excessive POOR is a POOR that happens when you press a button again, right after the note was already processed (including BAD). To calculate:
+Excessive POOR is a POOR that happens when you press a button again, right after the note was already processed, or when you press the button slightly earlier than the beginning of BAD window. See [this page](/compendium/gauges_and_timing) for more details.
+
+To calculate:
 
 ```
 空POOR = MISS_COUNT - COMBO_BREAK

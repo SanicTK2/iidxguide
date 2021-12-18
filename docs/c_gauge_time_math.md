@@ -46,17 +46,28 @@ Notes
 
 ## Timing window
 
-| JUDGE  | Window (ms) |
-|--------|-------------|
-| PGREAT | ±16.67      |
-| GREAT  | ±33.33      |
-| GOOD   | ±116.67     |
-| BAD    | ±250        |
-| POOR   | ?           |
+|  JUDGE   | Window (ms) | Resets combo |
+|----------|-------------|--------------|
+| PGREAT   | ±16.67      | No           |
+| GREAT    | ±33.33      | No           |
+| GOOD     | ±116.67     | No           |
+| BAD      | ±250        | Yes          |
+| POOR     | at -250     | Yes          |
+| 空POOR   | ?           | No           |
 
 All units in milliseconds. Positive means before the note, negative is after the note.
 
-In IIDX, it is possible for some charts to have more restrictive timing windows; the most notable one is GAMBOL.
+Pressing a button within the BAD window counts as judgement for that note, and "erases" the note from view.
+
+Regular POOR happens if you don't press a button within the late BAD window. This resets the combo.
+
+FAST 空POOR happens if you press a button slightly before the FAST BAD window. This does not erase the note.
+
+SLOW 空POOR happens if you press a button slightly after the SLOW BAD window, and only if the previous note was already erased. If the button press happens to be within the next note's BAD window, that it will count towards that instead.
+
+It is possible for some charts to have more restrictive timing windows; the most notable one is GAMBOL.
+
+It is a myth that timing windows are larger in DP.
 
 It is a myth that the timing windows are asymmetric; the timing windows themselves are the same duration before and after the precise timing. It is not larger on one side.
 
@@ -67,3 +78,5 @@ That being said, there are various factors that may make it seem like the entire
 [IIDX LR2 beatoraja differences](/misc/iidx_lr2_beatoraja_diff)
 
 [https://zenius-i-vanisher.com/v5.2/viewthread.php?threadid=5233](https://zenius-i-vanisher.com/v5.2/viewthread.php?threadid=5233)
+
+[http://blog.livedoor.jp/dbm_capture/archives/51947661.html](http://blog.livedoor.jp/dbm_capture/archives/51947661.html)
