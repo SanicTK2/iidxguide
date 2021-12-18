@@ -80,7 +80,7 @@ The ex-hard gauge option - [see this page for details](/compendium/gauge).
 
 ### Good random
 
-* 🇯🇵 あたり, 当たり
+* 🇯🇵 当たり, あたり
 * 🇰🇷 황금배치, 황배
 
 When the random option results in a "good" pattern, making it significantly easier to clear or to score.
@@ -315,6 +315,21 @@ When the BPM changes during a song, causing the note's scroll speed to change as
 The term soflan comes from the song [SOFT LANDING ON THE BODY](https://www.youtube.com/watch?v=n7wVTsTUdp4). While this wasn't the first chart in beatmania series to have a speed change, it was certainly the first to use it as a gimmick.
 
 As of Heroic Verse, the game officially adopted the terminology as it is used in the chart and player radar.
+
+### Slap
+
+* also: slap random, perfect slap
+* 🇯🇵 ガチ割れ
+* 🇰🇷 완분, 완전분할
+
+[![slap ran](/assets/img/glossary/slaprandom.png)](/assets/img/glossary/slaprandom.png)
+{: .image_container }
+
+Slap is a pattern that results in the player hitting note(s) with left hand, and then more note(s) with the right hand, left hand, and so on, a pattern that is easy to comprehend thanks to the "split".
+
+Slap random refers to a case of *good random* where the random results in (mostly) slap pattern. Sometimes people will say *perfect slap* for randoms that generate a clean split between left and right.
+
+The example above is a slap random of Go Beyond SPA.
 
 ### Stairs
 
