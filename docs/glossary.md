@@ -210,7 +210,7 @@ A chord with 7 notes, maybe with the scratch.
 ### Bass
 
 * also: bass rush
-* 🇯🇵 軸, 裏打ち
+* 🇯🇵 バス, 軸, 裏打ち
 * 🇰🇷 축, 축노트
 
 [![himiko bass rush](/assets/img/glossary/himiko_spa.png)](/assets/img/glossary/himiko_spa.png)
