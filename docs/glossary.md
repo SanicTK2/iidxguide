@@ -125,6 +125,11 @@ The hard gauge option - [see this page for details](/compendium/gauge).
 
 On easy / normal gauge, even if you had 100% gauge throughout the song, if you miss notes near the end of the song, you can fail the stage. This is commonly referred to as ラス殺し or 후살 although in English people just say something to the effect of *difficult end part*.
 
+### IIDX
+
+* 🇯🇵 弐寺
+* 🇰🇷 투덱, 비트
+
 ### Insane (?)
 
 * 🇯🇵 発狂
