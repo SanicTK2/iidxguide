@@ -24,7 +24,7 @@ Notes
 
 * a = a function of total note count in IIDX -- see below
 * all units in %
-* For EASY, NORMAL, and HARD, you start at 2%, and need 80% in the end of a song to clear. For ASSIST EASY, you only need 60% instead.
+* For EASY and NORMAL, you start at 2%, and need 80% in the end of a song to clear. For ASSIST EASY, you start at 2% but need 60% to clear.
 * HARD, EXHARD, DAN, and EX-DAN gauges are "survival" gauges - you start at 100%, and get a stage fail if you drop to 0%.
 * 空P is excessive poor.
 
