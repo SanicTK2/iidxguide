@@ -46,6 +46,9 @@ Notes
 
 ## Timing window
 
+[![timing diagram](/assets/img/timing_diagram.png)](/assets/img/timing_diagram.png)
+{: .image_container_short }
+
 |  JUDGE   | Window (ms) | Resets combo |
 |----------|-------------|--------------|
 | PGREAT   | ±16.67      | No           |

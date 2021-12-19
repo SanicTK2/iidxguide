@@ -17,6 +17,8 @@ table.center_table td {
     font-weight: 800;
 }
 
+p.image_container_short,
+.main-content h3 + p.image_container_short,
 p.image_container,
 .main-content h3 + p.image_container,
 p.image_container_full,
@@ -28,6 +30,10 @@ p.image_container_full,
 
 p.image_container img {
     max-width: 60%;
+}
+
+p.image_container_short img {
+    max-width: 300px;
 }
 
 p.image_caption {
