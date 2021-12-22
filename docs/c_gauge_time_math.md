@@ -66,7 +66,7 @@ Regular POOR happens if you don't press a button within the late BAD window. Thi
 
 FAST 空POOR happens if you press a button slightly before the FAST BAD window. This does not erase the note.
 
-SLOW 空POOR happens if you press a button slightly after the SLOW BAD window, and only if the previous note was already erased. If the button press happens to be within the next note's BAD window, that it will count towards that instead.
+SLOW 空POOR happens if you press a button again slightly after pressing it to count toward the judgment of a note (the first press will be a BAD or greater, and the second press will be a POOR). If the button press happens to be within the next note's BAD window, that it will count towards that instead.
 
 It is possible for some charts to have more restrictive timing windows; the most notable one is GAMBOL.
 
