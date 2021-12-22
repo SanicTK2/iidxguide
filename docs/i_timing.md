@@ -39,8 +39,9 @@ When you are calibrating your timing, play a chart that meets these criteria:
 
 You should avoid charts that are too easy or too hard when trying to dial in your settings.
 
-Some recommend songs around levels 7-8:
+Some recommend songs around levels 6-9:
 
+* Sleepless days (6/9)
 * Element of SPADA (7/9)
 * Fly Above (8)
 * Shining World (8/9)
