@@ -521,6 +521,22 @@ DP technique of using the middle finger to press button 5 or 6. [See this page f
 
 When the pattern requires you to hit both the turntable and key(s) with the same hand. Example from route 80s DPA, a chart that is full of these.
 
+### Regular patterns (?)
+
+* 🇯🇵 正規系
+* 🇰🇷 정미계열, 정규계
+
+Combination of options where only FLIP and MIRROR options are used, including the standard (OFF) pattern. There are total of 8 patterns (OFF, MIR/OFF, OFF/MIR, MIR/MIR -- and FLIP version of these four).
+
+### Reverse anmitsu
+
+* 🇯🇵 逆蜜
+* 🇰🇷 역뭉게기
+
+Technique used to "split" a chord into a series of notes instead, sacrificing timing for the sake of hitting all the notes (e.g., for full combo).
+
+This is used in DP to handle impossible scratches. Here is [an example of quasar DPA (see 1:51)](https://www.youtube.com/watch?v=uV6PyamAJas) where left hand handles S+67 by hitting the turntable first and then quickly moving to hit 6+7.
+
 ### Thumb technique
 
 * 🇯🇵 親3, 親5
