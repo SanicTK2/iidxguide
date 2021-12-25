@@ -21,7 +21,7 @@ redirect_from:
 
 ## Disclaimers
 
-Updated July 2021.
+Updated December 2021.
 
 This is a list of monitors that meet the following criteria:
 * Native 120Hz+ panel and supports 120Hz input at 720p+.
@@ -30,6 +30,8 @@ This is a list of monitors that meet the following criteria:
 * flat, not curved
 
 Features that do not affect IIDX or BMS simulators will not be explicitly called out; such as FreeSync, G-Sync, HDR, and so on.
+
+It is recommended that you do **NOT** use the speakers on these monitors and TVs for playing IIDX or BMS. Same thing for plugging in headphones into the monitor / TV - not recommended. There are various reasons - audio over HDMI / DisplayPort may add significant latency, the DAC on the monitors may be picky about audio sample rate, TVs may have additional processing that may increase the latency, and so on. You should always try to have a separate low-latency audio source.
 
 ## Lightning Model display
 
