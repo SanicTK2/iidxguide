@@ -19,7 +19,7 @@ redirect_from:
 {:toc}
 </details>
 
-## Disclaimers
+## Notes
 
 Updated December 2021.
 
@@ -30,6 +30,8 @@ This is a list of monitors that meet the following criteria:
 * flat, not curved
 
 Features that do not affect IIDX or BMS simulators will not be explicitly called out; such as FreeSync, G-Sync, HDR, and so on.
+
+Panels that support higher than 120Hz (e.g., 144Hz, 165Hz monitors) almost always support 120Hz, but in limited resolutions. You should consult the technical manual from the manufacturer's site to see the full list of supported resolution and refresh rate. Infinitas runs at 720p @ 120Hz.
 
 It is recommended that you do **NOT** use the speakers on these monitors and TVs for playing IIDX or BMS. Same thing for plugging in headphones into the monitor / TV - not recommended. There are various reasons - audio over HDMI / DisplayPort may add significant latency, the DAC on the monitors may be picky about audio sample rate, TVs may have additional processing that may increase the latency, and so on. You should always try to have a separate low-latency audio source.
 
