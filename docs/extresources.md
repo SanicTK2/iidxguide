@@ -87,6 +87,12 @@ Up-to-date list of tiers for SP 11/12 normal/hard clear tiers, with additional n
 
 Updates from 5ch IIDX 12 difficulty rating thread, also posts Twitter polls.
 
+### Hand position / playstyle generator HTML5 version (Japanese)
+
+[http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html](http://blog-imgs-50.fc2.com/p/o/t/potofu412/unsi_gene_html5.html)
+
+HTML5 version of the Flash animation used to generate hand position diagrams.
+
 ## DP
 
 ### ereter's dp laboratory (English)

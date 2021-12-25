@@ -426,7 +426,7 @@ This is a difficult concept to explain, but a crucial in high level scoring; see
 [![horizontal reading](/assets/img/glossary/gigadelic_sph_horizontal.png)](/assets/img/glossary/gigadelic_sph_horizontal.png)
 {: .image_container }
 
-Reading technique where you divide up the pattern into horizontal sections, recognizing them as a sequence of chords. This is in contrast to vertical reading.
+Reading technique where you divide up the pattern into horizontal sections, recognizing them as a sequence of chords. This is in contrast to [vertical reading](#vertical-reading).
 
 Example above is from Gigadelic SPH.
 
@@ -461,7 +461,7 @@ Has origins in Hokuto no Ken (First of the North Star).
 [![vertical reading](/assets/img/glossary/gigadelic_sph_vertical.png)](/assets/img/glossary/gigadelic_sph_vertical.png)
 {: .image_container }
 
-Reading technique where you divide up a pattern into vertical sections, reading a group of lanes separately (e.g., lanes for left hand, and lanes for right hand). This is in contrast to horizontal reading.
+Reading technique where you divide up a pattern into vertical sections, reading a group of lanes separately (e.g., lanes for left hand, and lanes for right hand). This is in contrast to [horizontal reading](#horizontal-reading).
 
 Example above is from Gigadelic SPH.
 
@@ -533,7 +533,7 @@ Combination of options where only FLIP and MIRROR options are used, including th
 * 🇯🇵 逆蜜
 * 🇰🇷 역뭉게기
 
-Technique used to "split" a chord into a series of notes instead, sacrificing timing for the sake of hitting all the notes (e.g., for full combo).
+Technique used to "split" a chord into a series of notes instead, sacrificing timing for the sake of hitting all the notes (e.g., for full combo). Hence the name, reverse [anmitsu](#anmitsu).
 
 This is used in DP to handle impossible scratches. Here is [an example of quasar DPA (see 1:51)](https://www.youtube.com/watch?v=uV6PyamAJas) where left hand handles S+67 by hitting the turntable first and then quickly moving to hit 6+7.
 
