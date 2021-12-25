@@ -43,7 +43,7 @@ DP has become more accessible over the years, especially after SPADA. For full h
 
 Press numpad key 3 to switch between SP and DP. This can be done in mode select or song select.
 
-First of all, read [Basic finger placement](dp/basic_placement) first and fully internalize the home position (12467, 13457). This is the bread and butter of all things DP.
+First of all, read [Basic finger placement](/dp/basic_placement) first and fully internalize the home position (12467, 13457). This is the bread and butter of all things DP.
 
 There are two schools of thought on how to begin DP. You can read both and pick a method you like:
 
@@ -61,7 +61,7 @@ You can read up about the [10th dan wall below](#the-dp-10th-dan-wall).
 At this point, you should read up on [Stairs](/dp/horie_stairs), and start to familiarize yourself with advanced techniques below:
 
 * [Advanced finger placement](/dp/advanced_placement)
-* [Middle 5 vs 6](dp/middle56)
+* [Middle 5 vs 6](/dp/middle56)
 
 You don't need to be fully proficient in these, but it's good to know what will be expected from 10th dan to chuuden level players.
 
