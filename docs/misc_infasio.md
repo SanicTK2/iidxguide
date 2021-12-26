@@ -29,6 +29,8 @@ Before you go out and buy a sound card, be mindful that -
 * ASIO makes very little perceivable difference in rhythm games that can already use WASAPI in exclusive mode
 * Many rhythm games and old games aren't usually happy about anything BUT on-board sound card
 
+Also: as of November 2021, Asus Xonar AE drivers do NOT work in Windows 11, and this is confirmed by Asus. [Check with Asus support for updates](https://www.asus.com/us/Motherboards-Components/Sound-Cards/Gaming/Xonar-AE/HelpDesk_knowledge/).
+
 so think twice before you drop a lot of money on one.
 
 ## Step by step
@@ -36,7 +38,7 @@ so think twice before you drop a lot of money on one.
 1. Launch PowerShell as administrator.
 1. Run ```Set-ExecutionPolicy Bypass``` which allows you to run arbitrary PS scripts.
 1. Download the script from [https://github.com/darekasan/inf_launch_ext](https://github.com/darekasan/inf_launch_ext)
-1. Run the script; pick 3 (copy script file to game directory and set to new script path (recommended))
+1. Run the script as administrator; pick 3 (copy script file to game directory and set to new script path (recommended))
 1. Launch Infinitas using the shortcut; launch the game through the browser as usual.
 1. Instead of the game being launched, a PowerShell prompt will appear; pick 3 (ASIO).
     1. Note: if you choose #3, you skip the launcher... which means you skip the update check. You'll want to occasionally run the launcher so that you can download patches.
