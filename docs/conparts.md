@@ -83,7 +83,7 @@ If you have an Omron switch, it's written on the switch casing. Here is a cheat 
 * D2MV-01-1C1 = 10g
 * D2MV-01-1C2 = 25g
 * D2MV-01-1C3 = 50g (old LM standard, commonly used in home controllers)
-* VX-01-1C23 = 50g (new LM standard as of CastHour, not common in home controllers)
+* VX-01-1C23 = 50g (new LM standard as of CastHour, less common in home controllers)
 * V-10-1A4 = 100g
 * V-15-1A5 = 200g
 
@@ -175,7 +175,7 @@ These are very common hobby electronics parts, you may be able to find them in y
   * [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C3?qs=%2Fha2pyFadug1oYFl8kFvdFkCqo0EzPC4o8MqoRHv1dM%3D)
   * [Sanwa Denshi](https://item.rakuten.co.jp/sanwadenshi/ilumb_223/)
   * [ISTMall](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992804)
-* VX-01-1C23 (50g - new LM standard, clicky, experimental use in home controllers)
+* VX-01-1C23 (50g - new LM standard, clicky, less common than 1C3)
   * [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C23/369962)
   * [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/VX-01-1C23?qs=%2Fha2pyFadugroU8EmW8PnwKMrkIs1AxAtAvj3RQZ%2Fjg%3D)
 * V-10-1A4 (100g)

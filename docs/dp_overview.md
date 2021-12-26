@@ -27,9 +27,11 @@ DP Intermediate
 
 DP is a game mode in IIDX that uses all 14 keys and both turntables.
 
-It's certainly a niche game mode. According to class mode data -- players with at least 7th Kyu at the end of Bistrover -- there were **53214** active players for SP and but only **8566** for DP.
+This does not mean that DP is 2x harder than SP! It's better to view DP as an entirely different game from SP, it just happens to share the same list of songs.
 
-It's better to view DP as an entirely different game from SP, it just happens to share the same list of songs. The biggest difference comes from charting style. Patterns that are trivial in SP can be a nightmarish thing in DP, such as stairs. You will be required to use all of your fingers, including the ones on your non-dominant hand that you don't use to press buttons in SP.
+The biggest difference comes from charting style. Patterns that are trivial in SP can be a nightmarish thing in DP, such as stairs. You will be required to use all of your fingers, including the ones on your non-dominant hand that you don't use to press buttons in SP.
+
+It's certainly a niche game mode. According to class mode data -- players with at least 7th Kyu at the end of Bistrover -- there were **53214** active players for SP and but only **8566** for DP.
 
 In SP, you have more fingers than the number of buttons; you spent a lot of effort learning one or two playstyles, mostly to figure out which hand should be used to hit button 3 while having the the turntable in reach. The end game is settling on a mostly-static playstyle to handle dense patterns.
 
@@ -121,6 +123,14 @@ Just like with SP, playing BMS is indeed a good way to practice IIDX DP at home.
 * Excessive POORs and BADs are common in DP (more than in SP) and unfortunately this is where the implementation in LR2, beatoraja, and IIDX differ greatly. [See here for details](/misc/iidx_lr2_beatoraja_diff).
 
 For more, refer to the page on [Insane BMS](/advanced/bms_intro).
+
+### Should I be practicing one-hand?
+
+No.
+
+One hand doesn't really teach you how to *read* 14 keys. When you are starting out, learning to read is more important than having your finger muscles trained. Stick to DP mode and focus on correctly reading all 14 keys, while maintaining the home position for both hands.
+
+If you feel that one hand is severely behind the other hand, you should try playing DBM for a bit to bring both hands to a similar level (see next section below).
 
 ### Should I be using DBM and DBR as practice?
 
