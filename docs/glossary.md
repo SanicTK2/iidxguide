@@ -78,6 +78,16 @@ The ex-hard gauge option - [see this page for details](/compendium/gauge).
 
 노랑게이지 means yellow gauge.
 
+### Excessive POOR
+
+* also: empty POOR, excess POOR, mash POOR
+* 🇯🇵 空POOR
+* 🇰🇷 공푸어
+
+A POOR judgement that can be generated before or after a note's timing window. In IIDX, if you press a button well before the note, you can get an excessive POOR; additionally, if press the button again right after getting a judgement (BAD or higher), you can also get an excessive POOR.
+
+See [IIDX Gauge Calculation and Timing Windows](/compendium/gauges_and_timing) and [IIDX LR2 beatoraja differences](/misc/iidx_lr2_beatoraja_diff) pages for more information.
+
 ### Good random
 
 * 🇯🇵 当たり, あたり
