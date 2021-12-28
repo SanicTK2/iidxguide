@@ -69,6 +69,15 @@ When the random option results in a "bad" pattern, making it particularly harder
 * 🇯🇵 ボタン
 * 🇰🇷 버튼
 
+### Earth power
+
+* 🇯🇵 地力
+* 🇰🇷 지력
+
+Measure of your base ability to read and hit notes. Also (loosely) used as a measure of your skill level, sometimes with a quantitative measurement using a numeric score based on some formula; for example, [Insane BMS recommend rating](http://walkure.net/hakkyou/index.html), or [ereter.net clear ability rating](http://ereter.net/bmsplayers/). Usually this exclusives skills that would be considered [individual difference](#individual-difference), such as scratches, sof-lan, charge notes, and so on.
+
+The term "earth power" is a literal translation of 地力 that perhaps started out as a joke, but it stuck with the community.
+
 ### Ex-hard gauge
 
 * 🇯🇵 エクハ
@@ -88,6 +97,13 @@ A POOR judgement that can be generated before or after a note's timing window. I
 
 See [IIDX Gauge Calculation and Timing Windows](/compendium/gauges_and_timing) and [IIDX LR2 beatoraja differences](/misc/iidx_lr2_beatoraja_diff) pages for more information.
 
+### Full combo
+
+* 🇯🇵 フルコン
+* 🇰🇷 풀콤
+
+Getting a full combo (no combo breaks) in a chart.
+
 ### Good random
 
 * 🇯🇵 当たり, あたり
@@ -102,13 +118,6 @@ When the random option results in a "good" pattern, making it significantly easi
 * 🇰🇷 녹숫
 
 Lit. "green number" in all three languages. GN indicates how fast notes come down from the top, commonly referred to as "scroll speed" in other rhythm games. [See here for more details](/beginner/floating).
-
-### Full combo
-
-* 🇯🇵 フルコン
-* 🇰🇷 풀콤
-
-Getting a full combo (no combo breaks) in a chart.
 
 ### Hand cam
 
@@ -140,15 +149,19 @@ On easy / normal gauge, even if you had 100% gauge throughout the song, if you m
 * 🇯🇵 弐寺
 * 🇰🇷 투덱, 비트
 
-### Insane (?)
+### Individual difference
 
-* 🇯🇵 発狂
-* 🇰🇷 발광
+* 🇯🇵 個人差
+* 🇰🇷 개인차
 
-Two usages:
+Contrasted with [earth power](#earth-power), these are set of skills that are outside of just hitting the buttons, and charts that include many examples of these elements. This would include scratches, charge notes, [sof-lan](#speed-change), and charts heavy on [jacks](#jacks) or chords.
 
-1. 発狂BMS / 발광BMS refer to "insane BMS", a community-curated collection of high level BMS charts and tables.
-1. Sections of a chart where you get a burst of notes resulting in an extremely dense pattern. Usually in English people just say "bursts" or "density". Go Beyond SPA is a good example.
+### Insane BMS
+
+* 🇯🇵 発狂BMS
+* 🇰🇷 발광BMS, 발광븜스
+
+High-level BMS charts, and community-curated collection of charts, and difficulty tables. [See this page for details](/advanced/bms_intro).
 
 ### Mirror
 
