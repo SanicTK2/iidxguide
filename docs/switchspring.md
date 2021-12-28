@@ -45,7 +45,7 @@ Why are 50/50 and 50/20 configurations recommended?
 ### Justification for 50/50
 
 * This is the new official default. This set up is used on new Lightning Model cabs, and required by official tournaments run by Konami.
-* All Lightning Model cabs in America are 50/50.
+* Almost all Lightning Model cabs in America are 50/50.
 * Most Lightning Model cabs in Japan are 50/50.
 * Compared to 50/20, it provides sufficient feedback when released, making it easier to time, handling jacks, and so on.
 
