@@ -70,9 +70,51 @@ If you get 8.5/9 (**94.44%**) or higher, it is considered a MAX- score. While MA
 
 Getting a MAX (sometimes MAX+0, MAX-0, or 理論値) refer to obtaining the theoretical maximum value of 100%, PGREAT on every note.
 
----
+### All time records
 
 To put things in to perspective, for AC scores, as of November 2021:
 
 * All SP top scores are in MAX- range, except Mare Nectaris which is in the AAA+ range. Two songs (Mosaic and GRID KNIGHT L) have been MAX'd.
 * All DP top scores have AAA or above, except Mare Nectaris.
+
+## DJ POINT
+
+DJ point is a numerical score given to each chart. It is displayed in the song select screen (in the bottom left corner). It is a function of your best EX score and the best clear lamp on the chart; you don't necessarily have to get the highest score and the best lamp in one attempt, it can be across multiple attempts. The clear lamp can also be from a previous version.
+
+DJ points aren't commonly used when comparing scores; the EX-SCORE is used instead.
+
+### DJ POINT Formula
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+$$
+\begin{align*}
+  DJPOINT = \frac{EXSCORE \times (100+C+L)}{10000}
+\end{align*}
+$$
+
+where:
+
+* C is clear lamp percentage bonus
+  * full combo = 30
+  * ex-hard = 25
+  * hard = 20
+  * normal clear = 10
+  * easy clear = 5
+  * assist clear or fail = 0
+
+* L is DJ level percentage bonus
+  * AAA = 20
+  * AA = 15
+  * A = 10
+  * B or below = 0
+
+### Total SP / DP DJ POINT
+
+There is also a total DJ POINT for SP and another for DP; this is the sum of all DJ points for all **songs** in the game. Songs have multiple charts, but only the highest for SP and the highest for DP are used for each song when calculating this total. This total is displayed when you card in, and an updated value is shown when you card out. The total value isn’t commonly discussed or compared against others, but it is sometimes used as a requirement to unlock hidden songs and charts in both arcade releases and Infinitas.
+
+## References
+
+[BemaniWiki](http://bemaniwiki.com/index.php?beatmania%20IIDX%2029%20CastHour/%B1%A3%A4%B7%CD%D7%C1%C7)
