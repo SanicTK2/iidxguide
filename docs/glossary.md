@@ -74,7 +74,7 @@ When the random option results in a "bad" pattern, making it particularly harder
 * 🇯🇵 地力
 * 🇰🇷 지력
 
-Measure of your base ability to read and hit notes. Also (loosely) used as a measure of your skill level, sometimes with a quantitative measurement using a numeric score based on some formula; for example, [Insane BMS recommend rating](http://walkure.net/hakkyou/index.html), or [ereter.net clear ability rating](http://ereter.net/bmsplayers/). Usually this exclusives skills that would be considered [individual difference](#individual-difference), such as scratches, sof-lan, charge notes, and so on.
+Measure of your base ability to read and hit notes. Also (loosely) used as a measure of your skill level, sometimes with a quantitative measurement using a numeric score based on some formula; for example, [Insane BMS recommend rating](http://walkure.net/hakkyou/index.html), or [ereter.net clear ability rating](http://ereter.net/bmsplayers/). Usually this excludes skills that would be considered [individual difference](#individual-difference), such as scratches, sof-lan, charge notes, and so on.
 
 The term "earth power" is a literal translation of 地力 that perhaps started out as a joke, but it stuck with the community.
 
