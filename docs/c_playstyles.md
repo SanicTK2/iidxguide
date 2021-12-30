@@ -143,7 +143,9 @@ Like 3/5, this style has a severe disadvantage when the pattern is heavy on 1/3 
 
 [Example - TAKA.S playing Mendes black](https://www.youtube.com/watch?v=r0uGrdFWzzc)
 
-[Example - NEON](https://www.youtube.com/watch?v=S70FbSZGX8o)
+[Example - NEON playing Troopers CS Kaiden](https://www.youtube.com/watch?v=S70FbSZGX8o)
+
+[Example - nsi playing Insane Kaiden](https://www.youtube.com/watch?v=uP2_JmijuDE)
 
 ## 3/4 split - right hand (4567)
 
@@ -161,9 +163,17 @@ The first two styles - ring on 7 and pinky on 7 - are the two popular choices. O
 
 A variant of this style is called flat pinky; here, you use the blade of your pinky instead of the tip to hit 7.
 
+### Others
+
+Other combinations are rarely sighted but they do exist (index-thumb-ring-pinky, index-middle-ring-pinky).
+
+A special case is middle-index-ring-thumb - [DJ EBY](https://www.youtube.com/watch?v=SxDMfP90iXU)
+
 ---
 
 ## 2/5 split (S+12 / 34567)
+
+It's worth noting here that most players use one of the 3/4 split playstyles above as their primary style, and **2/5 as a secondary option** for heavy scratch-sections. There are not many players who who use a 2/5 playstyle as their primary one. The videos below are shown only to illustrate the respective styles.
 
 ### Left hand (S+12)
 
@@ -203,10 +213,28 @@ You use all of your fingers to hit buttons 3-7. Not as common as it is not very 
 
 [Example - SHD playing MENDES](https://www.youtube.com/watch?v=GFW9w0H50l8)
 
+## Others
+
+### Hokuto (北斗)
+
+Hokuto is a style that does not have a static assignment of fingers to buttons, instead moving the hands around to hit buttons as the chart demands. Hokuto players tend to use a limited set of fingers (usually index and middle, sometimes thumb).
+
+[Example - DJ MASA](https://www.nicovideo.jp/watch/sm21496368)
+
+### Freeform (?)
+
+While this isn't strictly a playstyle, it's worth highlighting here. Before the difficulty spiked through the roof in IIDX -- perhaps before Spada - it was not uncommon to see high level players use unconventional playstyles to handle certain sections of a chart. Dolce was well known for this; if you watch his old videos this is evident. The difference between this "freeform" vs. hokuto is that freeform players still have some sort of a primary playstyle that is more conventional.
+
+[Example - Scripted Connection A mix by KAME](https://www.youtube.com/watch?v=mNg3u2faqOM)
+
+[Example - Second Heaven by DOLCE](https://www.youtube.com/watch?v=4k9kU18UK9M) which was taken on SIRIUS. Compare this to more [recent example taken during Cannon Ballers](https://www.youtube.com/watch?v=HQWQdV9EtDw).
+
 ## References
 
 License for this page: CC BY-NC-SA 2.0 KR
 
 This page is based a translation of [this page on namu.wiki](https://namu.wiki/w/beatmania%20IIDX/%EC%86%90%EB%B0%B0%EC%B9%98).
+
+[Another video on playstyles](https://www.youtube.com/watch?v=NN7S5TDdx4U&t=87s).
 
 Also see [the blog entry from the-safari on playstyles](https://the-safari.com/2913).
