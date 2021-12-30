@@ -60,7 +60,7 @@ In this variation of 1048, you use your wrist for the turntable.
 ![wristing](/assets/img/playstyle/wrist.jpg)
 {: .image_container }
 
-It was not a major playstyle in the past, but more IIDX players started to adopt it after Lincle relaxed the timing window in scratch notes. It was popularized by insane BMS players who played with this style on the original JKOC controller.
+It was not a major playstyle in the past, but more IIDX players started to adopt it when more high density charts were added (perhaps around Spada when Leggendaria was introduced). It was initially popularized by insane BMS players who played with this style on the original JKOC controller, where the turntable distance is shorter.
 
 Most players shift their entire body slightly to the side, so that you can place your scratch arm almost perpendicular to the cabinet.
 
@@ -72,16 +72,16 @@ Wristing has been a controversial among traditional players in the past, but as 
 
 [Example: CHEPY](https://www.youtube.com/watch?v=23USdSAx1ow)
 
-### Middle-index-thumb (aka Dolce style)
+### Middle-index-thumb (aka "Dolce style")
 
-In the past, this was one of the popular playstyles. While this is known as Dolce style, it is a bit of a misnomer, as he uses a variety of playstyles -- whatever suits the song he is playing.
+In the past, this was one of the popular playstyles. While this is known as Dolce style, it is a bit of a misnomer, as he uses a variety of playstyles.
 
 ![dolce style](/assets/img/playstyle/dolce.png)
 {: .image_container }
 
 The issue with this playstyle is that you need to bend your middle finger a lot, since it's much longer than your thumb. For this reason, it may be difficult to time on buttons 1 and 2, and you may have difficulties hitting 1-2 trills or denim patterns.
 
-[Example: DOLCE, especially around 30 second mark](https://www.youtube.com/watch?v=33Ki2EbANGU)
+[Example: DOLCE, especially around 30 second mark](https://www.youtube.com/watch?v=33Ki2EbANGU). Compare to [more recent video of him playing the same chart where he's mostly using 1048](https://www.youtube.com/watch?v=iaqDGkNgquk).
 
 ### Symmetric
 
@@ -223,11 +223,30 @@ Hokuto is a style that does not have a static assignment of fingers to buttons, 
 
 ### Freeform (?)
 
-While this isn't strictly a playstyle, it's worth highlighting here. Before the difficulty spiked through the roof in IIDX -- perhaps before Spada - it was not uncommon to see high level players use unconventional playstyles to handle certain sections of a chart. Dolce was well known for this; if you watch his old videos this is evident. The difference between this "freeform" vs. hokuto is that freeform players still have some sort of a primary playstyle that is more conventional.
+While this isn't strictly a playstyle, it's worth highlighting here. Before the difficulty spiked through the roof in IIDX -- perhaps before Spada - it was not uncommon to see high level players use unconventional playstyles. These days, this technique is seen less often but still used by some plaeyrs to handle certain patterns -- like denims and rapid jacks.
+
+Dolce was well known for this; if you watch his old videos this is evident. The difference between this "freeform" vs. hokuto is that freeform players still have some sort of a primary playstyle that is more conventional.
 
 [Example - Scripted Connection A mix by KAME](https://www.youtube.com/watch?v=mNg3u2faqOM)
 
 [Example - Second Heaven by DOLCE](https://www.youtube.com/watch?v=4k9kU18UK9M) which was taken on SIRIUS. Compare this to more [recent example taken during Cannon Ballers](https://www.youtube.com/watch?v=HQWQdV9EtDw).
+
+### One hand
+
+Two types of one hand players:
+
+1. players who choose to play SP one-handed
+1. players who use one hand technique for things like scratch-heavy charts
+
+Example of one-hand only players:
+
+[One-handed Copula SP Kaiden by MESO](https://www.youtube.com/watch?v=g0NxxG_jY-4&t=1s) - their newer videos are also worth a watch.
+
+Examples of one-hand technique used in scratch-heavy songs:
+
+[灼熱Beach Side Bunny by DJ BY](https://www.youtube.com/watch?v=TpPs9DU72g4)
+
+[Samurai Scramble SPL by SILON](https://www.youtube.com/watch?v=s1tnYSCrJbk)
 
 ## References
 
