@@ -223,7 +223,7 @@ Hokuto is a style that does not have a static assignment of fingers to buttons, 
 
 ### Freeform (?)
 
-While this isn't strictly a playstyle, it's worth highlighting here. Before the difficulty spiked through the roof in IIDX -- perhaps before Spada - it was not uncommon to see high level players use unconventional playstyles. These days, this technique is seen less often but still used by some plaeyrs to handle certain patterns -- like denims and rapid jacks.
+While this isn't strictly a playstyle, it's worth highlighting here. Before the difficulty spiked through the roof in IIDX -- perhaps before Spada - it was not uncommon to see high level players use unconventional playstyles. These days, this technique is seen less often but still used by some players to handle certain patterns -- like denims and rapid jacks.
 
 Dolce was well known for this; if you watch his old videos this is evident. The difference between this "freeform" vs. hokuto is that freeform players still have some sort of a primary playstyle that is more conventional.
 
@@ -235,7 +235,7 @@ Dolce was well known for this; if you watch his old videos this is evident. The 
 
 Two types of one hand players:
 
-1. players who choose to play SP one-handed
+1. players who choose to play SP one-handed exclusively
 1. players who use one hand technique for things like scratch-heavy charts
 
 Example of one-hand only players:
