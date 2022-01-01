@@ -325,6 +325,8 @@ On e-amuse play customize page, it is possible to adjust the size of the bomb.
     <div style="clear:both;"></div>
 </div>
 
+You can watch all of bombs [in this video](https://youtu.be/SOmrDaGYnqI).
+
 ## Source
 
 [CastHour official web page (requires basic subscription)](https://p.eagate.573.jp/game/2dx/29/index.html)

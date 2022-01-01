@@ -109,6 +109,8 @@ All resources obtained from the official website only. Please do not request hig
   <div style="clear:both;"></div>
 </div>
 
+You can watch all of the full combo animations [in this video (timestamp 2:43)](https://youtu.be/SOmrDaGYnqI?t=163).
+
 ## Source
 
 [CastHour official web page (requires basic subscription)](https://p.eagate.573.jp/game/2dx/29/index.html)
