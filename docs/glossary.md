@@ -69,6 +69,35 @@ When the random option results in a "bad" pattern, making it particularly harder
 * 🇯🇵 ボタン
 * 🇰🇷 버튼
 
+### Dan (Class)
+
+Here is the list of class mode ratings (dans). Going from lowest to the highest:
+
+Kyu
+
+* 七級 7급 7th kyu
+* 六級 6급 6th kyu
+* 五級 5급 5th kyu
+* 四級 4급 4th kyu
+* 三級 3급 3rd kyu
+* 二級 2급 2nd kyu
+* 一級 1급 1st kyu
+
+Dan
+
+* 初段 초단 shodan (1st dan)
+* 二段 2단 2nd dan
+* 三段 3단 3rd dan
+* 四段 4단 4th dan
+* 五段 5단 5th dan
+* 六段 6단 6th dan
+* 七段 7단 7th dan
+* 八段 8단 8th dan
+* 九段 9단 9th dan
+* 十段 10단 10th dan
+* 中伝 중전 chuuden 
+* 皆伝 개전 kaiden
+
 ### Earth power
 
 * 🇯🇵 地力
