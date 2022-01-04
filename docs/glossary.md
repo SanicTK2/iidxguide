@@ -17,7 +17,7 @@ nav_order: 800
 {:toc}
 </details>
 
-### Introduction
+## Introduction
 
 This is by no means a complete set of vocabulary used by IIDX players, but I will try to cover the common ones used in conversations and explain their meanings / origins wherever possible. Japanese, Korean, and English are the three commonly used languages in the community, so the equivalents will be covered in all three.
 
