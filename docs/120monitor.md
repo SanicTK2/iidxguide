@@ -81,6 +81,12 @@ For reference, [according to this page](https://land3939.info/mgame/1148), Light
 
 43", VA panel, 4K, HDMI 2.1. Available for around $1050. [Tom's hardware review](https://www.tomshardware.com/reviews/gigabyte-aorus-fv43u-review-king-of-the-43-inch-class).
 
+### Gigabyte Aorus FO48U
+
+[Official website](https://www.gigabyte.com/Monitor/AORUS-FO48U)
+
+48" OLED, 120Hz, HDMI 2.1. [rtings review](https://www.rtings.com/monitor/reviews/gigabyte/aorus-fo48u-oled)
+
 ## TVs
 
 There are also a handful of TVs that are small enough (less than 55") and support native 120Hz input; e.g.,
