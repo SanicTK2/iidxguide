@@ -58,6 +58,8 @@ There really isn't a "trick" to handle these, since practice is the best answer 
 
 This is a list of recommended charts for practicing scratches + hitting notes at the same time (and not just scratch-heavy charts). Highly recommended charts highlighted in **bold**.
 
+You should try to play these with hard gauge.
+
 ### ☆8
 
 * 19,November
@@ -71,8 +73,10 @@ This is a list of recommended charts for practicing scratches + hitting notes at
 ### ☆9
 
 * Bounce Bounce Bounce
+* BroGamer
 * **Cheer Train**
 * Close my Eyes for Me
+* Cyber True Color
 * **Digitank System**
 * Make Me Your Own
 * NEWALONE
@@ -93,11 +97,16 @@ This is a list of recommended charts for practicing scratches + hitting notes at
 * D.A.N.C.E.!
 * Dynamite [BSS]
 * Feedback
+* Level One
 * Light Shine
+* **Macho Monky**
 * Make Me Your Own
 * **Mind Mapping (L)**
+* mosaic
 * Musik LoverZ
 * NO LIMIT -オレ達に限界は無い-
+* **Plan 8**
+* **Rampage**
 * Really Love
 * Red. by Full Metal Jacket
 * Snake Stick
@@ -160,6 +169,7 @@ This is a list of recommended charts for practicing scratches + hitting notes at
 * Level 3 [BSS]
 * **Level One [BSS]**
 * Lords Of The Roundtable [BSS]
+* mosaic
 * PLEASE DON’T GO
 * Papilio ulysses
 * **Plan 8**
