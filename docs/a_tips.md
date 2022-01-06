@@ -195,10 +195,11 @@ In the slow part of the speed-up, put all your focus on horizontal reading and h
 
 For the speed up part, consider temporarily switching to 2:5 formation, even if you don't use that play style very often.
 
+[Here is a video of the speed up in constant scroll speed.](https://www.youtube.com/watch?v=zyYFEKw5cGY)
+
 This video might also help; a bit outdated, but it explains how certain sections can be simplified or done with anmitsu.
 
-[http://www.nicovideo.jp/watch/sm7079375](http://www.nicovideo.jp/watch/sm7079375) (original video in Japanese)
-
-[https://www.youtube.com/watch?v=yGhhqPJiJcM](https://www.youtube.com/watch?v=yGhhqPJiJcM) (Korean subtitled)
+* [http://www.nicovideo.jp/watch/sm7079375](http://www.nicovideo.jp/watch/sm7079375) (original video in Japanese)
+* [https://www.youtube.com/watch?v=yGhhqPJiJcM](https://www.youtube.com/watch?v=yGhhqPJiJcM) (Korean subtitled)
 
 Unfortunately, there is no English subtitle just yet.
