@@ -106,6 +106,14 @@ All resources obtained from the official website only. Please do not request hig
         <div class="customize_img"><img src="/assets/img/shop/fc/015.jpg" /></div>
         <div class="customize_label">BISTROVER SLASH</div>
     </div>
+    <div class="customize">
+        <div class="customize_img"><img src="/assets/img/shop/fc/015.jpg" /></div>
+        <div class="customize_label">BISTROVER SLASH</div>
+    </div>
+    <div class="customize">
+        <div class="customize_img"><img src="/assets/img/shop/fc/020.jpg" /></div>
+        <div class="customize_label">CastHour</div>
+    </div>
   <div style="clear:both;"></div>
 </div>
 
