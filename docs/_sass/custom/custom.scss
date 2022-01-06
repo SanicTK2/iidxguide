@@ -174,3 +174,52 @@ img.full_width {
 img.site_logo {
     max-height: 24px;
 }
+
+table.dantable th.title {
+    width: 50%;
+}
+
+table.dantable th.note_count {
+    width: 15%;
+}
+
+table.dantable th.level {
+    width: 10%;
+}
+
+table.dantable tr:nth-child(even) td {
+    background-color: rgb(62, 59, 69);
+}
+
+table.dantable th, table.dantable td {
+    padding-top: 0.2rem;
+    padding-right: 0.32rem;
+    padding-bottom: 0.2rem;
+    padding-left: 0.32rem;
+    text-align: center;
+    border: none;
+}
+
+table.dantable tr:last-of-type td {
+    padding-bottom: 0.2rem;
+}
+
+table.dantable td.title_B {
+    color: lightgreen;
+}
+
+table.dantable td.title_N {
+    color: lightskyblue;
+}
+
+table.dantable td.title_H {
+    color: orange;
+}
+
+table.dantable td.title_A {
+    color: red;
+}
+
+table.dantable td.title_L {
+    color: violet;
+}
