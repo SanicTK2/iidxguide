@@ -23,6 +23,8 @@ List of customization options for full combo animation.
 
 All resources obtained from the official website only. Please do not request high resolution images.
 
+You can watch all of the full combo animations [in this video (timestamp 2:43)](https://youtu.be/SOmrDaGYnqI?t=163).
+
 ## Full Combo effect
 
 <div>
@@ -116,8 +118,6 @@ All resources obtained from the official website only. Please do not request hig
     </div>
   <div style="clear:both;"></div>
 </div>
-
-You can watch all of the full combo animations [in this video (timestamp 2:43)](https://youtu.be/SOmrDaGYnqI?t=163).
 
 ## Source
 
