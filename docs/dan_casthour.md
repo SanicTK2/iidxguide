@@ -17,6 +17,10 @@ permalink: /dan/casthour
 {:toc}
 </details>
 
+## Terminology
+
+{% include_relative danlist/dan_legend.html %}
+
 ## SP
 
 {% include_relative danlist/casthour_sp.html %}

@@ -204,22 +204,27 @@ table.dantable tr:last-of-type td {
     padding-bottom: 0.2rem;
 }
 
-table.dantable td.title_B {
+table.dantable td.title_B, 
+span.dan_title_B {
     color: lightgreen;
 }
 
-table.dantable td.title_N {
+table.dantable td.title_N,
+span.dan_title_N {
     color: lightskyblue;
 }
 
-table.dantable td.title_H {
+table.dantable td.title_H,
+span.dan_title_H {
     color: orange;
 }
 
-table.dantable td.title_A {
+table.dantable td.title_A,
+span.dan_title_A {
     color: red;
 }
 
-table.dantable td.title_L {
+table.dantable td.title_L,
+span.dan_title_L {
     color: violet;
 }
