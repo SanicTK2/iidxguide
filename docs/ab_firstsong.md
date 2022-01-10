@@ -21,19 +21,37 @@ redirect_from:
 
 ## Song select
 
-Use the turntable to scroll through the songs, and press one of the white keys to confirm (a single tap will immediately start the song!). 
-
-The song select screen is in a folder layout. Initially you'll be in the "Beginners" folder which has easy charts for new players, which is good for absolute beginners. If you want to play slightly harder songs, you can close the folder by pressing one of the black keys and scroll through other folders.
-
 ![song select](/assets/img/song_select.jpg)
 
-Folders of interest:
+### Controls
+
+#### Basic Controls
+
+* Turntable scrolls through the list. 
+* White key opens a folder, or selects a song (which will immediately being playing!)
+* Black key closes the current folder.
+
+#### Additional controls
+
+* Press or hold Start to open the options menu. This is [explained later in detail](/beginner/option).
+* Press 1 to change difficulty (Beginner / Normal / Hyper / Another / Leggendaria)
+* Press 2 to change the sorting; you can press this repeatedly.
+* Press 3 to switch between Single Play (SP) and Double Play (DP).
+* Note that on the lightning cab, the keypad on the touchscreen is not shown by default; tap on the top left or top right corner to open it.
+
+### Choosing your first song
+
+Use the turntable to scroll through the songs, and press one of the white keys to confirm (a single tap will immediately start the song!). 
+
+The song select screen is in a folder layout. Initially you'll be in the "Beginners" folder which has easy charts for new players. If you want to play slightly harder songs, you can close the folder by pressing one of the black keys and scroll through other folders.
+
+## Folders of interest
 
 * ALL BEGINNER which is a collection of beginner friendly charts.
 * DIFFICULTY (Level 1, Level 2...) folders which has songs for that difficulty.
 * STYLE folders (BISTROVER, HEROIC VERSE, etc) which has songs sorted by the version they appeared in. Watch out for what difficulty chart you are playing.
 
-Regarding chart difficulties:
+## Regarding chart difficulties
 
 * Each chart is rated from 1-12; stick to levels 1-3 for now if you are starting out.
 * Each song can have up to five charts with different difficulties: beginner, normal, hyper, another, and leggendaria. You can use the VEFX Change or "1" on the numpad (or the touchscreen) to switch between difficulties. But stick to beginner or normal for now.
