@@ -51,7 +51,7 @@ If your main goal is gaining in IIDX, BMS -- especially Insane BMS -- does has a
 Important differences to note (vs. IIDX):
 
 1. In general, timing is much more relaxed for BMS. See [this page](/misc/iidx_lr2_beatoraja_diff) for full details.
-1. There are slight differences in gameplay, biggest one being how charge notes work. In LR2, and in the default mode of beatoraja, charge notes have a judgement in the beginning, but unlike IIDX, there is no judgement for release.
+1. There are slight differences in gameplay, biggest one being how charge notes work. In LR2, and in the default mode of beatoraja, charge notes have a judgement in the beginning, but unlike IIDX, there is no judgement for release. Excessive POORs also work differently in LR2.
 1. Most of the time, charting style tends to be much more straightforward, focused on high density - often lacking "gimmicks" elements like BPM changes or scratch-heavy patterns.
 
 ## When should I start playing Insane BMS?
@@ -81,6 +81,10 @@ Follow [LR2 Guide](https://news.keysounds.net/lr2guide) on how to set it up. Als
 beatoraja is the *new gen* BMS player that is gaining traction. It is open source, which is a huge plus for community development. It is also packed with many features missing from LR2. The only downside is that its internet ranking community is fragmented across different services (not that it's a huge issue, since actual top players only play on LR2 with LR2IR anyway).
 
 Follow [beatoraja guide](https://github.com/wcko87/beatoraja-english-guide/wiki) to learn about getting started.
+
+#### LR2oraja
+
+This is a fork of beatoarja that aims to use LR2 gauge and timing. [LR2oraja on GitHub](https://github.com/wcko87/lr2oraja/)
 
 ## Where do I download songs?
 
