@@ -72,9 +72,9 @@ Getting a MAX (sometimes MAX+0, MAX-0, or 理論値) refer to obtaining the theo
 
 ### All time records
 
-To put things in to perspective, for AC scores, as of November 2021:
+To put things in to perspective, for AC scores, as of January 2022:
 
-* All SP top scores are in MAX- range, except Mare Nectaris which is in the AAA+ range. Two songs (Mosaic and GRID KNIGHT L) have been MAX'd.
+* All SP top scores are in MAX- range. Two songs (Mosaic and GRID KNIGHT L) have been MAX'd.
 * All DP top scores have AAA or above, except Mare Nectaris.
 
 ## DJ POINT
