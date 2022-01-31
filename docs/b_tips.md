@@ -87,7 +87,7 @@ The level of charts you are playing as a beginner do not call for wristing, it s
 
 ## What is the ideal playstyle for beginners, then?
 
-Here is a **suggestion** as to how you could be playing, but feel free to experiment with other popular playstyles!
+Here is a **suggestion** as to how you could be playing, but feel free to experiment with other popular playstyles! Also feel free to check out [the playstyles page](/compendium/sp_playstyle) which has more details on other common styles.
 
 ### Left hand
 
@@ -141,7 +141,7 @@ Index on 4, thumb on 5, middle on 6, and ring finger on 7. Pinky is normally not
 
 You should also be flexible enough to hit 3 with your thumb.
 
-#### Other styles
+### Other styles
 
 Please check out [the playstyles page](/compendium/sp_playstyle).
 
