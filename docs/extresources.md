@@ -126,3 +126,19 @@ Twitter account for SP top score updates. Not a bot!
 [Link to Google Sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSDnXSI5I-YDVOW5ZSjLW1Aqnf3Ek8X48hZAoi6iefGnZOFtHz7PFN8OUUgN9o25gRDfWnUXZyYg4tF/pubhtml)
 
 Currently the de facto standard place for keeping track of all time high scores for SP 12s, after the shutdown of rekidai.info.
+
+## Tools
+
+### IIDX Input Capturer
+
+[https://masaoblue.github.io/iidx_input_capturer.html](https://masaoblue.github.io/iidx_input_capturer.html)
+
+Visualizer for key presses, designed to work with Konami official controllers.
+
+### BeatCounter
+
+[https://twitter.com/0miki0\_/status/1472905741422174214](https://twitter.com/0miki0_/status/1472905741422174214)
+
+[Download](https://drive.google.com/drive/folders/10_O9xG6mcu6AcBPjI5Gde5jkbkaKQzC1)
+
+Another visualizer for key presses, this one is much simpler, works well with Dao controllers.
