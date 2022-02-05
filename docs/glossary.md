@@ -50,6 +50,13 @@ When you get the hard clear lamp or above on all songs (typically for a folder, 
 
 全白 is "all white" since the hard clear lamp is white in color. 표백 means to "bleach".
 
+### All-time record
+
+* 🇯🇵 歴代
+* 🇰🇷 역대
+
+The word 歴代 / 역대 refer to "all time" as in all-time high score records set across past and present versions.
+
 ### Another
 
 * 🇯🇵 穴
@@ -63,6 +70,12 @@ The **Another** difficulty of a chart, as opposed to Normal or Hyper. 穴 is pro
 * 🇰🇷 똥배치, 똥배
 
 When the random option results in a "bad" pattern, making it particularly harder to clear or to score.
+
+### BP
+
+BP = Bad Poor = Miss Count
+
+GBP = Good Bad Poor
 
 ### Buttons
 
@@ -192,6 +205,15 @@ Contrasted with [earth power](#earth-power), these are set of skills that are ou
 
 High-level BMS charts, and community-curated collection of charts, and difficulty tables. [See this page for details](/advanced/bms_intro).
 
+### MAX
+
+* 🇯🇵 理論値
+* 🇰🇷 이론치
+
+MAX refers to receiving the theoretical maximum score (all PGREATS). MAX-10 would be being 10 points away from MAX.
+
+理論値 / 이론치 mean "theoretical value" commonly used in other games but in IIDX people usually just say MAX.
+
 ### Mirror
 
 * also: mir
@@ -207,6 +229,10 @@ Play option used to flip the lanes horizontally, see [this page](/compendium/ran
 * 🇰🇷 정배, 정배치
 
 Playing without random or mirror options enabled.
+
+### Perfect
+
+Perfect refers to receiving PGREAT or GREAT judgement on every note. Excessive POORs are irrelevant.
 
 ### Random (the option)
 
