@@ -118,6 +118,7 @@ You should try to play these with hard gauge.
 * オレはビートマニア！お前は何マニア？
 * ラクエン Feat.Chiharu Chonan -JAKA respect for K.S.K. Remix (Infinitas only)
 * 灼熱Beach Side Bunny
+* 灼熱Beach Side Bunny (Masayoshi Iimori Remix)
 * 雪月花
 
 ### ☆11
