@@ -99,37 +99,3 @@ There are also a handful of TVs that are small enough (less than 55") and suppor
 ... and so on. This is a rapidly growing segment especially in 2021 -* you should look for reviews on [rtings.com](https://rtings.com). Make sure the size of TV you are buying actually uses a 120Hz panel * it is common for TV manufacturers to use 120Hz panels for larger sizes but only 60Hz for smaller sizes of the same model -* Samsung is the worst offender in this regard.
 
 It's also worth noting that most TVs use a glossy screen, while most monitors use a matte screen. While glossy screens look nicer, glare from other light sources can be distracting when playing IIDX.
-
-## Touch screen monitors
-
-As a bonus, here are small-ish touch screen monitors and their response time (poll time) measured with [mouserate application](https://www.softpedia.com/get/System/System-Miscellaneous/Mouse-Rate-Checker.shtml#:~:text=Mouse%20Rate%20Checker%20is%20a%20lightweight%20piece%20of,are%20using%20tools%20or%20games%20with%20high-frame%20rates.).
-
-### Dell S2240T
-
-* 2013 Manufacturing Date: <span style="color: #04ca04;">200Hz</span>
-* 2014 Manufacturing Date:
-  * <span style="color: #04ca04;">May: 200Hz</span>
-  * <span style="color: green;">September: 180Hz</span>
-* 2015 Manufacturing Date:
-  * <span style="color: #04ca04;">March: 200Hz</span>
-  * <span style="color: #04ca04;">September: 200Hz</span>
-* Late 2016 Manufacturing Date: <span style="color: #d57b00;">140Hz</span>
-* Early 2017 Manufacturing Date: <span style="color: green;">180Hz</span>
-* Mid 2017 Manufacturing Date: <span style="color: #d57b00;">140Hz</span>
-* February 2018 Manufacturing Date: <span style="color: green;">180Hz</span>
-
-### Dell P2314T
-
-* November 2015 Manufacturing Date: <span style="color: #b70e25;">60Hz</span>
-
-### Dell P2418HT
-
-* May 2018 Manufacturing Date: <span style="color: #b70e25;">60Hz</span>
-
-### Iiyama T2336MSC
-
-* Revision B1: <span style="color: green;">180Hz</span>
-
-### Philips 242B9T
-
-* August 2021: <span style="color: #d57b00;">130Hz</span>
