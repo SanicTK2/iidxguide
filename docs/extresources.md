@@ -25,6 +25,12 @@ permalink: /external_resources
 
 Database of viewable IIDX charts, past and present, SP and DP, AC and CS.
 
+### IIDX tier list (len-ch.com) (Korean)
+
+[https://iidx.len-ch.com/](https://iidx.len-ch.com/)
+
+Replacement for insane.pe.kr (which is no longer maintained). This one is being actively updated. Tier lists for SP12H/SP12/SP11H, DP12/11/10.
+
 ### statistik (English)
 
 [http://statistik.benhgreen.com/](http://statistik.benhgreen.com/)
@@ -52,16 +58,6 @@ For example, Lightning Model cabs have (approximately) [42" monitor at 67cm away
 [https://sp12.iidx.app/](https://sp12.iidx.app/)
 
 Tier list and lamp tracker for SP 12 normal gauge, hard gauge, and ex-hard gauge. Frequently updated. You must create an account to enter your lamps.
-
-### insane.pe.kr (Korean)
-
-[https://iidx.insane.pe.kr/](https://iidx.insane.pe.kr/)
-
-Tier lists and lamp tracker for SP8-SP12, and DP8-DP12.
-
-Infrequently updated, but it's definitely maintained and not abandoned (as of May 2021).
-
-Originally, it integrated with iidx.me (automatic score importer for eamuse) but iidx.me has been shut down.
 
 ### CPI Clear Power Indicator (Japanese)
 
