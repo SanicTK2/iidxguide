@@ -97,6 +97,12 @@ HTML5 version of the Flash animation used to generate hand position diagrams.
 
 Score tracking, lamp tracking, and top ranker tracker for DP players. You must have 10th dan and above on official eamuse to import your scores.
 
+### lamp table using ereter.net data
+
+[https://nyan.ch/ereter-dp/](https://nyan.ch/ereter-dp/)
+
+Uses your ereter.net information to generate a tier table with lamps colored in.
+
 ### DP Unofficial Tier Table (Japanese)
 
 [https://zasa.sakura.ne.jp/dp/](https://zasa.sakura.ne.jp/dp/)
