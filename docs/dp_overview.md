@@ -134,12 +134,13 @@ If you feel that one hand is severely behind the other hand, you should try play
 
 ### Should I be using DBM and DBR as practice?
 
-The general consensus among DP players is that DBM is not too useful for practicing DP. The issue is that skills required to play DBM are vastly different from what regular DP requires.
+The general consensus among DP players is that DBM should not be a replacement practicing DP. The issue is that skills required to play DBM are vastly different from what regular DP requires.
 
 DBM can still be useful for:
 
 * [as a learning tool for players new to DP](/dp/intro_by_chicken)
 * When you need to bring up your non-dominant hand up to speed with your dominant hand; e.g., if your left hand is significantly worse than your right hand, when your left hand can't hit certain chords that your right hand can.
+* Learning a specific set of skills; e.g., stairs.
 * Having fun with symmetric charts.
 
 DBR is an extremely useful tool but it is very difficult. It's suggested that you wait until you reach mid-tier 12s; at that point DBR can be a valuable practice.
