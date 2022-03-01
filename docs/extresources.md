@@ -43,13 +43,19 @@ User-submitted difficulty rating for charts. Useful for seeing what options othe
 
 Remywiki is a wiki for all things BEMANI related. Lots of useful historical information there.
 
-### FOV Calculator
+### FOV Calculator (English)
 
 [https://andyf.me/fovcalc.html](https://andyf.me/fovcalc.html)
 
 This is used to calculate FOV values for various racing games, but it can also be used to figure out the screen distance for your home IIDX / BMS setup, in case your monitor is smaller or larger than cab monitors.
 
 For example, Lightning Model cabs have (approximately) [42" monitor at 67cm away from bottom edge of the control deck](/cab_dimensions), which gives RBR value of 0.960. To get an equivalent experience with a 32" monitor, you would put the screen at 51cm away.
+
+### Z-i-v Arcade locator (English)
+
+[https://zenius-i-vanisher.com/v5.2/arcades.php](https://zenius-i-vanisher.com/v5.2/arcades.php)
+
+An interactive map of arcades worldwide.
 
 ## SP
 
@@ -97,7 +103,7 @@ HTML5 version of the Flash animation used to generate hand position diagrams.
 
 Score tracking, lamp tracking, and top ranker tracker for DP players. You must have 10th dan and above on official eamuse to import your scores.
 
-### lamp table using ereter.net data
+### lamp table using ereter.net data (Korean)
 
 [https://nyan.ch/ereter-dp/](https://nyan.ch/ereter-dp/)
 
@@ -131,13 +137,13 @@ Currently the de facto standard place for keeping track of all time high scores 
 
 ## Tools
 
-### IIDX Input Capturer
+### IIDX Input Capturer (Japanese)
 
 [https://masaoblue.github.io/iidx_input_capturer.html](https://masaoblue.github.io/iidx_input_capturer.html)
 
 Visualizer for key presses, designed to work with Konami official controllers.
 
-### BeatCounter
+### BeatCounter (Japanese)
 
 [https://twitter.com/0miki0\_/status/1472905741422174214](https://twitter.com/0miki0_/status/1472905741422174214)
 
