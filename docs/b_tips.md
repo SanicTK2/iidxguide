@@ -32,6 +32,7 @@ This is a common pitfall. You may be tempted to turn on auto scratch because you
 You may have heard of the term "pinky scratch" - but in reality this is more about using your ring and/or pinky fingers to turn the turntable. This is in contrast to completely lifting your hand away from the keys for the turntable, which was actually common during 5-key beatmania days!
 
 ![pinky scratch example](/assets/img/playstyle/35.png){: .half_width }
+{: .image_container }
 
 The idea of pinky scratching is to have most of your hand stay on *some* of the keys, and reaching out your ring/pinky fingers to also use the turntable. This is a critical skill that you must learn.
 
@@ -111,6 +112,8 @@ Why this style for beginners?
 ![1048 style](/assets/img/playstyle/1048.png){: .half_width }
 {: .image_container }
 
+Thumb on 1, **middle finger** on 2, and **index** finger on 3.
+
 It is also useful to start learning 1048 if you wish. This style is extremely useful for high density charts that you will be facing as you go into higher level charts. The downside is that it has a steep learning curve initially due to it's somewhat unnatural formation.
 
 However -- it is not yet necessary as a beginner. It's just that if you can get used to this early on, you will benefit later on when it is time to learn it.
@@ -121,14 +124,14 @@ For right hand (left hand if you're 2p player), you only really have two choices
 
 **In either case, you should be flexible enough to hit 3 with your thumb when the situation calls for it.**
 
-Why is this one recommended over ring on 7? For most people, it seems like using the pinky is less tiring than ring finger, and the pinky tend to be more independent in terms of movement. This is a personal preference, of course.
-
 #### Pinky on 7 (Recommended)
 
 ![pinky on 7](/assets/img/playstyle/righthand_noring.png){: .half_width }
 {: .image_container }
 
 Index on 4, thumb on 5, middle on 6, and pinky on 7. Ring finger is normally not used.
+
+Why is this one recommended over ring on 7? For most people, it seems like using the pinky is less tiring than ring finger, and the pinky tend to be more independent in terms of movement. This is a personal preference, of course.
 
 There is a variation of called "flat pinky" where you use the side of your pinky instead of the tip. Some people find this more comfortable.
 
@@ -139,7 +142,6 @@ There is a variation of called "flat pinky" where you use the side of your pinky
 
 Index on 4, thumb on 5, middle on 6, and ring finger on 7. Pinky is normally not used.
 
-You should also be flexible enough to hit 3 with your thumb.
 
 ### Other styles
 
