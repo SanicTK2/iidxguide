@@ -7,7 +7,7 @@ future: true
 
 # for just-the-docs
 
-ga_tracking: UA-196434487-1
+ga_tracking: G-Q7FL9LGD9D
 ga_tracking_anonymize_ip: true
 
 back_to_top: true
