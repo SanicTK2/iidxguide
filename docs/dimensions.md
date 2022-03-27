@@ -23,8 +23,6 @@ redirect_from:
 
 Everyone is off by plus or minus a few centimeters, including this page. People use slightly different start / end points when measuring. Use it as an approximate guidance and not exact measurements.
 
-For the lightning cabinet, the values were obtained using a measuring tape.
-
 ## Height from bass platform to keys
 
 The height from top of the bass platform to the button panel is **90cm**. It is the same for both Lightning Model cabinets and the old cabs. This is measured from the top surface of the bass platform to the top of the acrylic panel that the buttons are inserted to.
@@ -43,9 +41,7 @@ On old cabs, distance from top of the bass platform to the red judgement line is
 
 Measured from the right edge of 1P button 7 to left edge of 2P button 1 - it should be around **19.0-19.2cm**. The edge starts where the button holder (black plastic) ends. There is a little bit of a wiggle room as to how buttons are inserted, hence a few millimeters of variance.
 
-For SP players -- using the above measurement, we can derive that:
-
-* Rightmost edge of 1P button 7 (or leftmost edge of 2P button 1) is around **9.5 cm** away from the horizontal center of the screen.
+For SP players -- this means that rightmost edge of 1P button 7 (or leftmost edge of 2P button 1) is around **9.5 cm** away from the horizontal center of the screen.
 
 This assumes that you are using the same size monitor as the arcade, though. If your screen is smaller, you'll want to move a little closer to the middle.
 
