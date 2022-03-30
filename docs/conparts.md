@@ -122,13 +122,13 @@ Sanwa buttons come with V-10-1A4 (100g) switches and 100N Sanwa springs.
   * [Sanwa Denshi - with 12V red LED](https://item.rakuten.co.jp/sanwadenshi/ilumb_099/)
   * [Sanwa Denshi - no LED](https://item.rakuten.co.jp/sanwadenshi/ilumb_100/)
   * [ISTMall](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239)
-  * [GAMO2 - with 12V red LED](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=256)
+  * [GAMO2 - no switch no LED](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=256)
 * Sanwa OBSA-45UK-K/W-LN
   * black buttons
   * [Sanwa Denshi - with 12V red LED](https://item.rakuten.co.jp/sanwadenshi/ilumb_097/)
   * [Sanwa Denshi - no LED](https://item.rakuten.co.jp/sanwadenshi/ilumb_098/)
   * [ISTMall](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239)
-  * [GAMO2 - with 12V red LED](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=255)
+  * [GAMO2 - no switch no LED](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=255)
 
 ### Samduck-sa buttons
 
