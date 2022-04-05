@@ -44,7 +44,7 @@ Original source is [this image](https://www.gamo2.com/en/images/companies/1/ss00
 
 ## Troubleshooting your DAO, follow in order without skipping steps:
  
-0. Have you ever installed a driver to make PS3/4 DualShock controllers work on your PC? If so, uninstall them right now. They tend to cause trouble with other controllers. Also please please please turn off joy2key if you have it running.
+0. Have you ever installed a driver to make PS3/4 DualShock controllers work on your PC? If so, uninstall them right now [following instructions in this link](https://kanuan.github.io/DS4WSite/guides/uninstalling-ds4windows/). They tend to cause trouble with other controllers. Also please please please turn off joy2key if you have it running.
  
 1. Plug in BOTH red & black USB cables into USB ports in the rear of your computer. You must have both of them plugged in at all times in order for your controller to function properly. If you don't have enough ports on your computer, you could use a POWERED USB hub. (If your USB hub plugs into the wall socket, it's powered. If it doesn't, you have the wrong hub.)
  
