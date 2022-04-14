@@ -1,7 +1,10 @@
 ---
 title: Gauge Options
-parent: Compendium
-permalink: /compendium/gauge
+parent: Beginner
+nav_order: 19
+permalink: /beginner/gauge
+redirect_from:
+  - /compendium/gauge
 ---
 
 # Gauge Options
@@ -72,6 +75,10 @@ This is not a selectable option in Standard mode, but it is used during Class mo
 You start at 100%, and fail out at 2%. The gauge amount carries over from one stage to the next. It is like hard mode in that there is a halved decrease rate at 30%, but it is much, much more lenient.
 
 About 40 POORs in a row will bring your gauge down from 100% to 0%.
+
+#### EX-DAN gauge
+
+In Class mode, you can press VEFX Change button to switch to EX mode, which will turn on the harder DAN gauge. See [this page](/compendium/gauges_and_timing) for details.
 
 ## More details
 
