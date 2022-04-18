@@ -31,6 +31,12 @@ Database of viewable IIDX charts, past and present, SP and DP, AC and CS.
 
 Replacement for insane.pe.kr (which is no longer maintained). This one is being actively updated. Tier lists for SP12H/SP12/SP11H, DP12/11/10.
 
+### iidx.me (English)
+
+[https://iidx.me/](https://iidx.me/)
+
+Score tracker that pulls data from e-amusement.
+
 ### statistik (English)
 
 [http://statistik.benhgreen.com/](http://statistik.benhgreen.com/)
