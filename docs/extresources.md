@@ -19,6 +19,12 @@ permalink: /external_resources
 
 ## General
 
+### BemaniWiki 2nd (Japanese)
+
+[http://bemaniwiki.com/index.php?FrontPage](http://bemaniwiki.com/index.php?FrontPage)
+
+De facto standard place for all BEMANI related information. IIDX.org owes a lot to BemaniWiki.
+
 ### textage (Japanese)
 
 [https://textage.cc/score/index.html](https://textage.cc/score/index.html)
