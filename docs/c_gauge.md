@@ -51,7 +51,7 @@ Same as easy gauge, except that you only need 60% to pass the stage.
 ![hard gauge](/assets/img/gauge/hard.jpg)
 {: .image_container }
 
-This is the "survival" gauge - you start with 100%, and every BAD and POORs will decrease it. GOOD and above will still refill the gauge, although at a fixed rate. Once you hit 0%, you immediately fail out of the song.
+This is the "survival" gauge - you start with 100%, and every BAD and POORs will decrease it. GREAT and above will still refill the gauge, although at a fixed rate. Once you hit 0%, you immediately fail out of the song.
 
 About 14 POORs in a row will bring your gauge down from 100% to 0%.
 
